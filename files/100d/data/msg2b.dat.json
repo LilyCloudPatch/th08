@@ -1,0 +1,243 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th08_100d",
+  "resource": "data/msg2b.dat",
+  "entries": {
+    "0/60_0": {
+      "original_lines": [
+        "ちょ、ちょっと待って～！"
+      ],
+      "translated_lines": [
+        "等、等一下～！"
+      ]
+    },
+    "0/60_1": {
+      "original_lines": [
+        "あー？"
+      ],
+      "translated_lines": [
+        "啊—？"
+      ]
+    },
+    "0/60_2": {
+      "original_lines": [
+        "こんな夜中に何処に行こうっての？"
+      ],
+      "translated_lines": [
+        "这样的夜里你们这是去哪儿？"
+      ]
+    },
+    "0/63_0": {
+      "original_lines": [
+        "毎年恒例の妖怪退治強化月間だ。",
+        "妖怪の居る所なら何処にでも出かけるぜ。"
+      ],
+      "translated_lines": [
+        "现在是每年例行的降伏妖怪强化月。",
+        "有妖怪的地方都要去。"
+      ]
+    },
+    "0/63_1": {
+      "original_lines": [
+        "それは何？",
+        "私に喧嘩を売ってるの？"
+      ],
+      "translated_lines": [
+        "你什么意思？",
+        "要跟我打架吗？"
+      ]
+    },
+    "0/65_0": {
+      "original_lines": [
+        "魔理沙が妖怪退治なんて滑稽だわ。"
+      ],
+      "translated_lines": [
+        "魔理沙去降伏妖怪什么的太滑稽了。"
+      ]
+    },
+    "0/66_0": {
+      "original_lines": [
+        "おお？",
+        "私の妖怪退治の腕を知らないのか？"
+      ],
+      "translated_lines": [
+        "哦哦？",
+        "你不知道我降伏妖怪的技艺吗？"
+      ]
+    },
+    "0/67_0": {
+      "original_lines": [
+        "私が魔砲を放った後には、妖怪どころか",
+        "人間も残らない。"
+      ],
+      "translated_lines": [
+        "我那魔炮一放之后，别提妖怪",
+        "连人类都剩不下。"
+      ]
+    },
+    "0/67_1": {
+      "original_lines": [
+        "そこの人間。"
+      ],
+      "translated_lines": [
+        "那边的人类。"
+      ]
+    },
+    "0/68_0": {
+      "original_lines": [
+        "私の事、知らないのかしら。"
+      ],
+      "translated_lines": [
+        "你还不知道我吧。"
+      ]
+    },
+    "0/69_0": {
+      "original_lines": [
+        "あー？"
+      ],
+      "translated_lines": [
+        "啊—？"
+      ]
+    },
+    "0/70_0": {
+      "original_lines": [
+        "夜の道で私を恐れない人間はいないわ。"
+      ],
+      "translated_lines": [
+        "没有走夜路不怕我的人类。"
+      ]
+    },
+    "0/71_0": {
+      "original_lines": [
+        "その気になれば、人間なんか全滅する",
+        "位の多くの妖怪も呼べるわよ。"
+      ],
+      "translated_lines": [
+        "要是我有意，能叫来多得把",
+        "全人类都灭绝的妖怪哟。"
+      ]
+    },
+    "0/72_0": {
+      "original_lines": [
+        "……ふん、この夜雀風情が何を言うの。"
+      ],
+      "translated_lines": [
+        "……哼，你个夜雀说什么呢。"
+      ]
+    },
+    "0/73_0": {
+      "original_lines": [
+        "はっはっは～"
+      ],
+      "translated_lines": [
+        "哈哈哈～"
+      ]
+    },
+    "0/74_0": {
+      "original_lines": [
+        "この私が誰だか知らないと見える。"
+      ],
+      "translated_lines": [
+        "看来你是不知道我是谁。"
+      ]
+    },
+    "0/75_0": {
+      "original_lines": [
+        "人間でしょ？"
+      ],
+      "translated_lines": [
+        "是人类吧？"
+      ]
+    },
+    "0/76_0": {
+      "original_lines": [
+        "人間。"
+      ],
+      "translated_lines": [
+        "人类。"
+      ]
+    },
+    "0/77_0": {
+      "original_lines": [
+        "人間三昧。"
+      ],
+      "translated_lines": [
+        "彻头彻尾的人类。"
+      ]
+    },
+    "0/78_0": {
+      "original_lines": [
+        "いやまぁ。"
+      ],
+      "translated_lines": [
+        "哎呀嘛。"
+      ]
+    },
+    "0/79_0": {
+      "original_lines": [
+        "いい？",
+        "お前達は今夜から……"
+      ],
+      "translated_lines": [
+        "听好？",
+        "你们从今晚开始……"
+      ]
+    },
+    "0/80_0": {
+      "original_lines": [
+        "夜は目が見えなくなるよ。"
+      ],
+      "translated_lines": [
+        "夜里就会看不见东西了哟。"
+      ]
+    },
+    "1/60_0": {
+      "original_lines": [
+        "あー良く見える。",
+        "どんな暗闇もばっちりだぜ。"
+      ],
+      "translated_lines": [
+        "啊—看得好清楚。",
+        "不管多黑都清清楚楚的耶。"
+      ]
+    },
+    "1/61_0": {
+      "original_lines": [
+        "ああもう！",
+        "こんな雑魚にかまってないで先急ぐわよ！"
+      ],
+      "translated_lines": [
+        "啊啊真受不了！",
+        "别管这些杂鱼了赶路要紧啊！"
+      ]
+    },
+    "1/62_0": {
+      "original_lines": [
+        "それはそうと何処向ってるんだよ。",
+        "そっちに敵が居るわけ無いだろ……"
+      ],
+      "translated_lines": [
+        "话是这么说，咱们正朝向哪儿啊。",
+        "那边不可能会有敌人吧……"
+      ]
+    },
+    "1/63_0": {
+      "original_lines": [
+        "でも、あっちの方から妖気を感じるのよ。"
+      ],
+      "translated_lines": [
+        "可是，从那边能感受到妖气啊。"
+      ]
+    },
+    "1/64_0": {
+      "original_lines": [
+        "そっちは人間しかいないぜ。",
+        "私の様に善良な。"
+      ],
+      "translated_lines": [
+        "那边只有人类。",
+        "像我这样善良的。"
+      ]
+    }
+  }
+}
