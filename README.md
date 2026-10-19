@@ -1,11 +1,13 @@
 # 东方永夜抄 中文补丁内容频道
 
-当前内容版本：2026.1019.3。main 为正式频道，dev 为开发频道。
+当前内容版本：2026.1020.1。main 为正式频道，dev 为开发频道。
+需要 LilyPatch 启动器 0.1.3 或更高版本。
 适用游戏版本：th08.exe 1.00d / x86。SHA-256: `330fbdbf58a710829d65277b4f312cfbb38d5448b3df523e79350b879213d924`。
 
 - [游戏资源与译图](files/100d/data/)
 - [程序硬编码文本](files/100d/hardcoded.json)
 - [符卡文本](files/100d/spells.json)
+- [音乐室曲名与评论](files/100d/data/sprt/musiccmt.txt.json)
 
 对象位于 `files/100d/`，根 `manifest.json` / `manifest.sig` 锁定全部内容对象、目标和原资源 guard，并记录内容对象的大小、SHA-256、目标等信息。
 基础内容由 LilyPatch 在原资源加载成功后虚拟覆盖，不改写游戏 EXE/DAT。
