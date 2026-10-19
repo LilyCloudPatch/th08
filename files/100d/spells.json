@@ -1,0 +1,7271 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th08_100d",
+  "resource": "lilypatch/th08/spells",
+  "entries": {
+    "name-000": {
+      "original_lines": [
+        "蛍符「地上の流星」"
+      ],
+      "translated_lines": [
+        "萤符「地上的流星」"
+      ]
+    },
+    "owner-000": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-000": {
+      "original_lines": [
+        "蛍は明滅を繰り返すだけだが、蛍自体は動き続けているから"
+      ],
+      "translated_lines": [
+        "虽然萤火虫只是不断的闪光，但因为萤火虫本身是在移动着的"
+      ]
+    },
+    "comment2-000": {
+      "original_lines": [
+        "波打つ地上の流星の様に見える。"
+      ],
+      "translated_lines": [
+        "所以看起来就好像地上波动起伏的流星一般。"
+      ]
+    },
+    "name-001": {
+      "original_lines": [
+        "蛍符「地上の彗星」"
+      ],
+      "translated_lines": [
+        "萤符「地上的彗星」"
+      ]
+    },
+    "owner-001": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-001": {
+      "original_lines": [
+        "蛍の光なんかで勉強すると目が悪くなります。"
+      ],
+      "translated_lines": [
+        "要是靠萤火虫的光什么的读书的话那会把眼睛给搞坏的。"
+      ]
+    },
+    "comment2-001": {
+      "original_lines": [
+        "というか明滅が同期するから無理。古人に騙されるな。"
+      ],
+      "translated_lines": [
+        "就是因为会同时闪光的缘故所以不可能。不要被古人给骗了。"
+      ]
+    },
+    "name-002": {
+      "original_lines": [
+        "灯符「ファイヤフライフェノメノン」"
+      ],
+      "translated_lines": [
+        "灯符「Firefly Phenomenon」(萤光现象)"
+      ]
+    },
+    "owner-002": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-002": {
+      "original_lines": [
+        "蛍の発光現象"
+      ],
+      "translated_lines": [
+        "萤火虫的发光现象"
+      ]
+    },
+    "comment2-002": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-003": {
+      "original_lines": [
+        "灯符「ファイヤフライフェノメノン」"
+      ],
+      "translated_lines": [
+        "灯符「Firefly Phenomenon」(萤光现象)"
+      ]
+    },
+    "owner-003": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-003": {
+      "original_lines": [
+        "蛍の発光現象"
+      ],
+      "translated_lines": [
+        "萤火虫的发光现象"
+      ]
+    },
+    "comment2-003": {
+      "original_lines": [
+        "ちょっと虫っぽい動きだが……、この動きは蛍の動きじゃないね。"
+      ],
+      "translated_lines": [
+        "虽然看起来有点像虫子一般的行动……，这个动作可不是萤火虫的行动哦。"
+      ]
+    },
+    "name-004": {
+      "original_lines": [
+        "灯符「ファイヤフライフェノメノン」"
+      ],
+      "translated_lines": [
+        "灯符「Firefly Phenomenon」(萤光现象)"
+      ]
+    },
+    "owner-004": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-004": {
+      "original_lines": [
+        "蛍の発光現象"
+      ],
+      "translated_lines": [
+        "萤火虫的发光现象"
+      ]
+    },
+    "comment2-004": {
+      "original_lines": [
+        "どちらかと言うとバッタな感じ。まぁ蟲ならなんでもいいや。"
+      ],
+      "translated_lines": [
+        "要说的话感觉倒是有点像蚂蚱呢。算了，反正只要是虫子的话怎么都好了啦。"
+      ]
+    },
+    "name-005": {
+      "original_lines": [
+        "灯符「ファイヤフライフェノメノン」"
+      ],
+      "translated_lines": [
+        "灯符「Firefly Phenomenon」(萤光现象)"
+      ]
+    },
+    "owner-005": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-005": {
+      "original_lines": [
+        "蛍の発光現象"
+      ],
+      "translated_lines": [
+        "萤火虫的发光现象"
+      ]
+    },
+    "comment2-005": {
+      "original_lines": [
+        "コメツキムシの体を摘むと楽しい。何もしないでも指パッチン。"
+      ],
+      "translated_lines": [
+        "掐着叩头虫的身体很有意思呢。即使什么也不做也能弹响指。"
+      ]
+    },
+    "name-006": {
+      "original_lines": [
+        "蠢符「リトルバグ」"
+      ],
+      "translated_lines": [
+        "蠢符「Little Bug」(小虫)"
+      ]
+    },
+    "owner-006": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-006": {
+      "original_lines": [
+        "小さな蟲"
+      ],
+      "translated_lines": [
+        "小小的虫子"
+      ]
+    },
+    "comment2-006": {
+      "original_lines": [
+        "キモイです。"
+      ],
+      "translated_lines": [
+        "很恶心。"
+      ]
+    },
+    "name-007": {
+      "original_lines": [
+        "蠢符「リトルバグストーム」"
+      ],
+      "translated_lines": [
+        "蠢符「Little Bug Storm」(小虫风暴)"
+      ]
+    },
+    "owner-007": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-007": {
+      "original_lines": [
+        "小さな蟲"
+      ],
+      "translated_lines": [
+        "小小的虫子"
+      ]
+    },
+    "comment2-007": {
+      "original_lines": [
+        "大量の卵から孵化する瞬間です。生命の神秘。"
+      ],
+      "translated_lines": [
+        "从大量的卵中孵化出来的瞬间。生命的神秘。"
+      ]
+    },
+    "name-008": {
+      "original_lines": [
+        "蠢符「ナイトバグストーム」"
+      ],
+      "translated_lines": [
+        "蠢符「Night Bug Storm」(夜虫风暴)"
+      ]
+    },
+    "owner-008": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-008": {
+      "original_lines": [
+        "卵はかすって温めてあげるとより良い蟲に成長するでしょう。"
+      ],
+      "translated_lines": [
+        "卵只要能保证一定的温度就可以成长成健康的虫子吧。"
+      ]
+    },
+    "comment2-008": {
+      "original_lines": [
+        "って、蟲の卵は温めない。"
+      ],
+      "translated_lines": [
+        "不过，虫子的卵并不热。"
+      ]
+    },
+    "name-009": {
+      "original_lines": [
+        "蠢符「ナイトバグトルネード」"
+      ],
+      "translated_lines": [
+        "蠢符「Night Bug Tornado」(夜虫龙卷)"
+      ]
+    },
+    "owner-009": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-009": {
+      "original_lines": [
+        "強いて言えばちょっと大き目の石を持ち上げたら、"
+      ],
+      "translated_lines": [
+        "硬要说的话就是抱起一块稍微大一点的石头，"
+      ]
+    },
+    "comment2-009": {
+      "original_lines": [
+        "アリの卵がびっしり付いていた、あの感じ。"
+      ],
+      "translated_lines": [
+        "上面密密麻麻的沾满了蚂蚁的卵，那种感觉。"
+      ]
+    },
+    "name-010": {
+      "original_lines": [
+        "隠蟲「永夜蟄居」"
+      ],
+      "translated_lines": [
+        "隐虫「永夜蛰居」"
+      ]
+    },
+    "owner-010": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-010": {
+      "original_lines": [
+        "あんまり夜が永いとよからぬ蟲も涌いて来るものです。"
+      ],
+      "translated_lines": [
+        "要是夜晚太长了的话就会有些不好的虫子冒出来了。"
+      ]
+    },
+    "comment2-010": {
+      "original_lines": [
+        "蟲使いが蟲になってしまった、リグルのラストスペル。"
+      ],
+      "translated_lines": [
+        "虫使变成了虫子，莉格露的Last Spell。"
+      ]
+    },
+    "name-011": {
+      "original_lines": [
+        "隠蟲「永夜蟄居」"
+      ],
+      "translated_lines": [
+        "隐虫「永夜蛰居」"
+      ]
+    },
+    "owner-011": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-011": {
+      "original_lines": [
+        "蛍は光るだけでかなり特別視されている蟲の様な気がする。"
+      ],
+      "translated_lines": [
+        "总感觉萤火虫是那种仅仅因为能发光就被特别看待的虫子。"
+      ]
+    },
+    "comment2-011": {
+      "original_lines": [
+        "これも人間を騙すテクニックの一つ。"
+      ],
+      "translated_lines": [
+        "这也是欺骗人类的技巧之一。"
+      ]
+    },
+    "name-012": {
+      "original_lines": [
+        "隠蟲「永夜蟄居」"
+      ],
+      "translated_lines": [
+        "隐虫「永夜蛰居」"
+      ]
+    },
+    "owner-012": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-012": {
+      "original_lines": [
+        "水の中の蛍の幼虫は例にもれず大変キモイ。"
+      ],
+      "translated_lines": [
+        "萤火虫在水中的幼虫不用我举例也应该想的到是非常恶心的。"
+      ]
+    },
+    "comment2-012": {
+      "original_lines": [
+        "リグルに騙されるな。"
+      ],
+      "translated_lines": [
+        "不要被莉格露给骗了。"
+      ]
+    },
+    "name-013": {
+      "original_lines": [
+        "声符「梟の夜鳴声」"
+      ],
+      "translated_lines": [
+        "声符「枭的夜鸣声」"
+      ]
+    },
+    "owner-013": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-013": {
+      "original_lines": [
+        "何処からか聴こえる梟（フクロウ）の鳴き声。"
+      ],
+      "translated_lines": [
+        "从某处听到的枭的鸣叫声。"
+      ]
+    },
+    "comment2-013": {
+      "original_lines": [
+        "フクロウの眼は怖い。"
+      ],
+      "translated_lines": [
+        "枭的眼睛很恐怖。"
+      ]
+    },
+    "name-014": {
+      "original_lines": [
+        "声符「梟の夜鳴声」"
+      ],
+      "translated_lines": [
+        "声符「枭的夜鸣声」"
+      ]
+    },
+    "owner-014": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-014": {
+      "original_lines": [
+        "何処からか聴こえる梟（フクロウ）の鳴き声。"
+      ],
+      "translated_lines": [
+        "从某处听到的枭的鸣叫声。"
+      ]
+    },
+    "comment2-014": {
+      "original_lines": [
+        "発生源がよく判らない弾道がポイント。"
+      ],
+      "translated_lines": [
+        "要点是发生源不明的弹道。"
+      ]
+    },
+    "name-015": {
+      "original_lines": [
+        "声符「木菟咆哮」"
+      ],
+      "translated_lines": [
+        "声符「木菟的咆哮」"
+      ]
+    },
+    "owner-015": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-015": {
+      "original_lines": [
+        "木菟（ミミズク）の鳴き声。ミミズクとフクロウは分類学上"
+      ],
+      "translated_lines": [
+        "木菟的鸣叫声。木菟和枭在生物的分类学上"
+      ]
+    },
+    "comment2-015": {
+      "original_lines": [
+        "大した違いはないらしい、強いて言えばミミズクの方が格好良い。"
+      ],
+      "translated_lines": [
+        "好像没有什么太大的差别，硬要说的话，木菟的样子要更有型一点。"
+      ]
+    },
+    "name-016": {
+      "original_lines": [
+        "声符「木菟咆哮」"
+      ],
+      "translated_lines": [
+        "声符「木菟咆哮」"
+      ]
+    },
+    "owner-016": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-016": {
+      "original_lines": [
+        "木菟（ミミズク）の鳴き声。"
+      ],
+      "translated_lines": [
+        "木菟的鸣叫声。"
+      ]
+    },
+    "comment2-016": {
+      "original_lines": [
+        "木菟という字は木苺に似ていると思う。とたんに可愛くみえる。"
+      ],
+      "translated_lines": [
+        "总觉得木菟这两个字跟木莓很相似。一眼看上去就觉得可爱。"
+      ]
+    },
+    "name-017": {
+      "original_lines": [
+        "蛾符「天蛾の蠱道」"
+      ],
+      "translated_lines": [
+        "蛾符「天蛾的蛊道」"
+      ]
+    },
+    "owner-017": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-017": {
+      "original_lines": [
+        "天蛾（スズメガ）が飛んで鱗粉を落とす姿。"
+      ],
+      "translated_lines": [
+        "天蛾飞行时振落鳞粉的样子。"
+      ]
+    },
+    "comment2-017": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-018": {
+      "original_lines": [
+        "蛾符「天蛾の蠱道」"
+      ],
+      "translated_lines": [
+        "蛾符「天蛾的蛊道」"
+      ]
+    },
+    "owner-018": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-018": {
+      "original_lines": [
+        "天蛾（スズメガ）が飛んで鱗粉を落とす姿。"
+      ],
+      "translated_lines": [
+        "天蛾飞行时振落鳞粉的样子。"
+      ]
+    },
+    "comment2-018": {
+      "original_lines": [
+        "あの威圧感は凄い。天蛾型の戦闘機とかあったら夜戦に丁度良い。"
+      ],
+      "translated_lines": [
+        "那种威压感真厉害啊。要是有天蛾型的战斗机的话正好适合夜战。"
+      ]
+    },
+    "name-019": {
+      "original_lines": [
+        "毒符「毒蛾の鱗粉」"
+      ],
+      "translated_lines": [
+        "毒符「毒蛾的鳞粉」"
+      ]
+    },
+    "owner-019": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-019": {
+      "original_lines": [
+        "鱗粉が毒を持ち、人間に襲い掛かる。"
+      ],
+      "translated_lines": [
+        "鳞粉带着毒素，向人类发动袭击。"
+      ]
+    },
+    "comment2-019": {
+      "original_lines": [
+        "そもそも蛾の翅の斑紋は毒々しい。素敵。"
+      ],
+      "translated_lines": [
+        "况且蛾子翅膀上的斑纹就相当的浓艳刺目。真美妙。"
+      ]
+    },
+    "name-020": {
+      "original_lines": [
+        "猛毒「毒蛾の暗闇演舞」"
+      ],
+      "translated_lines": [
+        "猛毒「毒蛾的黑暗演舞」"
+      ]
+    },
+    "owner-020": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-020": {
+      "original_lines": [
+        "鱗粉で人間を殺すくらいの猛毒の蛾は居るのだろうか。"
+      ],
+      "translated_lines": [
+        "有没有靠鳞粉就能够杀死人类的剧毒蛾存在呢。"
+      ]
+    },
+    "comment2-020": {
+      "original_lines": [
+        "幼虫の時から冶葛を食す猛毒の妖怪蛾。幻想郷なら居るかも。"
+      ],
+      "translated_lines": [
+        "从幼虫期开始就进食冶葛带有剧毒的妖怪蛾。幻想乡的话也许会有。"
+      ]
+    },
+    "name-021": {
+      "original_lines": [
+        "鷹符「イルスタードダイブ」"
+      ],
+      "translated_lines": [
+        "鹰符「Ill-Starred Dive」(祸延疾冲)"
+      ]
+    },
+    "owner-021": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-021": {
+      "original_lines": [
+        "鷹の襲撃"
+      ],
+      "translated_lines": [
+        "鹰的袭击"
+      ]
+    },
+    "comment2-021": {
+      "original_lines": [
+        "……にしては速度は遅い。"
+      ],
+      "translated_lines": [
+        "……那种速度未免太慢。"
+      ]
+    },
+    "name-022": {
+      "original_lines": [
+        "鷹符「イルスタードダイブ」"
+      ],
+      "translated_lines": [
+        "鹰符「Ill-Starred Dive」(祸延疾冲)"
+      ]
+    },
+    "owner-022": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-022": {
+      "original_lines": [
+        "鷹の襲撃"
+      ],
+      "translated_lines": [
+        "鹰的袭击"
+      ]
+    },
+    "comment2-022": {
+      "original_lines": [
+        "鷹だって人間の赤子を攫う事もある。妖怪の真似だ。"
+      ],
+      "translated_lines": [
+        "鹰也有掠走人类小孩的时候。那是妖怪的行为。"
+      ]
+    },
+    "name-023": {
+      "original_lines": [
+        "鷹符「イルスタードダイブ」"
+      ],
+      "translated_lines": [
+        "鹰符「Ill-Starred Dive」(祸延疾冲)"
+      ]
+    },
+    "owner-023": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-023": {
+      "original_lines": [
+        "鷹の襲撃"
+      ],
+      "translated_lines": [
+        "鹰的袭击"
+      ]
+    },
+    "comment2-023": {
+      "original_lines": [
+        "攫われた赤子は、千人に一人位は天狗になることも。"
+      ],
+      "translated_lines": [
+        "被掠走的孩子，据说一千个人当中有一个能够成为天狗。"
+      ]
+    },
+    "name-024": {
+      "original_lines": [
+        "鷹符「イルスタードダイブ」"
+      ],
+      "translated_lines": [
+        "鹰符「Ill-Starred Dive」(祸延疾冲)"
+      ]
+    },
+    "owner-024": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-024": {
+      "original_lines": [
+        "夜の鷹、っていうとちょっとアレな意味になってしまう。"
+      ],
+      "translated_lines": [
+        "夜晚的鹰，这么说的话就有点变成那个的意思了。"
+      ]
+    },
+    "comment2-024": {
+      "original_lines": [
+        "ミスティアはそっち方面とは関係ありませんよ。"
+      ],
+      "translated_lines": [
+        "米斯蒂娅和那个方面没有关系哦。"
+      ]
+    },
+    "name-025": {
+      "original_lines": [
+        "夜盲「夜雀の歌」"
+      ],
+      "translated_lines": [
+        "夜盲「夜雀之歌」"
+      ]
+    },
+    "owner-025": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-025": {
+      "original_lines": [
+        "夜雀たるミスティアの得意技。"
+      ],
+      "translated_lines": [
+        "作为夜雀的米斯蒂娅的得意之技。"
+      ]
+    },
+    "comment2-025": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-026": {
+      "original_lines": [
+        "夜盲「夜雀の歌」"
+      ],
+      "translated_lines": [
+        "夜盲「夜雀之歌」"
+      ]
+    },
+    "owner-026": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-026": {
+      "original_lines": [
+        "夜雀たるミスティアの得意技。昔からヤツメウナギを食べると"
+      ],
+      "translated_lines": [
+        "作为夜雀的米斯蒂娅的得意之技。从前就听说只要吃八目鳗鱼"
+      ]
+    },
+    "comment2-026": {
+      "original_lines": [
+        "直ると言われてるが、実際にビタミンＡが豊富で効くらしい。"
+      ],
+      "translated_lines": [
+        "就能够治愈，实际上因为里面含有丰富的维他命A所以好像蛮有效。"
+      ]
+    },
+    "name-027": {
+      "original_lines": [
+        "夜盲「夜雀の歌」"
+      ],
+      "translated_lines": [
+        "夜盲「夜雀之歌」"
+      ]
+    },
+    "owner-027": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-027": {
+      "original_lines": [
+        "夜雀たるミスティアの得意技。"
+      ],
+      "translated_lines": [
+        "作为夜雀的米斯蒂娅的得意之技。"
+      ]
+    },
+    "comment2-027": {
+      "original_lines": [
+        "でも本当は、夜雀の姿を昼間に見ると夜盲になるといわれている。"
+      ],
+      "translated_lines": [
+        "但是实际上，我听说的是假如在白天看到夜雀的身影就会变成夜盲。"
+      ]
+    },
+    "name-028": {
+      "original_lines": [
+        "夜盲「夜雀の歌」"
+      ],
+      "translated_lines": [
+        "夜盲「夜雀之歌」"
+      ]
+    },
+    "owner-028": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-028": {
+      "original_lines": [
+        "夜雀たるミスティアの得意技。実は雀は好き。内臓の所為か"
+      ],
+      "translated_lines": [
+        "作为夜雀的米斯蒂娅的得意之技。实际上我很喜欢雀类。是不是因为"
+      ]
+    },
+    "comment2-028": {
+      "original_lines": [
+        "ちょっとしょっぱいところがお酒にあう。骨があるけど。"
+      ],
+      "translated_lines": [
+        "内脏的缘故啊，总之稍微有点咸的味道正好可供下酒。虽然有些骨头。"
+      ]
+    },
+    "name-029": {
+      "original_lines": [
+        "夜雀「真夜中のコーラスマスター」"
+      ],
+      "translated_lines": [
+        "夜雀「午夜的合唱指挥」"
+      ]
+    },
+    "owner-029": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-029": {
+      "original_lines": [
+        "コーラスマスターとは指揮者の事。"
+      ],
+      "translated_lines": [
+        "Chorus Master就是指挥的意思。"
+      ]
+    },
+    "comment2-029": {
+      "original_lines": [
+        "実はミスティアの歌ではなく、使い魔たちの合唱というオチ。"
+      ],
+      "translated_lines": [
+        "实际上不是米斯蒂娅唱的歌，而是使役魔们在合唱这样的。"
+      ]
+    },
+    "name-030": {
+      "original_lines": [
+        "夜雀「真夜中のコーラスマスター」"
+      ],
+      "translated_lines": [
+        "夜雀「午夜的合唱指挥」"
+      ]
+    },
+    "owner-030": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-030": {
+      "original_lines": [
+        "真夜中の指揮者って書くと、別に何にも怖くない。"
+      ],
+      "translated_lines": [
+        "就算写的是午夜里中的合唱指挥，也没什么可怕的。"
+      ]
+    },
+    "comment2-030": {
+      "original_lines": [
+        "コーラスマスターでも怖くない。最初から怖くない。"
+      ],
+      "translated_lines": [
+        "就算是Chorus Master也不可怕。从一开始就不可怕。"
+      ]
+    },
+    "name-031": {
+      "original_lines": [
+        "夜雀「真夜中のコーラスマスター」"
+      ],
+      "translated_lines": [
+        "夜雀「午夜的合唱指挥」"
+      ]
+    },
+    "owner-031": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-031": {
+      "original_lines": [
+        "というか、夜雀じゃ怖くない？"
+      ],
+      "translated_lines": [
+        "就是说，夜雀没什么可怕的？"
+      ]
+    },
+    "comment2-031": {
+      "original_lines": [
+        "まぁ、二面のボスだしねぇ。"
+      ],
+      "translated_lines": [
+        "也是，只是个第二关的BOSS而已呢。"
+      ]
+    },
+    "name-032": {
+      "original_lines": [
+        "産霊「ファーストピラミッド」"
+      ],
+      "translated_lines": [
+        "产灵「First Pyramid」(最初的金字塔)"
+      ]
+    },
+    "owner-032": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-032": {
+      "original_lines": [
+        "世界最古のピラミッドパワー。"
+      ],
+      "translated_lines": [
+        "世界上最古老的Pyramid Power。"
+      ]
+    },
+    "comment2-032": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-033": {
+      "original_lines": [
+        "産霊「ファーストピラミッド」"
+      ],
+      "translated_lines": [
+        "产灵「First Pyramid」(最初的金字塔)"
+      ]
+    },
+    "owner-033": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-033": {
+      "original_lines": [
+        "世界最古のピラミッドパワー。"
+      ],
+      "translated_lines": [
+        "世界上最古老的Pyramid Power。"
+      ]
+    },
+    "comment2-033": {
+      "original_lines": [
+        "産霊の神の象徴である三角。調和。"
+      ],
+      "translated_lines": [
+        "象征着产灵的三角。调和。"
+      ]
+    },
+    "name-034": {
+      "original_lines": [
+        "産霊「ファーストピラミッド」"
+      ],
+      "translated_lines": [
+        "产灵「First Pyramid」(最初的金字塔)"
+      ]
+    },
+    "owner-034": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-034": {
+      "original_lines": [
+        "世界最古のピラミッドパワー。"
+      ],
+      "translated_lines": [
+        "世界上最古老的Pyramid Power。"
+      ]
+    },
+    "comment2-034": {
+      "original_lines": [
+        "むしろおむすびの事。"
+      ],
+      "translated_lines": [
+        "倒不如说是饭团子。"
+      ]
+    },
+    "name-035": {
+      "original_lines": [
+        "産霊「ファーストピラミッド」"
+      ],
+      "translated_lines": [
+        "产灵「First Pyramid」(最初的金字塔)"
+      ]
+    },
+    "owner-035": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-035": {
+      "original_lines": [
+        "ツナマヨのおむすびとか途中で気持ち悪くなって"
+      ],
+      "translated_lines": [
+        "在吃金枪鱼饭团的途中突然觉得恶心"
+      ]
+    },
+    "comment2-035": {
+      "original_lines": [
+        "食べきれないんだよね。ほんと。"
+      ],
+      "translated_lines": [
+        "而吃不下去了呢。真的。"
+      ]
+    },
+    "name-036": {
+      "original_lines": [
+        "始符「エフェメラリティ137」"
+      ],
+      "translated_lines": [
+        "始符「Ephemerality 137」(短命的137)"
+      ]
+    },
+    "owner-036": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-036": {
+      "original_lines": [
+        "親は何十万年も生きていたのにね。"
+      ],
+      "translated_lines": [
+        "明明父母活了几十万年呢。"
+      ]
+    },
+    "comment2-036": {
+      "original_lines": [
+        "人間ってのは儚い、まるではじけとぶ泡の様だ。"
+      ],
+      "translated_lines": [
+        "人类这种生物真是虚无缥缈，就仿佛那随时会破裂的水泡一般。"
+      ]
+    },
+    "name-037": {
+      "original_lines": [
+        "始符「エフェメラリティ137」"
+      ],
+      "translated_lines": [
+        "始符「Ephemerality 137」(短命的137)"
+      ]
+    },
+    "owner-037": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-037": {
+      "original_lines": [
+        "とはいえ、137年も凄く長く感じる。"
+      ],
+      "translated_lines": [
+        "虽然这么说，不过137年也给人相当长的感觉。"
+      ]
+    },
+    "comment2-037": {
+      "original_lines": [
+        "きっと健康に良いものばかり食べていたのでしょう。"
+      ],
+      "translated_lines": [
+        "一定是一直都只吃对健康有利的食物的缘故吧。"
+      ]
+    },
+    "name-038": {
+      "original_lines": [
+        "始符「エフェメラリティ137」"
+      ],
+      "translated_lines": [
+        "始符「Ephemerality 137」(短命的137)"
+      ]
+    },
+    "owner-038": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-038": {
+      "original_lines": [
+        "でも、紫もレミリアもそれより長く生きている。"
+      ],
+      "translated_lines": [
+        "不过，紫和蕾米莉亚也都活的比那要长。"
+      ]
+    },
+    "comment2-038": {
+      "original_lines": [
+        "幽々子は？　死んでいるからなぁ……。"
+      ],
+      "translated_lines": [
+        "幽幽子呢？因为已经死了嘛……。"
+      ]
+    },
+    "name-039": {
+      "original_lines": [
+        "野符「武烈クライシス」"
+      ],
+      "translated_lines": [
+        "野符「武烈的危机」"
+      ]
+    },
+    "owner-039": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-039": {
+      "original_lines": [
+        "とても人の名前とは思えない。"
+      ],
+      "translated_lines": [
+        "很难让人联想到是个人的名字。"
+      ]
+    },
+    "comment2-039": {
+      "original_lines": [
+        "誰だかは内緒、なの？"
+      ],
+      "translated_lines": [
+        "究竟是谁是个秘密，是吗？"
+      ]
+    },
+    "name-040": {
+      "original_lines": [
+        "野符「将門クライシス」"
+      ],
+      "translated_lines": [
+        "野符「将门的危机」"
+      ]
+    },
+    "owner-040": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-040": {
+      "original_lines": [
+        "妙な逸話が多い将門様。"
+      ],
+      "translated_lines": [
+        "留下了很多奇闻轶事的将门大人。"
+      ]
+    },
+    "comment2-040": {
+      "original_lines": [
+        "やっぱり加藤の所為？　将来は加藤の様になろうと思う。"
+      ],
+      "translated_lines": [
+        "果然是因为加藤的缘故？将来我也想成为加藤那样的人。"
+      ]
+    },
+    "name-041": {
+      "original_lines": [
+        "野符「義満クライシス」"
+      ],
+      "translated_lines": [
+        "野符「义满的危机」"
+      ]
+    },
+    "owner-041": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-041": {
+      "original_lines": [
+        "義満、足利さん。"
+      ],
+      "translated_lines": [
+        "义满，足利先生。"
+      ]
+    },
+    "comment2-041": {
+      "original_lines": [
+        "ちょっと屈折し始めました、弾道。悪い事は考えない。"
+      ],
+      "translated_lines": [
+        "稍微有些扭曲着开始的，弹道。没有想什么不好的事情。"
+      ]
+    },
+    "name-042": {
+      "original_lines": [
+        "野符「GHQクライシス」"
+      ],
+      "translated_lines": [
+        "野符「GHQ的危机」"
+      ]
+    },
+    "owner-042": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-042": {
+      "original_lines": [
+        "そして現在に至る。"
+      ],
+      "translated_lines": [
+        "然后到了现在。"
+      ]
+    },
+    "comment2-042": {
+      "original_lines": [
+        "もはや手の施し様がない位に崩壊気味。がんばれ日本。"
+      ],
+      "translated_lines": [
+        "似乎有种已经无法挽救的崩溃之感。加油啊日本。"
+      ]
+    },
+    "name-043": {
+      "original_lines": [
+        "国符「三種の神器　剣」"
+      ],
+      "translated_lines": [
+        "国符「三种神器　剑」"
+      ]
+    },
+    "owner-043": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-043": {
+      "original_lines": [
+        "三種の神器の一つ。神話時代のアイテムがあるだけで凄いが、"
+      ],
+      "translated_lines": [
+        "三种神器之一。虽然光是身为神话时代的道具这一点就很厉害了，"
+      ]
+    },
+    "comment2-043": {
+      "original_lines": [
+        "草刈鎌と大差ない使われ方。"
+      ],
+      "translated_lines": [
+        "不过用起来其实和割草的镰刀没什么大区别。"
+      ]
+    },
+    "name-044": {
+      "original_lines": [
+        "国符「三種の神器　玉」"
+      ],
+      "translated_lines": [
+        "国符「三种神器　玉」"
+      ]
+    },
+    "owner-044": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-044": {
+      "original_lines": [
+        "三種の神器の一つ。"
+      ],
+      "translated_lines": [
+        "三种神器之一。"
+      ]
+    },
+    "comment2-044": {
+      "original_lines": [
+        "勾玉の曲線はエロティックさを感じる。さすがは三種の神器。"
+      ],
+      "translated_lines": [
+        "勾玉的曲线给人一种Erotic（色色）的感觉。不愧是三种神器啊。"
+      ]
+    },
+    "name-045": {
+      "original_lines": [
+        "国符「三種の神器　鏡」"
+      ],
+      "translated_lines": [
+        "国符「三种神器　镜」"
+      ]
+    },
+    "owner-045": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-045": {
+      "original_lines": [
+        "三種の神器の一つ。鏡は呪術に使われたというが、どちらかと言うと"
+      ],
+      "translated_lines": [
+        "三种神器之一。虽然说镜子是被使用于咒术的，不过要我说的话那是奇术。"
+      ]
+    },
+    "comment2-045": {
+      "original_lines": [
+        "奇術。呪術は常に真似る事にある、ってじゃぁ鏡は呪術か。すまん。"
+      ],
+      "translated_lines": [
+        "咒术经常会模仿来做些不好的事情，按这么说镜子是咒术吗。抱歉。"
+      ]
+    },
+    "name-046": {
+      "original_lines": [
+        "国体「三種の神器　郷」"
+      ],
+      "translated_lines": [
+        "国体「三种神器　乡」"
+      ]
+    },
+    "owner-046": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-046": {
+      "original_lines": [
+        "三種の神器以外。"
+      ],
+      "translated_lines": [
+        "三种神器以外的。"
+      ]
+    },
+    "comment2-046": {
+      "original_lines": [
+        "これは内緒の全方位弾幕。何故か簡単（ぉ"
+      ],
+      "translated_lines": [
+        "这是秘密的全方位弹幕。不知为什么很简单（噢"
+      ]
+    },
+    "name-047": {
+      "original_lines": [
+        "終符「幻想天皇」"
+      ],
+      "translated_lines": [
+        "终符「幻想天皇」"
+      ]
+    },
+    "owner-047": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-047": {
+      "original_lines": [
+        "神々しい光の洪水。"
+      ],
+      "translated_lines": [
+        "众神威光的洪水。"
+      ]
+    },
+    "comment2-047": {
+      "original_lines": [
+        "この位の威厳が欲しいところ。"
+      ],
+      "translated_lines": [
+        "我也想要这样的威严啊。"
+      ]
+    },
+    "name-048": {
+      "original_lines": [
+        "終符「幻想天皇」"
+      ],
+      "translated_lines": [
+        "终符「幻想天皇」"
+      ]
+    },
+    "owner-048": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-048": {
+      "original_lines": [
+        "神々しい光の洪水。ゆっくり進む光は、何で出来ているか"
+      ],
+      "translated_lines": [
+        "众神威光的洪水。慢慢向前推进的光芒，究竟是怎么做到的"
+      ]
+    },
+    "comment2-048": {
+      "original_lines": [
+        "確認する必要がある。アインシュタイン的に。"
+      ],
+      "translated_lines": [
+        "需要好好确认一下。如爱因斯坦般的。"
+      ]
+    },
+    "name-049": {
+      "original_lines": [
+        "虚史「幻想郷伝説」"
+      ],
+      "translated_lines": [
+        "虚史「幻想乡传说」"
+      ]
+    },
+    "owner-049": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-049": {
+      "original_lines": [
+        "幻想郷は史書には残らない。"
+      ],
+      "translated_lines": [
+        "幻想乡的事没有留在史书当中。"
+      ]
+    },
+    "comment2-049": {
+      "original_lines": [
+        "何故なら、書き留めるのが面倒で誰もやらないからである。"
+      ],
+      "translated_lines": [
+        "要问为什么的话，那是因为要写的话非常麻烦所以谁也不愿意做的缘故。"
+      ]
+    },
+    "name-050": {
+      "original_lines": [
+        "虚史「幻想郷伝説」"
+      ],
+      "translated_lines": [
+        "虚史「幻想乡传说」"
+      ]
+    },
+    "owner-050": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-050": {
+      "original_lines": [
+        "幻想郷は史書には残らない。"
+      ],
+      "translated_lines": [
+        "幻想乡的事没有留在史书之中。"
+      ]
+    },
+    "comment2-050": {
+      "original_lines": [
+        "でも、慧音は記憶力が良いので覚えている。頭良い。凄く良い。"
+      ],
+      "translated_lines": [
+        "不过，因为慧音的记忆力很好的缘故都记了下来。头脑好。非常之好。"
+      ]
+    },
+    "name-051": {
+      "original_lines": [
+        "未来「高天原」"
+      ],
+      "translated_lines": [
+        "未来「高天原」"
+      ]
+    },
+    "owner-051": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-051": {
+      "original_lines": [
+        "高天原（たかまがはら）は光に満ちていた。"
+      ],
+      "translated_lines": [
+        "高天原当中充满了光芒。"
+      ]
+    },
+    "comment2-051": {
+      "original_lines": [
+        "眩しいほどのレーザー。当たり判定出現タイミングが良く判らない。"
+      ],
+      "translated_lines": [
+        "耀眼炫目的镭射。命中判定出现的时机比较难把握。"
+      ]
+    },
+    "name-052": {
+      "original_lines": [
+        "未来「高天原」"
+      ],
+      "translated_lines": [
+        "未来「高天原」"
+      ]
+    },
+    "owner-052": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-052": {
+      "original_lines": [
+        "高天原（たかまがはら）だと？"
+      ],
+      "translated_lines": [
+        "你说这是高天原？"
+      ]
+    },
+    "comment2-052": {
+      "original_lines": [
+        "「天」は「が」？？　それとも「まが」？？"
+      ],
+      "translated_lines": [
+        "「天」字读「Ga」？？还是说应该读「Maga」？？"
+      ]
+    },
+    "name-053": {
+      "original_lines": [
+        "未来「高天原」"
+      ],
+      "translated_lines": [
+        "未来「高天原」"
+      ]
+    },
+    "owner-053": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-053": {
+      "original_lines": [
+        "実は簡単だったりもする。"
+      ],
+      "translated_lines": [
+        "实际上也算是满简单的。"
+      ]
+    },
+    "comment2-053": {
+      "original_lines": [
+        "この手のスペルカードは、威力が高い奴らは卑怯だ。"
+      ],
+      "translated_lines": [
+        "面对这个符卡的时候，威力高的家伙们很无赖啊。"
+      ]
+    },
+    "name-054": {
+      "original_lines": [
+        "夢符「二重結界」"
+      ],
+      "translated_lines": [
+        "梦符「二重结界」"
+      ]
+    },
+    "owner-054": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-054": {
+      "original_lines": [
+        "結界は意識の力。"
+      ],
+      "translated_lines": [
+        "结界是意识的力量。"
+      ]
+    },
+    "comment2-054": {
+      "original_lines": [
+        "弾幕自体はまっすぐ飛んでいる。騙されるな。"
+      ],
+      "translated_lines": [
+        "弹幕本身笔直的飞行着。别被骗了。"
+      ]
+    },
+    "name-055": {
+      "original_lines": [
+        "夢符「二重結界」"
+      ],
+      "translated_lines": [
+        "梦符「二重结界」"
+      ]
+    },
+    "owner-055": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-055": {
+      "original_lines": [
+        "弾幕自体はまっすぐ飛んでいるが、結界がそれを歪める。"
+      ],
+      "translated_lines": [
+        "虽然弹幕本身笔直的飞行着，但结界却将它们歪曲。"
+      ]
+    },
+    "comment2-055": {
+      "original_lines": [
+        "頭で二つの結界の間を補完すれば、非常に簡単なカードだったり。"
+      ],
+      "translated_lines": [
+        "如果能用头把两个结界之间补完的话，就将是个非常简单的卡了。"
+      ]
+    },
+    "name-056": {
+      "original_lines": [
+        "夢境「二重大結界」"
+      ],
+      "translated_lines": [
+        "梦境「二重大结界」"
+      ]
+    },
+    "owner-056": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-056": {
+      "original_lines": [
+        "人間は目の情報に頼りすぎる。"
+      ],
+      "translated_lines": [
+        "人类过分依赖于视觉情报。"
+      ]
+    },
+    "comment2-056": {
+      "original_lines": [
+        "霊夢の結界は常識が邪魔をする。非常識な巫女さん。"
+      ],
+      "translated_lines": [
+        "灵梦的结界会妨碍到常识。非常识性的巫女。"
+      ]
+    },
+    "name-057": {
+      "original_lines": [
+        "夢境「二重大結界」"
+      ],
+      "translated_lines": [
+        "梦境「二重大结界」"
+      ]
+    },
+    "owner-057": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-057": {
+      "original_lines": [
+        "霊夢の姿を追って近づいても、霊夢は遠ざかるばかり。"
+      ],
+      "translated_lines": [
+        "即使追着灵梦的身影靠近，灵梦也只会渐渐远去而已。"
+      ]
+    },
+    "comment2-057": {
+      "original_lines": [
+        "こんな経験はありませんか？　これが二重結界の力。"
+      ],
+      "translated_lines": [
+        "这种经验不曾有过吗？这就是二重结界的力量。"
+      ]
+    },
+    "name-058": {
+      "original_lines": [
+        "霊符「夢想封印　散」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印　散」"
+      ]
+    },
+    "owner-058": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-058": {
+      "original_lines": [
+        "この上なく直球勝負。"
+      ],
+      "translated_lines": [
+        "最直接的直线胜负。"
+      ]
+    },
+    "comment2-058": {
+      "original_lines": [
+        "素直にも程がある。"
+      ],
+      "translated_lines": [
+        "老实也要有个度。"
+      ]
+    },
+    "name-059": {
+      "original_lines": [
+        "霊符「夢想封印　散」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印　散」"
+      ]
+    },
+    "owner-059": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-059": {
+      "original_lines": [
+        "この上なく直球勝負。"
+      ],
+      "translated_lines": [
+        "最直接的直线胜负。"
+      ]
+    },
+    "comment2-059": {
+      "original_lines": [
+        "時間と共に数が増えるので、案外ミスしやすい。"
+      ],
+      "translated_lines": [
+        "随着时间的流逝数量会逐渐增加，结果反而会容易失误。"
+      ]
+    },
+    "name-060": {
+      "original_lines": [
+        "散霊「夢想封印　寂」"
+      ],
+      "translated_lines": [
+        "散灵「梦想封印　寂」"
+      ]
+    },
+    "owner-060": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-060": {
+      "original_lines": [
+        "発散の終焉には、寂が訪れる。"
+      ],
+      "translated_lines": [
+        "在散发的终点，静寂将会到访。"
+      ]
+    },
+    "comment2-060": {
+      "original_lines": [
+        "霊夢の寂は何度も訪れる。困ったものだ。"
+      ],
+      "translated_lines": [
+        "灵梦的静寂也多次到访。真烦人啊。"
+      ]
+    },
+    "name-061": {
+      "original_lines": [
+        "散霊「夢想封印　寂」"
+      ],
+      "translated_lines": [
+        "散灵「梦想封印　寂」"
+      ]
+    },
+    "owner-061": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-061": {
+      "original_lines": [
+        "というか、霊夢は相手を見てないね。"
+      ],
+      "translated_lines": [
+        "这么说起来，灵梦没有看着对手呢。"
+      ]
+    },
+    "comment2-061": {
+      "original_lines": [
+        "適当に撃っているだけだ。子供の喧嘩だ。"
+      ],
+      "translated_lines": [
+        "只是往差不多的位置上射击而已。那是小孩子打架。"
+      ]
+    },
+    "name-062": {
+      "original_lines": [
+        "夢符「封魔陣」"
+      ],
+      "translated_lines": [
+        "梦符「封魔阵」"
+      ]
+    },
+    "owner-062": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-062": {
+      "original_lines": [
+        "呪いのかかったお札で行動を封じる術。"
+      ],
+      "translated_lines": [
+        "用加上了诅咒的灵符封印对手行动的术。"
+      ]
+    },
+    "comment2-062": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-063": {
+      "original_lines": [
+        "夢符「封魔陣」"
+      ],
+      "translated_lines": [
+        "梦符「封魔阵」"
+      ]
+    },
+    "owner-063": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-063": {
+      "original_lines": [
+        "呪いのかかったお札で行動を封じる術。"
+      ],
+      "translated_lines": [
+        "用加上了诅咒的灵符封印对手行动的术。"
+      ]
+    },
+    "comment2-063": {
+      "original_lines": [
+        "これでミスるとアイテム回収が危険。ボムで応戦だ（駄目駄目）"
+      ],
+      "translated_lines": [
+        "在这里要是失误了的话道具的回收将很危险。用炸弹应战啦（不行不行）"
+      ]
+    },
+    "name-064": {
+      "original_lines": [
+        "神技「八方鬼縛陣」"
+      ],
+      "translated_lines": [
+        "神技「八方鬼缚阵」"
+      ]
+    },
+    "owner-064": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-064": {
+      "original_lines": [
+        "何だが、霊夢が術に嵌って身動き取れなくなってる様にもみえる。"
+      ],
+      "translated_lines": [
+        "总觉得，看起来好像陷入灵梦所布的阵术当中动弹不得了的样子。"
+      ]
+    },
+    "comment2-064": {
+      "original_lines": [
+        "というか、縛るというより瞬殺しているのでは？"
+      ],
+      "translated_lines": [
+        "这么说，比起束缚来是不是叫瞬杀会更像？"
+      ]
+    },
+    "name-065": {
+      "original_lines": [
+        "神技「八方龍殺陣」"
+      ],
+      "translated_lines": [
+        "神技「八方龙杀阵」"
+      ]
+    },
+    "owner-065": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-065": {
+      "original_lines": [
+        "プレイ中は御札の動きなんて見てられない。"
+      ],
+      "translated_lines": [
+        "在游戏过程中灵符的动向很难看清楚。"
+      ]
+    },
+    "comment2-065": {
+      "original_lines": [
+        "霊夢は誰に対して美しい御札の動きを見せようとしているのか。"
+      ],
+      "translated_lines": [
+        "这美丽的灵符的动向灵梦究竟想让谁看到呢。"
+      ]
+    },
+    "name-066": {
+      "original_lines": [
+        "霊符「夢想封印　集」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印　集」"
+      ]
+    },
+    "owner-066": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-066": {
+      "original_lines": [
+        "プレイヤー側の同名のスペルカードと大きく異なる技の一つ。"
+      ],
+      "translated_lines": [
+        "和玩家这边的同名符卡有巨大差异的招数之一。"
+      ]
+    },
+    "comment2-066": {
+      "original_lines": [
+        "次第に寄って来る嫌らしい御札に注意。"
+      ],
+      "translated_lines": [
+        "要注意那些顺次靠过来的令人讨厌的灵符。"
+      ]
+    },
+    "name-067": {
+      "original_lines": [
+        "霊符「夢想封印　集」"
+      ],
+      "translated_lines": [
+        "灵符「梦想封印　集」"
+      ]
+    },
+    "owner-067": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-067": {
+      "original_lines": [
+        "プレイヤー側の同名のスペルカードと大きく異なる技の一つ。"
+      ],
+      "translated_lines": [
+        "和玩家这边的同名符卡有巨大差异的招数之一。"
+      ]
+    },
+    "comment2-067": {
+      "original_lines": [
+        "まるで意思を持ったかのような御札の動きは、まるで夢の様に。"
+      ],
+      "translated_lines": [
+        "那些仿佛拥有意志般的灵符的行动，如梦幻一般。"
+      ]
+    },
+    "name-068": {
+      "original_lines": [
+        "回霊「夢想封印　侘」"
+      ],
+      "translated_lines": [
+        "回灵「梦想封印　侘」"
+      ]
+    },
+    "owner-068": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-068": {
+      "original_lines": [
+        "霊夢も楽してるような。"
+      ],
+      "translated_lines": [
+        "仿佛灵梦也很快乐一般。"
+      ]
+    },
+    "comment2-068": {
+      "original_lines": [
+        "御札は勝手に相手を追っているし。"
+      ],
+      "translated_lines": [
+        "反正灵符自己知道去追踪对手。"
+      ]
+    },
+    "name-069": {
+      "original_lines": [
+        "回霊「夢想封印　侘」"
+      ],
+      "translated_lines": [
+        "回灵「梦想封印　侘」"
+      ]
+    },
+    "owner-069": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-069": {
+      "original_lines": [
+        "というかイカみたい（ボソ）"
+      ],
+      "translated_lines": [
+        "说起来好像只乌贼（轰）"
+      ]
+    },
+    "comment2-069": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-070": {
+      "original_lines": [
+        "境界「二重弾幕結界」"
+      ],
+      "translated_lines": [
+        "界线「二重弹幕结界」"
+      ]
+    },
+    "owner-070": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-070": {
+      "original_lines": [
+        "結界を利用しないと避けられない攻撃。"
+      ],
+      "translated_lines": [
+        "要是不利用结界就无法避开的攻击。"
+      ]
+    },
+    "comment2-070": {
+      "original_lines": [
+        "相手の力を逆に利用するのだ。"
+      ],
+      "translated_lines": [
+        "反过来去利用对手的力量吧。"
+      ]
+    },
+    "name-071": {
+      "original_lines": [
+        "境界「二重弾幕結界」"
+      ],
+      "translated_lines": [
+        "界线「二重弹幕结界」"
+      ]
+    },
+    "owner-071": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-071": {
+      "original_lines": [
+        "結界を利用しないと避けられない攻撃。"
+      ],
+      "translated_lines": [
+        "要是不利用结界就无法避开的攻击。"
+      ]
+    },
+    "comment2-071": {
+      "original_lines": [
+        "これって、結界を張らなきゃ避け様がないのに……。"
+      ],
+      "translated_lines": [
+        "这样的话，只要不张开结界的话不就避不开了……。"
+      ]
+    },
+    "name-072": {
+      "original_lines": [
+        "大結界「博麗弾幕結界」"
+      ],
+      "translated_lines": [
+        "大结界「博丽弹幕结界」"
+      ]
+    },
+    "owner-072": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-072": {
+      "original_lines": [
+        "紫の弾幕結界に比べると見た目は派手だが内容は見劣りする。"
+      ],
+      "translated_lines": [
+        "和紫的弹幕结界相比的话虽然外表看起来华丽但是内容却不如她。"
+      ]
+    },
+    "comment2-072": {
+      "original_lines": [
+        "まぁ所詮人間だし。"
+      ],
+      "translated_lines": [
+        "也是，不管怎么说也只是个人类而已。"
+      ]
+    },
+    "name-073": {
+      "original_lines": [
+        "大結界「博麗弾幕結界」"
+      ],
+      "translated_lines": [
+        "大结界「博丽弹幕结界」"
+      ]
+    },
+    "owner-073": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-073": {
+      "original_lines": [
+        "もはや何が起こっているのか良く判らない。"
+      ],
+      "translated_lines": [
+        "已经搞不清楚究竟接下来会发生什么事了。"
+      ]
+    },
+    "comment2-073": {
+      "original_lines": [
+        "よく見ると背景も裏返っているんですよ。結界は。"
+      ],
+      "translated_lines": [
+        "注意看的话会发现背景也反过来了哦。结界中的。"
+      ]
+    },
+    "name-074": {
+      "original_lines": [
+        "神霊「夢想封印　瞬」"
+      ],
+      "translated_lines": [
+        "神灵「梦想封印　瞬」"
+      ]
+    },
+    "owner-074": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-074": {
+      "original_lines": [
+        "何処が瞬なのか、というのは気にしない。"
+      ],
+      "translated_lines": [
+        "究竟哪里瞬了啊，那样的事不要放在心上。"
+      ]
+    },
+    "comment2-074": {
+      "original_lines": [
+        "霊夢は真直ぐ飛んでいるだけなのだが、完全包囲されている。"
+      ],
+      "translated_lines": [
+        "虽然灵梦只是笔直的飞行着，但玩家已经被完全包围。"
+      ]
+    },
+    "name-075": {
+      "original_lines": [
+        "神霊「夢想封印　瞬」"
+      ],
+      "translated_lines": [
+        "神灵「梦想封印　瞬」"
+      ]
+    },
+    "owner-075": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-075": {
+      "original_lines": [
+        "比較的簡単の様に見えて、事故死しやすい。"
+      ],
+      "translated_lines": [
+        "看上去似乎比较简单，但很容易死于事故。"
+      ]
+    },
+    "comment2-075": {
+      "original_lines": [
+        "遅い弾と、速い弾の組み合わせが瞬。"
+      ],
+      "translated_lines": [
+        "慢速弹和，快速弹的组合就是瞬。"
+      ]
+    },
+    "name-076": {
+      "original_lines": [
+        "神霊「夢想封印　瞬」"
+      ],
+      "translated_lines": [
+        "神灵「梦想封印　瞬」"
+      ]
+    },
+    "owner-076": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-076": {
+      "original_lines": [
+        "霊夢が見ている世界はプレイヤーとは異なる。"
+      ],
+      "translated_lines": [
+        "灵梦所看到的世界和玩家有所不同。"
+      ]
+    },
+    "comment2-076": {
+      "original_lines": [
+        "むしろ、プレイヤーが霊夢時空に封印されている感じ。"
+      ],
+      "translated_lines": [
+        "倒不如说，感觉玩家像是被封印在了灵梦时空当中。"
+      ]
+    },
+    "name-077": {
+      "original_lines": [
+        "魔符「ミルキーウェイ」"
+      ],
+      "translated_lines": [
+        "魔符「Milky Way」(银河)"
+      ]
+    },
+    "owner-077": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-077": {
+      "original_lines": [
+        "魔法の天の川。"
+      ],
+      "translated_lines": [
+        "魔法的银河。"
+      ]
+    },
+    "comment2-077": {
+      "original_lines": [
+        "星の砂はカラフルに。"
+      ],
+      "translated_lines": [
+        "星之砂是绚丽多彩的。"
+      ]
+    },
+    "name-078": {
+      "original_lines": [
+        "魔符「ミルキーウェイ」"
+      ],
+      "translated_lines": [
+        "魔符「Milky Way」(银河)"
+      ]
+    },
+    "owner-078": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-078": {
+      "original_lines": [
+        "魔法の天の川。"
+      ],
+      "translated_lines": [
+        "魔法的银河。"
+      ]
+    },
+    "comment2-078": {
+      "original_lines": [
+        "織姫（魔理沙）は、星の砂で彦星を遠ざける。頑張れ彦星。"
+      ],
+      "translated_lines": [
+        "织姬（魔理沙）利用星之砂避开彦星。加油啊彦星。"
+      ]
+    },
+    "name-079": {
+      "original_lines": [
+        "魔空「アステロイドベルト」"
+      ],
+      "translated_lines": [
+        "魔空「Asteroid Belt」(小行星带)"
+      ]
+    },
+    "owner-079": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-079": {
+      "original_lines": [
+        "二つの大きな惑わせる星が、引き裂かれるほどの小惑星帯。"
+      ],
+      "translated_lines": [
+        "仿佛要把两颗诱惑之星撕裂般的小行星带。"
+      ]
+    },
+    "comment2-079": {
+      "original_lines": [
+        "魔理沙の出す星は、漫画星だけど。"
+      ],
+      "translated_lines": [
+        "虽然说魔理沙放出的星星，是漫画星。"
+      ]
+    },
+    "name-080": {
+      "original_lines": [
+        "魔空「アステロイドベルト」"
+      ],
+      "translated_lines": [
+        "魔空「Asteroid Belt」(小行星带)"
+      ]
+    },
+    "owner-080": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-080": {
+      "original_lines": [
+        "メテオなんか比じゃない小惑星帯攻撃。"
+      ],
+      "translated_lines": [
+        "流星什么的所无法比拟的小行星带攻击。"
+      ]
+    },
+    "comment2-080": {
+      "original_lines": [
+        "でも、密度薄そう。ボイジャーも当たらなかったし（当たり前）"
+      ],
+      "translated_lines": [
+        "不过，密度似乎很稀薄。也打不到旅行者号（当然的）"
+      ]
+    },
+    "name-081": {
+      "original_lines": [
+        "魔符「スターダストレヴァリエ」"
+      ],
+      "translated_lines": [
+        "魔符「Stardust Reverie」(星尘幻想)"
+      ]
+    },
+    "owner-081": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-081": {
+      "original_lines": [
+        "星屑幻想。"
+      ],
+      "translated_lines": [
+        "星尘幻想。"
+      ]
+    },
+    "comment2-081": {
+      "original_lines": [
+        "内なる宇宙。"
+      ],
+      "translated_lines": [
+        "内部的宇宙。"
+      ]
+    },
+    "name-082": {
+      "original_lines": [
+        "魔符「スターダストレヴァリエ」"
+      ],
+      "translated_lines": [
+        "魔符「Stardust Reverie」(星尘幻想)"
+      ]
+    },
+    "owner-082": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-082": {
+      "original_lines": [
+        "星屑幻想。"
+      ],
+      "translated_lines": [
+        "星尘幻想。"
+      ]
+    },
+    "comment2-082": {
+      "original_lines": [
+        "魔理沙らしい攻撃。万華鏡の様に姿を変える星屑の庭。凄く嫌。"
+      ],
+      "translated_lines": [
+        "魔理沙式的攻击。如万花筒一般变换身姿的星尘之庭园。非常讨厌。"
+      ]
+    },
+    "name-083": {
+      "original_lines": [
+        "黒魔「イベントホライズン」"
+      ],
+      "translated_lines": [
+        "黑魔「Event Horizon」(黑洞边缘)"
+      ]
+    },
+    "owner-083": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-083": {
+      "original_lines": [
+        "魔理沙の地平線。"
+      ],
+      "translated_lines": [
+        "魔理沙的地平线。"
+      ]
+    },
+    "comment2-083": {
+      "original_lines": [
+        "プレイヤーはある点より近づく事も、離れる事も出来ない。"
+      ],
+      "translated_lines": [
+        "玩家对于某一点既不能接近，也无法远离。"
+      ]
+    },
+    "name-084": {
+      "original_lines": [
+        "黒魔「イベントホライズン」"
+      ],
+      "translated_lines": [
+        "黑魔「Event Horizon」(黑洞边缘)"
+      ]
+    },
+    "owner-084": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-084": {
+      "original_lines": [
+        "魔理沙の地平線。魔理沙風の結界。しかし、結界そのものを意識"
+      ],
+      "translated_lines": [
+        "魔理沙的地平线。魔理沙风格的结界。但是，太过拘泥于结界这个"
+      ]
+    },
+    "comment2-084": {
+      "original_lines": [
+        "しすぎている事は根本から間違っている、と霊夢は思う。"
+      ],
+      "translated_lines": [
+        "东西本身从一开始就错了，灵梦这么认为。"
+      ]
+    },
+    "name-085": {
+      "original_lines": [
+        "恋符「ノンディレクショナルレーザー」"
+      ],
+      "translated_lines": [
+        "恋符「Non-Directional Laser」(非定向激光)"
+      ]
+    },
+    "owner-085": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-085": {
+      "original_lines": [
+        "全方向レーザー"
+      ],
+      "translated_lines": [
+        "全方位激光。"
+      ]
+    },
+    "comment2-085": {
+      "original_lines": [
+        "どっかで見たことのある攻撃。"
+      ],
+      "translated_lines": [
+        "在哪里曾经看到过的攻击。"
+      ]
+    },
+    "name-086": {
+      "original_lines": [
+        "恋符「ノンディレクショナルレーザー」"
+      ],
+      "translated_lines": [
+        "恋符「Non-Directional Laser」(非定向激光)"
+      ]
+    },
+    "owner-086": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-086": {
+      "original_lines": [
+        "全方向レーザー"
+      ],
+      "translated_lines": [
+        "全方位激光。"
+      ]
+    },
+    "comment2-086": {
+      "original_lines": [
+        "ちょっとカラフルになったが、やっぱりどっかで見たことのある攻撃。"
+      ],
+      "translated_lines": [
+        "虽然变的稍微有点豪华，不过果然还是在哪里曾经看到过的攻击。"
+      ]
+    },
+    "name-087": {
+      "original_lines": [
+        "恋風「スターライトタイフーン」"
+      ],
+      "translated_lines": [
+        "恋风「Starlight Typhoon」(星光台风)"
+      ]
+    },
+    "owner-087": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-087": {
+      "original_lines": [
+        "ノンディレクショナルレーザー改良版。弱点（レーザーの照射時間）を"
+      ],
+      "translated_lines": [
+        "非定向激光的改良版。把弱点（激光的照射时间）做了改良，弱点完全被"
+      ]
+    },
+    "comment2-087": {
+      "original_lines": [
+        "改良したら、弱点が全く別の処に移動してしまった。"
+      ],
+      "translated_lines": [
+        "转移到了其他的地方。"
+      ]
+    },
+    "name-088": {
+      "original_lines": [
+        "恋風「スターライトタイフーン」"
+      ],
+      "translated_lines": [
+        "恋风「Starlight Typhoon」(星光台风)"
+      ]
+    },
+    "owner-088": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-088": {
+      "original_lines": [
+        "ノンディレクショナルレーザー改良版。"
+      ],
+      "translated_lines": [
+        "非定向激光的改良版。"
+      ]
+    },
+    "comment2-088": {
+      "original_lines": [
+        "魔理沙自体も何がしたかったのかどんどん判らなくなっていく。"
+      ],
+      "translated_lines": [
+        "魔理沙自己是不是也做了什么现在开始越来越搞不明白了。"
+      ]
+    },
+    "name-089": {
+      "original_lines": [
+        "恋符「マスタースパーク」"
+      ],
+      "translated_lines": [
+        "恋符「Master Spark」(极限火花)"
+      ]
+    },
+    "owner-089": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-089": {
+      "original_lines": [
+        "極太魔法レーザー照射。"
+      ],
+      "translated_lines": [
+        "超巨大魔法镭射的照射。"
+      ]
+    },
+    "comment2-089": {
+      "original_lines": [
+        "斜めにも撃てます。"
+      ],
+      "translated_lines": [
+        "斜方向上也能够射击。"
+      ]
+    },
+    "name-090": {
+      "original_lines": [
+        "恋符「マスタースパーク」"
+      ],
+      "translated_lines": [
+        "恋符「Master Spark」(极限火花)"
+      ]
+    },
+    "owner-090": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-090": {
+      "original_lines": [
+        "極太魔法レーザー照射。"
+      ],
+      "translated_lines": [
+        "超巨大魔法镭射的照射。"
+      ]
+    },
+    "comment2-090": {
+      "original_lines": [
+        "真の敵は余りにも強いエネルギーで振動してしまう画面。"
+      ],
+      "translated_lines": [
+        "真正的敌人是那因为过于强烈的能量而不断震动的画面。"
+      ]
+    },
+    "name-091": {
+      "original_lines": [
+        "恋心「ダブルスパーク」"
+      ],
+      "translated_lines": [
+        "恋心「Double Spark」(二重火花)"
+      ]
+    },
+    "owner-091": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-091": {
+      "original_lines": [
+        "極太魔法レーザー照射。"
+      ],
+      "translated_lines": [
+        "超巨大魔法镭射的照射。"
+      ]
+    },
+    "comment2-091": {
+      "original_lines": [
+        "二本撃っちゃいます。もっと太くすれば即死なのにね。"
+      ],
+      "translated_lines": [
+        "射出去两条光线。假如要是能再粗一点的话那就即死了呢。"
+      ]
+    },
+    "name-092": {
+      "original_lines": [
+        "恋心「ダブルスパーク」"
+      ],
+      "translated_lines": [
+        "恋心「Double Spark」(二重火花)"
+      ]
+    },
+    "owner-092": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-092": {
+      "original_lines": [
+        "極太魔法レーザー照射。"
+      ],
+      "translated_lines": [
+        "超巨大魔法镭射的照射。"
+      ]
+    },
+    "comment2-092": {
+      "original_lines": [
+        "それにしても、嫌な恋心だなぁ。滅殺の恋。"
+      ],
+      "translated_lines": [
+        "那么说起来，还真是讨厌的恋心啊。灭杀之恋。"
+      ]
+    },
+    "name-093": {
+      "original_lines": [
+        "光符「アースライトレイ」"
+      ],
+      "translated_lines": [
+        "光符「Earth Light Ray」(地球光)"
+      ]
+    },
+    "owner-093": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-093": {
+      "original_lines": [
+        "地球の光。"
+      ],
+      "translated_lines": [
+        "地球之光。"
+      ]
+    },
+    "comment2-093": {
+      "original_lines": [
+        "サーチライトみたい。"
+      ],
+      "translated_lines": [
+        "类似探照灯的东西。"
+      ]
+    },
+    "name-094": {
+      "original_lines": [
+        "光符「アースライトレイ」"
+      ],
+      "translated_lines": [
+        "光符「Earth Light Ray」(地球光)"
+      ]
+    },
+    "owner-094": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-094": {
+      "original_lines": [
+        "万策尽きた魔理沙は、仕方が無く懐かしい魔法を引っ張り出して来た。"
+      ],
+      "translated_lines": [
+        "万策用尽的魔理沙，在走投无路的情况下拿出了过去怀念的魔法。"
+      ]
+    },
+    "comment2-094": {
+      "original_lines": [
+        "この攻撃は、自分が撃たれているみたいで嫌だから封印していたのだ。"
+      ],
+      "translated_lines": [
+        "这个攻击，因为看起来好像自己被攻击一样很让人不舒服所以封印了起来。"
+      ]
+    },
+    "name-095": {
+      "original_lines": [
+        "光撃「シュート・ザ・ムーン」"
+      ],
+      "translated_lines": [
+        "光击「Shoot the Moon」(射月)"
+      ]
+    },
+    "owner-095": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-095": {
+      "original_lines": [
+        "月を撃て！"
+      ],
+      "translated_lines": [
+        "射击月球！"
+      ]
+    },
+    "comment2-095": {
+      "original_lines": [
+        "いや、月の前にこっちがたまらん。"
+      ],
+      "translated_lines": [
+        "没什么，在月球前这边会先撑不住的。"
+      ]
+    },
+    "name-096": {
+      "original_lines": [
+        "光撃「シュート・ザ・ムーン」"
+      ],
+      "translated_lines": [
+        "光击「Shoot the Moon」(射月)"
+      ]
+    },
+    "owner-096": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-096": {
+      "original_lines": [
+        "月を撃つというのは、実はこのゲームの最大の皮肉でもある。"
+      ],
+      "translated_lines": [
+        "说到射击月球，实际上是这个游戏当中最大的讽刺。"
+      ]
+    },
+    "comment2-096": {
+      "original_lines": [
+        "勿論、魔理沙は意識していない。"
+      ],
+      "translated_lines": [
+        "当然，魔理沙自己没有意识到。"
+      ]
+    },
+    "name-097": {
+      "original_lines": [
+        "魔砲「ファイナルスパーク」"
+      ],
+      "translated_lines": [
+        "魔炮「Final Spark」(究极火花)"
+      ]
+    },
+    "owner-097": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-097": {
+      "original_lines": [
+        "最後にして究極の魔砲。"
+      ],
+      "translated_lines": [
+        "最后的也是究极的魔炮。"
+      ]
+    },
+    "comment2-097": {
+      "original_lines": [
+        "魔理沙が渾身の力をこめて放つ魔のレーザー。本人はすっきり。"
+      ],
+      "translated_lines": [
+        "魔理沙使出浑身之力放出的魔之光线。本人相当爽。"
+      ]
+    },
+    "name-098": {
+      "original_lines": [
+        "魔砲「ファイナルスパーク」"
+      ],
+      "translated_lines": [
+        "魔炮「Final Spark」(究极火花)"
+      ]
+    },
+    "owner-098": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-098": {
+      "original_lines": [
+        "最後にして究極の魔砲。"
+      ],
+      "translated_lines": [
+        "最后的也是究极的魔炮。"
+      ]
+    },
+    "comment2-098": {
+      "original_lines": [
+        "でもはっきり言って、細くしてでも旋回能力をあげた方が強いと思う。"
+      ],
+      "translated_lines": [
+        "但是要说的话，我觉得就算是会变细一些，还是增加其旋转能力会变的更强。"
+      ]
+    },
+    "name-099": {
+      "original_lines": [
+        "魔砲「ファイナルマスタースパーク」"
+      ],
+      "translated_lines": [
+        "魔炮「Final Master Spark」(超究极火花)"
+      ]
+    },
+    "owner-099": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-099": {
+      "original_lines": [
+        "魔理沙の魔砲講座。撃つ時は精神を集中させ、優しくミニ八卦炉に"
+      ],
+      "translated_lines": [
+        "魔理沙的魔炮讲座。射击的时候要集中精神，温柔的对迷你八卦炉念"
+      ]
+    },
+    "comment2-099": {
+      "original_lines": [
+        "呪文をかける。にっくきターゲットを狙い、放つは恋の魔砲！"
+      ],
+      "translated_lines": [
+        "咒文。瞄准那令人不快的目标，发射出去的就是那恋爱的魔炮！"
+      ]
+    },
+    "name-100": {
+      "original_lines": [
+        "波符「赤眼催眠(マインドシェイカー)」"
+      ],
+      "translated_lines": [
+        "波符「赤眼催眠(Mind Shaker)」"
+      ]
+    },
+    "owner-100": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-100": {
+      "original_lines": [
+        "抗い難い、狂気の赤い瞳。"
+      ],
+      "translated_lines": [
+        "难以抵抗的，疯狂的赤色之瞳。"
+      ]
+    },
+    "comment2-100": {
+      "original_lines": [
+        "全ては幻視だ。幻視に惑わされるな。"
+      ],
+      "translated_lines": [
+        "一切都是幻视啊。不要被幻视给迷惑了。"
+      ]
+    },
+    "name-101": {
+      "original_lines": [
+        "波符「赤眼催眠(マインドシェイカー)」"
+      ],
+      "translated_lines": [
+        "波符「赤眼催眠(Mind Shaker)」"
+      ]
+    },
+    "owner-101": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-101": {
+      "original_lines": [
+        "抗い難い、狂気の赤い瞳。幻視中は、真直ぐのはずの物が別の方向に"
+      ],
+      "translated_lines": [
+        "难以抵抗的，疯狂的赤色之瞳。在幻视中，本应该笔直的东西看起来好"
+      ]
+    },
+    "comment2-101": {
+      "original_lines": [
+        "進んでいるように見える。でも実際は幻視は当たらない。"
+      ],
+      "translated_lines": [
+        "像是在向别的方向移动的样子。但实际上因为是幻视是不会命中的。"
+      ]
+    },
+    "name-102": {
+      "original_lines": [
+        "幻波「赤眼催眠(マインドブローイング)」"
+      ],
+      "translated_lines": [
+        "幻波「赤眼催眠(Mind Blowing)」"
+      ]
+    },
+    "owner-102": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-102": {
+      "original_lines": [
+        "兎の目を見た人間の心が亜光速で堕ちていくから、兎の目は赤い。"
+      ],
+      "translated_lines": [
+        "因为看到兔子眼睛的人类的心会以亚光速的速度堕落，所以兔子的眼睛是红的。"
+      ]
+    },
+    "comment2-102": {
+      "original_lines": [
+        "もしくは共産主義だから。"
+      ],
+      "translated_lines": [
+        "也有可能因为它们是共产主义的缘故。"
+      ]
+    },
+    "name-103": {
+      "original_lines": [
+        "幻波「赤眼催眠(マインドブローイング)」"
+      ],
+      "translated_lines": [
+        "幻波「赤眼催眠(Mind Blowing)」"
+      ]
+    },
+    "owner-103": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-103": {
+      "original_lines": [
+        "精神を痛めつけすぎると、人間は体だけ残る。抜け殻だ。"
+      ],
+      "translated_lines": [
+        "要是精神受到了过重的伤害，那人类就只剩下一具肉体了。那是行尸走肉。"
+      ]
+    },
+    "comment2-103": {
+      "original_lines": [
+        "人間は体が資本？　いやいや精神が資本でしょう。"
+      ],
+      "translated_lines": [
+        "人类的身体是资本？不对不对精神其实才是资本吧。"
+      ]
+    },
+    "name-104": {
+      "original_lines": [
+        "狂符「幻視調律(ビジョナリチューニング)」"
+      ],
+      "translated_lines": [
+        "狂符「幻视调律(Visionary Tuning)」"
+      ]
+    },
+    "owner-104": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-104": {
+      "original_lines": [
+        "人間と妖怪の波長合わせ。"
+      ],
+      "translated_lines": [
+        "人类和妖怪的波长同步。"
+      ]
+    },
+    "comment2-104": {
+      "original_lines": [
+        "ああ、このカード名のカッコは読み仮名だから。"
+      ],
+      "translated_lines": [
+        "啊啊，这张卡名帅气的地方就在于它的假名读法。"
+      ]
+    },
+    "name-105": {
+      "original_lines": [
+        "狂符「幻視調律(ビジョナリチューニング)」"
+      ],
+      "translated_lines": [
+        "狂符「幻视调律(Visionary Tuning)」"
+      ]
+    },
+    "owner-105": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-105": {
+      "original_lines": [
+        "人間と妖怪の波長合わせ。"
+      ],
+      "translated_lines": [
+        "人类和妖怪的波长同步。"
+      ]
+    },
+    "comment2-105": {
+      "original_lines": [
+        "波長が合わないから幻視が起こる。あの兎は波長を外すのが上手い。"
+      ],
+      "translated_lines": [
+        "因为波长不同步所以会引起幻视。那只兔子对于避开波长很在行。"
+      ]
+    },
+    "name-106": {
+      "original_lines": [
+        "狂視「狂視調律(イリュージョンシーカー)」"
+      ],
+      "translated_lines": [
+        "狂视「狂视调律(Illusion Seeker)」"
+      ]
+    },
+    "owner-106": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-106": {
+      "original_lines": [
+        "外れた波長は実は当たらない。ただの幻視だ。"
+      ],
+      "translated_lines": [
+        "被避开的波长其实不会命中。仅仅只是幻视罢了。"
+      ]
+    },
+    "comment2-106": {
+      "original_lines": [
+        "むしろ問題は、相手が急に波長を戻す事にある、って判ってるって。"
+      ],
+      "translated_lines": [
+        "但问题就出在，对方会突然把波长恢复原状，什么你说你知道了。"
+      ]
+    },
+    "name-107": {
+      "original_lines": [
+        "狂視「狂視調律(イリュージョンシーカー)」"
+      ],
+      "translated_lines": [
+        "狂视「狂视调律(Illusion Seeker)」"
+      ]
+    },
+    "owner-107": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-107": {
+      "original_lines": [
+        "そういえば、鈴仙は月の兎。立ち絵は背が低く見えるけど、アレは耳を"
+      ],
+      "translated_lines": [
+        "说起来，铃仙是月球上的兔子。虽然从半身图上看起来好像个子很矮，"
+      ]
+    },
+    "comment2-107": {
+      "original_lines": [
+        "見せたかったから位置を下げてるだけですよ。"
+      ],
+      "translated_lines": [
+        "实际上那只是因为为了让人们能看到她的耳朵而把她站的位置放低了的缘故。"
+      ]
+    },
+    "name-108": {
+      "original_lines": [
+        "懶符「生神停止(アイドリングウェーブ」"
+      ],
+      "translated_lines": [
+        "懒符「生神停止(Idling Wave)」"
+      ]
+    },
+    "owner-108": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-108": {
+      "original_lines": [
+        "普通の人間に感知出来ない位の長い波長。"
+      ],
+      "translated_lines": [
+        "普通的人类所无法感知的长波。"
+      ]
+    },
+    "comment2-108": {
+      "original_lines": [
+        "幻視は止まってみえる。"
+      ],
+      "translated_lines": [
+        "幻视看起来好像停止了。"
+      ]
+    },
+    "name-109": {
+      "original_lines": [
+        "懶符「生神停止(アイドリングウェーブ)」"
+      ],
+      "translated_lines": [
+        "懒符「生神停止(Idling Wave)」"
+      ]
+    },
+    "owner-109": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-109": {
+      "original_lines": [
+        "普通の人間に感知出来ない位の長い波長。"
+      ],
+      "translated_lines": [
+        "普通的人类所无法感知的长波。"
+      ]
+    },
+    "comment2-109": {
+      "original_lines": [
+        "幻視は止まってみえる。心電図でいうと、ピーー。"
+      ],
+      "translated_lines": [
+        "幻视看起来好像停止了。要是用心电图来表示的话，就是“哔——”。"
+      ]
+    },
+    "name-110": {
+      "original_lines": [
+        "懶惰「生神停止(マインドストッパー)」"
+      ],
+      "translated_lines": [
+        "懒惰「生神停止(Mind Stopper)」"
+      ]
+    },
+    "owner-110": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-110": {
+      "original_lines": [
+        "波長が短すぎると狂人として見られ、長すぎるとのんきと見られる。"
+      ],
+      "translated_lines": [
+        "波长过短的话在别人看来就好像是狂人，过长的话在别人看来就好像不慌不忙。"
+      ]
+    },
+    "comment2-110": {
+      "original_lines": [
+        "後者の方が社会的に良い扱いを受けているのは変人差別だと思う。"
+      ],
+      "translated_lines": [
+        "总觉得后者却能在社会上受到良好的待遇是一种对怪人的差别对待。"
+      ]
+    },
+    "name-111": {
+      "original_lines": [
+        "懶惰「生神停止(マインドストッパー)」"
+      ],
+      "translated_lines": [
+        "懒惰「生神停止(Mind Stopper)」"
+      ]
+    },
+    "owner-111": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-111": {
+      "original_lines": [
+        "この弾幕って、弾の中の人がのんきなんだよね。"
+      ],
+      "translated_lines": [
+        "这个弹幕，在子弹当中的人不慌不忙呢。"
+      ]
+    },
+    "comment2-111": {
+      "original_lines": [
+        "ちょいと一休み、なんて言っているからプレイヤーに逃げられる。"
+      ],
+      "translated_lines": [
+        "就是因为说要稍微休息一下，所以才会让玩家给逃脱了。"
+      ]
+    },
+    "name-112": {
+      "original_lines": [
+        "散符「真実の月(インビジブルフルムーン)」"
+      ],
+      "translated_lines": [
+        "散符「真实之月(Invisible Full Moon)」"
+      ]
+    },
+    "owner-112": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-112": {
+      "original_lines": [
+        "完全に狂うと常人には見えなくなる、本当の月はいつも狂気なのだ。"
+      ],
+      "translated_lines": [
+        "完全的疯狂看上去已经不像是一个正常人，真正的月亮一直都是疯狂的。"
+      ]
+    },
+    "comment2-112": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-113": {
+      "original_lines": [
+        "散符「真実の月(インビジブルフルムーン)」"
+      ],
+      "translated_lines": [
+        "散符「真实之月(Invisible Full Moon)」"
+      ]
+    },
+    "owner-113": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-113": {
+      "original_lines": [
+        "完全に狂うと常人には見えなくなる、本当の月はいつも狂気なのだ。"
+      ],
+      "translated_lines": [
+        "完全的疯狂看上去已经不像是一个正常人，真正的月亮一直都是疯狂的。"
+      ]
+    },
+    "comment2-113": {
+      "original_lines": [
+        "既に幻視ですら捕らえる事が出来ない。"
+      ],
+      "translated_lines": [
+        "已经就连幻视都无法捕捉了。"
+      ]
+    },
+    "name-114": {
+      "original_lines": [
+        "散符「真実の月(インビジブルフルムーン)」"
+      ],
+      "translated_lines": [
+        "散符「真实之月(Invisible Full Moon)」"
+      ]
+    },
+    "owner-114": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-114": {
+      "original_lines": [
+        "紙一枚ずれただけでも世界は消える。"
+      ],
+      "translated_lines": [
+        "哪怕只是偏差一张纸的程度世界都会消失。"
+      ]
+    },
+    "comment2-114": {
+      "original_lines": [
+        "本当の満月は、狂っているからこそ目に見えない。新月？"
+      ],
+      "translated_lines": [
+        "真正的满月，正因为一直是疯狂的所以才看不见。新月？"
+      ]
+    },
+    "name-115": {
+      "original_lines": [
+        "散符「真実の月(インビジブルフルムーン)」"
+      ],
+      "translated_lines": [
+        "散符「真实之月(Invisible Full Moon)」"
+      ]
+    },
+    "owner-115": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-115": {
+      "original_lines": [
+        "「つーか幻視さえも見せなきゃ、ただの別次元での攻撃にしかならない"
+      ],
+      "translated_lines": [
+        "「假如要是连幻视都不让你们看到的话，那就仅仅只是普通的异次元攻击而已"
+      ]
+    },
+    "comment2-115": {
+      "original_lines": [
+        "じゃん。」と、慌ててたまに波長を戻すオッチョコチョイな月の兎。"
+      ],
+      "translated_lines": [
+        "了。」一边这么说着，一边慌慌张张的偶尔将波长恢复原状的毛手毛脚的月兔。"
+      ]
+    },
+    "name-116": {
+      "original_lines": [
+        "月眼「月兎遠隔催眠術(テレメスメリズム)」"
+      ],
+      "translated_lines": [
+        "月眼「月兔远程催眠术(Tele-Mesmerism)」"
+      ]
+    },
+    "owner-116": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-116": {
+      "original_lines": [
+        "月からの援軍。"
+      ],
+      "translated_lines": [
+        "从月球来的援军。"
+      ]
+    },
+    "comment2-116": {
+      "original_lines": [
+        "もはや幻視なのか本物なのかわからない位。"
+      ],
+      "translated_lines": [
+        "已经发展到了无法分辨到底是幻视还是真实的程度。"
+      ]
+    },
+    "name-117": {
+      "original_lines": [
+        "月眼「月兎遠隔催眠術(テレメスメリズム)」"
+      ],
+      "translated_lines": [
+        "月眼「月兔远程催眠术(Tele-Mesmerism)」"
+      ]
+    },
+    "owner-117": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-117": {
+      "original_lines": [
+        "月から催眠術を掛けるには、月を見てもらう必要がある。"
+      ],
+      "translated_lines": [
+        "从月球施放催眠术的话，需要被催眠的对象能看到月亮才行。"
+      ]
+    },
+    "comment2-117": {
+      "original_lines": [
+        "お月見とは、大昔の月人が考えた人間操作術なのかもしれない。"
+      ],
+      "translated_lines": [
+        "所谓的赏月，也许就是远古时代的月球人所想出的人类操控术也不一定。"
+      ]
+    },
+    "name-118": {
+      "original_lines": [
+        "月眼「月兎遠隔催眠術(テレメスメリズム)」"
+      ],
+      "translated_lines": [
+        "月眼「月兔远程催眠术(Tele-Mesmerism)」"
+      ]
+    },
+    "owner-118": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-118": {
+      "original_lines": [
+        "うーさーぎーおーいし。実は鈴仙は美味しい。"
+      ],
+      "translated_lines": [
+        "兔～子～很～美～味。实际上铃仙真的很美味。"
+      ]
+    },
+    "comment2-118": {
+      "original_lines": [
+        "って違う。この歌はむしろストーカーだ。鈴仙を追いまわす方だ。"
+      ],
+      "translated_lines": [
+        "等等不对。这首歌倒不如说是那些尾行者。要追捕铃仙的那个人。"
+      ]
+    },
+    "name-119": {
+      "original_lines": [
+        "天丸「壺中の天地」"
+      ],
+      "translated_lines": [
+        "天丸「壶中的天地」"
+      ]
+    },
+    "owner-119": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-119": {
+      "original_lines": [
+        "ちょっとした楽園。"
+      ],
+      "translated_lines": [
+        "有点像是乐园。"
+      ]
+    },
+    "comment2-119": {
+      "original_lines": [
+        "実は妄想。"
+      ],
+      "translated_lines": [
+        "实际上是妄想。"
+      ]
+    },
+    "name-120": {
+      "original_lines": [
+        "天丸「壺中の天地」"
+      ],
+      "translated_lines": [
+        "天丸「壶中的天地」"
+      ]
+    },
+    "owner-120": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-120": {
+      "original_lines": [
+        "ちょっとした楽園。"
+      ],
+      "translated_lines": [
+        "有点像是乐园。"
+      ]
+    },
+    "comment2-120": {
+      "original_lines": [
+        "明らかに本来の意味と違う使い方をしている。"
+      ],
+      "translated_lines": [
+        "很明显现在的用处和原本的意思有所不同。"
+      ]
+    },
+    "name-121": {
+      "original_lines": [
+        "天丸「壺中の天地」"
+      ],
+      "translated_lines": [
+        "天丸「壶中的天地」"
+      ]
+    },
+    "owner-121": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-121": {
+      "original_lines": [
+        "ちょっとした楽園。"
+      ],
+      "translated_lines": [
+        "有点像是乐园。"
+      ]
+    },
+    "comment2-121": {
+      "original_lines": [
+        "使い魔に当たり判定があれば極悪なのにねぇ。"
+      ],
+      "translated_lines": [
+        "假如使魔也有命中判定的话那就是极恶了呢。"
+      ]
+    },
+    "name-122": {
+      "original_lines": [
+        "天丸「壺中の天地」"
+      ],
+      "translated_lines": [
+        "天丸「壶中的天地」"
+      ]
+    },
+    "owner-122": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-122": {
+      "original_lines": [
+        "ちょっとした楽園。"
+      ],
+      "translated_lines": [
+        "有点像是乐园。"
+      ]
+    },
+    "comment2-122": {
+      "original_lines": [
+        "案外楽勝？　その辺が永琳の思いやりの心。"
+      ],
+      "translated_lines": [
+        "意外的简单？那正是永琳的同情之心。"
+      ]
+    },
+    "name-123": {
+      "original_lines": [
+        "覚神「神代の記憶」"
+      ],
+      "translated_lines": [
+        "觉神「神代的记忆」"
+      ]
+    },
+    "owner-123": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-123": {
+      "original_lines": [
+        "系譜を模した光。"
+      ],
+      "translated_lines": [
+        "模仿族谱的光辉。"
+      ]
+    },
+    "comment2-123": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-124": {
+      "original_lines": [
+        "覚神「神代の記憶」"
+      ],
+      "translated_lines": [
+        "觉神「神代的记忆」"
+      ]
+    },
+    "owner-124": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-124": {
+      "original_lines": [
+        "系譜を模した光。"
+      ],
+      "translated_lines": [
+        "模仿族谱的光辉。"
+      ]
+    },
+    "comment2-124": {
+      "original_lines": [
+        "ニ分木は物凄い勢いで増幅して、生命を彷彿させる。"
+      ],
+      "translated_lines": [
+        "二叉树以恐怖的速度增长着，仿佛生命一般。"
+      ]
+    },
+    "name-125": {
+      "original_lines": [
+        "神符「天人の系譜」"
+      ],
+      "translated_lines": [
+        "神符「天人的族谱」"
+      ]
+    },
+    "owner-125": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-125": {
+      "original_lines": [
+        "系譜を模した光。"
+      ],
+      "translated_lines": [
+        "模仿族谱的光辉。"
+      ]
+    },
+    "comment2-125": {
+      "original_lines": [
+        "でも、出生率が激減している今はこんなに末広がりにならない。"
+      ],
+      "translated_lines": [
+        "但是，在出生率骤减的今天却已经无法再伸展到如此之宽广。"
+      ]
+    },
+    "name-126": {
+      "original_lines": [
+        "神符「天人の系譜」"
+      ],
+      "translated_lines": [
+        "神符「天人的族谱」"
+      ]
+    },
+    "owner-126": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-126": {
+      "original_lines": [
+        "系譜を模した光。"
+      ],
+      "translated_lines": [
+        "模仿族谱的光辉。"
+      ]
+    },
+    "comment2-126": {
+      "original_lines": [
+        "今の世だと、ねずみ講とか流行んないのかもねぇ。犯罪だけど。"
+      ],
+      "translated_lines": [
+        "到了现在这个时代，传销什么的好像已经不再流行了呢。因为是犯罪。"
+      ]
+    },
+    "name-127": {
+      "original_lines": [
+        "蘇活「生命遊戯　-ライフゲーム-」"
+      ],
+      "translated_lines": [
+        "苏活「生命游戏 -Life Game-」"
+      ]
+    },
+    "owner-127": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-127": {
+      "original_lines": [
+        "生命のゲーム。つまりはライフゲーム。"
+      ],
+      "translated_lines": [
+        "生命的游戏。也就是所谓的Life Game。"
+      ]
+    },
+    "comment2-127": {
+      "original_lines": [
+        "理学系卒じゃないと意味がわからないかも。人生ゲームではない。"
+      ],
+      "translated_lines": [
+        "不是理科毕业的话可能会不明白是什么意思。不是游戏人生。"
+      ]
+    },
+    "name-128": {
+      "original_lines": [
+        "蘇活「生命遊戯　-ライフゲーム-」"
+      ],
+      "translated_lines": [
+        "苏活「生命游戏 -Life Game-」"
+      ]
+    },
+    "owner-128": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-128": {
+      "original_lines": [
+        "ライフゲーム。但し延命するだけして、世代交代せず御家断絶。"
+      ],
+      "translated_lines": [
+        "Life Game。但是却因为一直延长寿命而没有做世代的交接导致家族断绝。"
+      ]
+    },
+    "comment2-128": {
+      "original_lines": [
+        "全然ルールには則っていない。薬の与えすぎで寿命が長すぎる。"
+      ],
+      "translated_lines": [
+        "完全没有遵循法则。给予的药物太多导致寿命过长。"
+      ]
+    },
+    "name-129": {
+      "original_lines": [
+        "蘇生「ライジングゲーム」"
+      ],
+      "translated_lines": [
+        "苏生「Rising Game」(复苏游戏)"
+      ]
+    },
+    "owner-129": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-129": {
+      "original_lines": [
+        "ライフゲームの医療改善版。"
+      ],
+      "translated_lines": [
+        "生命游戏的医疗改善版。"
+      ]
+    },
+    "comment2-129": {
+      "original_lines": [
+        "余り寿命を長くして出生率を減らすと最後はこうなる。"
+      ],
+      "translated_lines": [
+        "过度的延长寿命减少出生率最后就是这样的结果。"
+      ]
+    },
+    "name-130": {
+      "original_lines": [
+        "蘇生「ライジングゲーム」"
+      ],
+      "translated_lines": [
+        "苏生「Rising Game」(复苏游戏)"
+      ]
+    },
+    "owner-130": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-130": {
+      "original_lines": [
+        "ライフゲームの医療改善版。"
+      ],
+      "translated_lines": [
+        "生命游戏的医疗改善版。"
+      ]
+    },
+    "comment2-130": {
+      "original_lines": [
+        "とあるゲームメーカーとは一切関係は無い。"
+      ],
+      "translated_lines": [
+        "和某些游戏制作公司没有任何关系。"
+      ]
+    },
+    "name-131": {
+      "original_lines": [
+        "操神「オモイカネディバイス」"
+      ],
+      "translated_lines": [
+        "操神「Omoikane Device」(思兼的策略)"
+      ]
+    },
+    "owner-131": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-131": {
+      "original_lines": [
+        "道を示す頭脳。"
+      ],
+      "translated_lines": [
+        "指示道路的头脑。"
+      ]
+    },
+    "comment2-131": {
+      "original_lines": [
+        "むしろ邪魔。"
+      ],
+      "translated_lines": [
+        "倒不如说是个障碍。"
+      ]
+    },
+    "name-132": {
+      "original_lines": [
+        "操神「オモイカネディバイス」"
+      ],
+      "translated_lines": [
+        "操神「Omoikane Device」(思兼的策略)"
+      ]
+    },
+    "owner-132": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-132": {
+      "original_lines": [
+        "道を示す頭脳。"
+      ],
+      "translated_lines": [
+        "指示道路的头脑。"
+      ]
+    },
+    "comment2-132": {
+      "original_lines": [
+        "とてもじゃないけど思慮のある装置とは思えない。"
+      ],
+      "translated_lines": [
+        "虽然不是很重要但我不觉得那是经过考虑才使用的装置。"
+      ]
+    },
+    "name-133": {
+      "original_lines": [
+        "神脳「オモイカネブレイン」"
+      ],
+      "translated_lines": [
+        "神脑「Omoikane Brain」(思兼的头脑)"
+      ]
+    },
+    "owner-133": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-133": {
+      "original_lines": [
+        "道を示す頭脳。頭は良いんだろうけどね。昔のゲームって敵デザインに"
+      ],
+      "translated_lines": [
+        "指示道路的头脑。头脑的确是很好呢。说起来突然觉得以前游戏里的敌"
+      ]
+    },
+    "comment2-133": {
+      "original_lines": [
+        "脳の入れてるの多かった気がする。安易だなぁ。"
+      ],
+      "translated_lines": [
+        "人设计加入大脑的有很多。真简单啊。"
+      ]
+    },
+    "name-134": {
+      "original_lines": [
+        "神脳「オモイカネブレイン」"
+      ],
+      "translated_lines": [
+        "神脑「Omoikane Brain」(思兼的头脑)"
+      ]
+    },
+    "owner-134": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-134": {
+      "original_lines": [
+        "脳を剥き出しにするのは、脳が無い証拠だと思うがどうか。"
+      ],
+      "translated_lines": [
+        "其实我总认为，想把脑子给拿出来就是没能力的证明。"
+      ]
+    },
+    "comment2-134": {
+      "original_lines": [
+        "脳あるアレはナニを隠すって。"
+      ],
+      "translated_lines": [
+        "有脑子的那个会把啥藏起来什么的。"
+      ]
+    },
+    "name-135": {
+      "original_lines": [
+        "天呪「アポロ１３」"
+      ],
+      "translated_lines": [
+        "天咒「Apollo 13」(阿波罗13号)"
+      ]
+    },
+    "owner-135": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-135": {
+      "original_lines": [
+        "１３は不吉な数字。"
+      ],
+      "translated_lines": [
+        "13是个不吉利的数字。"
+      ]
+    },
+    "comment2-135": {
+      "original_lines": [
+        "宇宙計画みたいな物は、不吉な数字を外すべきである。"
+      ],
+      "translated_lines": [
+        "像太空计划什么的，应该尽量避开不吉利的数字。"
+      ]
+    },
+    "name-136": {
+      "original_lines": [
+        "天呪「アポロ１３」"
+      ],
+      "translated_lines": [
+        "天咒「Apollo 13」(阿波罗13号)"
+      ]
+    },
+    "owner-136": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-136": {
+      "original_lines": [
+        "１３は不吉な数字。"
+      ],
+      "translated_lines": [
+        "13是个不吉利的数字。"
+      ]
+    },
+    "comment2-136": {
+      "original_lines": [
+        "それが何故失敗したのかは、月の民だけが知っている。"
+      ],
+      "translated_lines": [
+        "但那为什么就失败了呢，只有月之民知道答案。"
+      ]
+    },
+    "name-137": {
+      "original_lines": [
+        "天呪「アポロ１３」"
+      ],
+      "translated_lines": [
+        "天咒「Apollo 13」(阿波罗13号)"
+      ]
+    },
+    "owner-137": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-137": {
+      "original_lines": [
+        "いつも思うんだけど、アポロってアポロンの事じゃないの？"
+      ],
+      "translated_lines": [
+        "一直都在想，阿波罗难道指的不就是Apollo？"
+      ]
+    },
+    "comment2-137": {
+      "original_lines": [
+        "アポロンって太陽の神でしょ？　そのまま太陽に突っ込めばいいのに。"
+      ],
+      "translated_lines": [
+        "Apollo不就是那个太阳神吗？就那样一直飞到太阳上去多好啊。"
+      ]
+    },
+    "name-138": {
+      "original_lines": [
+        "天呪「アポロ１３」"
+      ],
+      "translated_lines": [
+        "天咒「Apollo 13」(阿波罗13号)"
+      ]
+    },
+    "owner-138": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-138": {
+      "original_lines": [
+        "子供の頃の夢のお菓子、アポロチョコ。上の層から分けて食べるという"
+      ],
+      "translated_lines": [
+        "孩提时代的梦幻点心，阿波罗巧克力。虽然一直都听别人说是要从上层开"
+      ]
+    },
+    "comment2-138": {
+      "original_lines": [
+        "話はよく聞くが、本来の意味から考えると下から食べた方がリアル。"
+      ],
+      "translated_lines": [
+        "始分开来吃的，但是要从它原本的意思来考虑的话从下面开始吃才更现实。"
+      ]
+    },
+    "name-139": {
+      "original_lines": [
+        "秘術「天文密葬法」"
+      ],
+      "translated_lines": [
+        "秘术「天文密葬法」"
+      ]
+    },
+    "owner-139": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-139": {
+      "original_lines": [
+        "大層な名前だけで、理屈も無く空を弄る永琳。"
+      ],
+      "translated_lines": [
+        "只是用了很大气的名字，毫无理由的玩弄着天空的永琳。"
+      ]
+    },
+    "comment2-139": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-140": {
+      "original_lines": [
+        "秘術「天文密葬法」"
+      ],
+      "translated_lines": [
+        "秘术「天文密葬法」"
+      ]
+    },
+    "owner-140": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-140": {
+      "original_lines": [
+        "地上は大きな密室になるというが、どう考えても月の方が密室。"
+      ],
+      "translated_lines": [
+        "与其说是把地上变成了一个巨大的密室，怎么想都觉得月球才应该是密室。"
+      ]
+    },
+    "comment2-140": {
+      "original_lines": [
+        "月の使者は成層圏で燃え尽きるか、道を誤る。"
+      ],
+      "translated_lines": [
+        "月球的使者在平流层烧光了吗，找错道路。"
+      ]
+    },
+    "name-141": {
+      "original_lines": [
+        "秘術「天文密葬法」"
+      ],
+      "translated_lines": [
+        "秘术「天文密葬法」"
+      ]
+    },
+    "owner-141": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-141": {
+      "original_lines": [
+        "永琳が用意した偽物の月は、本物より豪華。"
+      ],
+      "translated_lines": [
+        "永琳所准备的虚假之月比真正的月亮还要豪华。"
+      ]
+    },
+    "comment2-141": {
+      "original_lines": [
+        "でも、幽々子いわく「古めかしい月」らしい。昔は豪華だった？"
+      ],
+      "translated_lines": [
+        "但是，幽幽子曰「古老的月亮」的样子。过去比现在要豪华？"
+      ]
+    },
+    "name-142": {
+      "original_lines": [
+        "秘術「天文密葬法」"
+      ],
+      "translated_lines": [
+        "秘术「天文密葬法」"
+      ]
+    },
+    "owner-142": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-142": {
+      "original_lines": [
+        "宇宙には浪漫があるよね。でも車椅子の男の宇宙は難解。"
+      ],
+      "translated_lines": [
+        "宇宙当中有着浪漫呢。但是轮椅上的男人的宇宙让人费解。"
+      ]
+    },
+    "comment2-142": {
+      "original_lines": [
+        "もはや彼の論は彼にしか訂正できない。妄想だとしたら凄すぎる。"
+      ],
+      "translated_lines": [
+        "他的理论除了他自己已经无人能够将其订正。如果是妄想的话那真太厉害了。"
+      ]
+    },
+    "name-143": {
+      "original_lines": [
+        "禁薬「蓬莱の薬」"
+      ],
+      "translated_lines": [
+        "禁药「蓬莱之药」"
+      ]
+    },
+    "owner-143": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-143": {
+      "original_lines": [
+        "ストーリー上重要なポイントでもある蓬莱の薬。"
+      ],
+      "translated_lines": [
+        "在故事当中是一个要点的蓬莱之药。"
+      ]
+    },
+    "comment2-143": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-144": {
+      "original_lines": [
+        "禁薬「蓬莱の薬」"
+      ],
+      "translated_lines": [
+        "禁药「蓬莱之药」"
+      ]
+    },
+    "owner-144": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-144": {
+      "original_lines": [
+        "ストーリー上重要なポイントでもある蓬莱の薬。"
+      ],
+      "translated_lines": [
+        "在故事当中是一个要点的蓬莱之药。"
+      ]
+    },
+    "comment2-144": {
+      "original_lines": [
+        "気になるのは苦いのかどうかだけだ。"
+      ],
+      "translated_lines": [
+        "在意的事情只有那东西是不是很苦而已。"
+      ]
+    },
+    "name-145": {
+      "original_lines": [
+        "禁薬「蓬莱の薬」"
+      ],
+      "translated_lines": [
+        "禁药「蓬莱之药」"
+      ]
+    },
+    "owner-145": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-145": {
+      "original_lines": [
+        "ここでの蓬莱は、蓬莱で取れる～、の意味もあるが、本当は"
+      ],
+      "translated_lines": [
+        "这里的“蓬莱”虽然说也有着“在蓬莱取得～”的意思，但实际上"
+      ]
+    },
+    "comment2-145": {
+      "original_lines": [
+        "輝夜が自分の名前を使っているだけかも。輝夜の薬でも同じ。"
+      ],
+      "translated_lines": [
+        "只不过是辉夜用了一下自己的名字而已。叫辉夜之药也一样。"
+      ]
+    },
+    "name-146": {
+      "original_lines": [
+        "禁薬「蓬莱の薬」"
+      ],
+      "translated_lines": [
+        "禁药「蓬莱之药」"
+      ]
+    },
+    "owner-146": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-146": {
+      "original_lines": [
+        "不死の薬を作れるなんてばれたら、輝夜は権力者の取り合い"
+      ],
+      "translated_lines": [
+        "要是能制造不死之药的消息泄露出去的话，辉夜就会成为掌权者们争夺的"
+      ]
+    },
+    "comment2-146": {
+      "original_lines": [
+        "になる。でも断り続けるだろう。まさにアンチシンデレラ。"
+      ],
+      "translated_lines": [
+        "道具。但是肯定会被不断拒绝吧。简直就是Anti-Cinderella(反灰姑娘)。"
+      ]
+    },
+    "name-147": {
+      "original_lines": [
+        "薬符「壺中の大銀河」"
+      ],
+      "translated_lines": [
+        "药符「壶中的大银河」"
+      ]
+    },
+    "owner-147": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-147": {
+      "original_lines": [
+        "天地よりさらに規模を広げて。"
+      ],
+      "translated_lines": [
+        "比天地的规模更宽广。"
+      ]
+    },
+    "comment2-147": {
+      "original_lines": [
+        "まぁ壺の中だけど。"
+      ],
+      "translated_lines": [
+        "不过也只是在壶中。"
+      ]
+    },
+    "name-148": {
+      "original_lines": [
+        "薬符「壺中の大銀河」"
+      ],
+      "translated_lines": [
+        "药符「壶中的大银河」"
+      ]
+    },
+    "owner-148": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-148": {
+      "original_lines": [
+        "余裕でブラックホールだな。"
+      ],
+      "translated_lines": [
+        "从容地做出一个黑洞。"
+      ]
+    },
+    "comment2-148": {
+      "original_lines": [
+        "ブラックホールステーションが出来るのは何時の時代になるのだろう。"
+      ],
+      "translated_lines": [
+        "不过人类要到什么时代才能完成黑洞空间站呢。"
+      ]
+    },
+    "name-149": {
+      "original_lines": [
+        "薬符「壺中の大銀河」"
+      ],
+      "translated_lines": [
+        "药符「壶中的大银河」"
+      ]
+    },
+    "owner-149": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-149": {
+      "original_lines": [
+        "星を川に見立てて、銀河というネーミングセンスは素敵。"
+      ],
+      "translated_lines": [
+        "把星星比作是河川，银河这个名字真是起的非常美妙。"
+      ]
+    },
+    "comment2-149": {
+      "original_lines": [
+        "最近の日本語にはこういった素敵なネーミングセンスが余り無い。"
+      ],
+      "translated_lines": [
+        "最近的日语当中已经很少有这样美妙的命名了。"
+      ]
+    },
+    "name-150": {
+      "original_lines": [
+        "薬符「壺中の大銀河」"
+      ],
+      "translated_lines": [
+        "药符「壶中的大银河」"
+      ]
+    },
+    "owner-150": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-150": {
+      "original_lines": [
+        "底と口が繋がった壺。無限に入るクラインの壺。"
+      ],
+      "translated_lines": [
+        "底和口相连的瓶子。可以无限放东西的克莱因瓶。"
+      ]
+    },
+    "comment2-150": {
+      "original_lines": [
+        "見た目はちょっと下品。"
+      ],
+      "translated_lines": [
+        "看上去的样子稍微有点恶心。"
+      ]
+    },
+    "name-151": {
+      "original_lines": [
+        "難題「龍の頸の玉  -五色の弾丸-」"
+      ],
+      "translated_lines": [
+        "难题「龙颈之玉　-五色的弹丸-」"
+      ]
+    },
+    "owner-151": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-151": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。"
+      ]
+    },
+    "comment2-151": {
+      "original_lines": [
+        "玉の前に龍は居たんですかねぇ。"
+      ],
+      "translated_lines": [
+        "在玉的前面有龙住着呢。"
+      ]
+    },
+    "name-152": {
+      "original_lines": [
+        "難題「龍の頸の玉  -五色の弾丸-」"
+      ],
+      "translated_lines": [
+        "难题「龙颈之玉　-五色的弹丸-」"
+      ]
+    },
+    "owner-152": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-152": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。この玉にはそれぞれ星が入っていて、"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。这些玉石各自都被画上了星星，"
+      ]
+    },
+    "comment2-152": {
+      "original_lines": [
+        "七つ集めるとどんな願いでもかなうという。"
+      ],
+      "translated_lines": [
+        "据说收集齐七颗就能够实现任何的愿望。"
+      ]
+    },
+    "name-153": {
+      "original_lines": [
+        "神宝「ブリリアントドラゴンバレッタ」"
+      ],
+      "translated_lines": [
+        "神宝「Brilliant Dragon Bullet」(耀眼的龙玉)"
+      ]
+    },
+    "owner-153": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-153": {
+      "original_lines": [
+        "結局、龍の頸の玉はこんな武器（弾丸）になっていた。"
+      ],
+      "translated_lines": [
+        "结果，龙颈上的玉石变成了这样的武器（弹丸）。"
+      ]
+    },
+    "comment2-153": {
+      "original_lines": [
+        "人間は戦争になるとどんな貴重なもんも壊しちゃうからねぇ。"
+      ],
+      "translated_lines": [
+        "因为人类一旦发生战争不管多么贵重的东西都会破坏掉呢。"
+      ]
+    },
+    "name-154": {
+      "original_lines": [
+        "神宝「ブリリアントドラゴンバレッタ」"
+      ],
+      "translated_lines": [
+        "神宝「Brilliant Dragon Bullet」(耀眼的龙玉)"
+      ]
+    },
+    "owner-154": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-154": {
+      "original_lines": [
+        "龍の目の色が紅く変わると津波が起きる。なーんて良く言いますが、"
+      ],
+      "translated_lines": [
+        "龙的眼睛一旦变红就会引起海啸。虽～然经常有人这么说，"
+      ]
+    },
+    "comment2-154": {
+      "original_lines": [
+        "そもそも津波より龍の方が出現頻度高かったんですかねぇ。"
+      ],
+      "translated_lines": [
+        "不过说来龙的出现频度会比海啸要高吗。"
+      ]
+    },
+    "name-155": {
+      "original_lines": [
+        "難題「仏の御石の鉢  -砕けぬ意思-」"
+      ],
+      "translated_lines": [
+        "难题「佛御石之钵　-不碎的意志-」"
+      ]
+    },
+    "owner-155": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-155": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。"
+      ]
+    },
+    "comment2-155": {
+      "original_lines": [
+        "最も地味なお宝だ……。"
+      ],
+      "translated_lines": [
+        "最土气的宝物……。"
+      ]
+    },
+    "name-156": {
+      "original_lines": [
+        "難題「仏の御石の鉢  -砕けぬ意思-」"
+      ],
+      "translated_lines": [
+        "难题「佛御石之钵　-不碎的意志-」"
+      ]
+    },
+    "owner-156": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-156": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。割れない石の鉢。"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。难以切割的石碗。"
+      ]
+    },
+    "comment2-156": {
+      "original_lines": [
+        "輝夜はこれで石焼ビビンバ的な物でも食べようとしたのだろうか。"
+      ],
+      "translated_lines": [
+        "辉夜是不是打算拿这个来做石头拌饭之类的东西啊。"
+      ]
+    },
+    "name-157": {
+      "original_lines": [
+        "神宝「ブディストダイアモンド」"
+      ],
+      "translated_lines": [
+        "神宝「Buddhist Diamond」(佛体的金刚石)"
+      ]
+    },
+    "owner-157": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-157": {
+      "original_lines": [
+        "宝石類をじゃらじゃら身に付けた生臭坊主の事ではない。"
+      ],
+      "translated_lines": [
+        "说的并不是那种全身挂满了闪光的宝石之类的花和尚。"
+      ]
+    },
+    "comment2-157": {
+      "original_lines": [
+        "輝夜は、あまりにも地味なので宝石に格上げさせてみた。"
+      ],
+      "translated_lines": [
+        "辉夜呢，是觉得实在太土气了所以想用宝石来使其价值有所提升。"
+      ]
+    },
+    "name-158": {
+      "original_lines": [
+        "神宝「ブディストダイアモンド」"
+      ],
+      "translated_lines": [
+        "神宝「Buddhist Diamond」(佛体的金刚石)"
+      ]
+    },
+    "owner-158": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-158": {
+      "original_lines": [
+        "輝夜はなんでこんな物を欲しがったのか。"
+      ],
+      "translated_lines": [
+        "辉夜为什么会想要这种东西的呢。"
+      ]
+    },
+    "comment2-158": {
+      "original_lines": [
+        "どうしても、石焼ビビンバ的な物を想像してしまう。"
+      ],
+      "translated_lines": [
+        "怎么都让人不由自主的联想到石头拌饭。"
+      ]
+    },
+    "name-159": {
+      "original_lines": [
+        "難題「火鼠の皮衣  -焦れぬ心-」"
+      ],
+      "translated_lines": [
+        "难题「火鼠的皮衣　-不焦躁的内心-」"
+      ]
+    },
+    "owner-159": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-159": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。"
+      ]
+    },
+    "comment2-159": {
+      "original_lines": [
+        "皮衣自体は燃えてないんですよね。"
+      ],
+      "translated_lines": [
+        "皮衣本身是不会燃烧的呢。"
+      ]
+    },
+    "name-160": {
+      "original_lines": [
+        "難題「火鼠の皮衣  -焦れぬ心-」"
+      ],
+      "translated_lines": [
+        "难题「火鼠的皮衣　-不焦躁的内心-」"
+      ]
+    },
+    "owner-160": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-160": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。これを使えば、火の鳥の炎だってほら！"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。有了这个的话，哪怕是火鸟的火焰也只要这样！"
+      ]
+    },
+    "comment2-160": {
+      "original_lines": [
+        "って感じの防火巾着袋が欲しかったのかしらん。"
+      ],
+      "translated_lines": [
+        "不知道她是不是想要有这种感觉的防火服。"
+      ]
+    },
+    "name-161": {
+      "original_lines": [
+        "神宝「サラマンダーシールド」"
+      ],
+      "translated_lines": [
+        "神宝「Salamander Shield」(火蜥蜴之盾)"
+      ]
+    },
+    "owner-161": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-161": {
+      "original_lines": [
+        "最初から燃えていれば燃えることも無いかもしれないが……、"
+      ],
+      "translated_lines": [
+        "假如从一开始就是燃烧着的话也许就不存在烧着了……。"
+      ]
+    },
+    "comment2-161": {
+      "original_lines": [
+        "サラマンダーはトカゲだってば。もしくはオーブン。"
+      ],
+      "translated_lines": [
+        "不过话说火蜥蜴是蜥蜴类的啦。也可能是个炉子。"
+      ]
+    },
+    "name-162": {
+      "original_lines": [
+        "神宝「サラマンダーシールド」"
+      ],
+      "translated_lines": [
+        "神宝「Salamander Shield」(火蜥蜴之盾)"
+      ]
+    },
+    "owner-162": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-162": {
+      "original_lines": [
+        "火鼠もサラマンダーも火の鳥も周りが燃えているだけで中身は普通"
+      ],
+      "translated_lines": [
+        "不管是火鼠也好火蜥蜴也好火鸟也好，都是周围燃着火但里面很正常"
+      ]
+    },
+    "comment2-162": {
+      "original_lines": [
+        "なんかねぇ。最低でも沸騰しない血が必要だが……、エシデ（略）"
+      ],
+      "translated_lines": [
+        "的呢。最少也得需要不会沸腾的血吧……，艾斯迪（略）"
+      ]
+    },
+    "name-163": {
+      "original_lines": [
+        "難題「燕の子安貝  -永命線-」"
+      ],
+      "translated_lines": [
+        "难题「燕的子安贝　-永命线-」"
+      ]
+    },
+    "owner-163": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-163": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。"
+      ]
+    },
+    "comment2-163": {
+      "original_lines": [
+        "一番地味で現実的な問題に見える。"
+      ],
+      "translated_lines": [
+        "看上去最老土但最现实的问题。"
+      ]
+    },
+    "name-164": {
+      "original_lines": [
+        "難題「燕の子安貝  -永命線-」"
+      ],
+      "translated_lines": [
+        "难题「燕的子安贝　-永命线-」"
+      ]
+    },
+    "owner-164": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-164": {
+      "original_lines": [
+        "輝夜が出した難題の一つ。高級食材とされるツバメの巣の中に稀に"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一。据说在高级食材燕子的窝当中会很稀少的"
+      ]
+    },
+    "comment2-164": {
+      "original_lines": [
+        "あるという。タカラガイ科では珍しく食用で美味。"
+      ],
+      "translated_lines": [
+        "存在。贝壳类食用起来意外的美味。"
+      ]
+    },
+    "name-165": {
+      "original_lines": [
+        "神宝「ライフスプリングインフィニティ」"
+      ],
+      "translated_lines": [
+        "神宝「Life Spring Infinity」(无限的生命之泉)"
+      ]
+    },
+    "owner-165": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-165": {
+      "original_lines": [
+        "無限に沸く生命の泉。出生率が低下する一方の今の我が国に一番"
+      ],
+      "translated_lines": [
+        "无限涌出的生命之泉。在出生率不断低下的我们国家，"
+      ]
+    },
+    "comment2-165": {
+      "original_lines": [
+        "欲しい宝は、蓬莱の玉なんかではなく燕の子安貝なのかもしれない。"
+      ],
+      "translated_lines": [
+        "目前最需要的宝物也许不是蓬莱之玉而是燕的子安贝也说不定。"
+      ]
+    },
+    "name-166": {
+      "original_lines": [
+        "神宝「ライフスプリングインフィニティ」"
+      ],
+      "translated_lines": [
+        "神宝「Life Spring Infinity」(无限的生命之泉)"
+      ]
+    },
+    "owner-166": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-166": {
+      "original_lines": [
+        "少子化が進むと益々ゲーム人口が減っていく。子供に買わせるゲーム"
+      ],
+      "translated_lines": [
+        "随着计划生育的进行玩游戏的人口在日益减少。不是那种为了让小孩子"
+      ]
+    },
+    "comment2-166": {
+      "original_lines": [
+        "じゃなくて、心の奥底に根付く様なゲームを創りたい。いつかは。"
+      ],
+      "translated_lines": [
+        "去买的游戏，而是想要做能留在孩子们心底的游戏。总有一天。"
+      ]
+    },
+    "name-167": {
+      "original_lines": [
+        "難題「蓬莱の弾の枝  -虹色の弾幕-」"
+      ],
+      "translated_lines": [
+        "难题「蓬莱的弹枝　-七色的弹幕-」"
+      ]
+    },
+    "owner-167": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-167": {
+      "original_lines": [
+        "輝夜が出した難題の一つ？"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一？"
+      ]
+    },
+    "comment2-167": {
+      "original_lines": [
+        "輝夜さん、それは間違ってますよ。"
+      ],
+      "translated_lines": [
+        "辉夜小姐，你搞错了啊。"
+      ]
+    },
+    "name-168": {
+      "original_lines": [
+        "難題「蓬莱の弾の枝  -虹色の弾幕-」"
+      ],
+      "translated_lines": [
+        "难题「蓬莱的弹枝　-七色的弹幕-」"
+      ]
+    },
+    "owner-168": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-168": {
+      "original_lines": [
+        "輝夜が出した難題の一つ？　東の海に蓬莱という山があり、そこには"
+      ],
+      "translated_lines": [
+        "辉夜所出的难题之一？据说在东海有一座名为蓬莱的山峰，在那里生有"
+      ]
+    },
+    "comment2-168": {
+      "original_lines": [
+        "弾幕が生る木が生えているという。さぁシューターよ、いざ蓬莱だ！"
+      ],
+      "translated_lines": [
+        "一棵长着弹幕的树。来吧玩家们啊，向蓬莱前进！"
+      ]
+    },
+    "name-169": {
+      "original_lines": [
+        "神宝「蓬莱の玉の枝  -夢色の郷-」"
+      ],
+      "translated_lines": [
+        "神宝「蓬莱的玉枝　-梦色之乡-」"
+      ]
+    },
+    "owner-169": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-169": {
+      "original_lines": [
+        "輝夜が唯一、本物を保持している宝。"
+      ],
+      "translated_lines": [
+        "辉夜唯一保有的，真正的宝物。"
+      ]
+    },
+    "comment2-169": {
+      "original_lines": [
+        "七色に輝く玉は、弾幕にもなる。駄目じゃん。"
+      ],
+      "translated_lines": [
+        "闪着七色光辉的宝玉，也能变成弹幕。不行啊。"
+      ]
+    },
+    "name-170": {
+      "original_lines": [
+        "神宝「蓬莱の玉の枝  -夢色の郷-」"
+      ],
+      "translated_lines": [
+        "神宝「蓬莱的玉枝　-梦色之乡-」"
+      ]
+    },
+    "owner-170": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-170": {
+      "original_lines": [
+        "只の球である玉が何故もてはやされるのかは現代人には判り難い。"
+      ],
+      "translated_lines": [
+        "只不过是个球一样的玉为什么能获得那么高的评价现代人很难以理解。"
+      ]
+    },
+    "comment2-170": {
+      "original_lines": [
+        "金や銀より上に存在する玉。あ、将棋の話ですよ。金将銀将、玉将。"
+      ],
+      "translated_lines": [
+        "比金和银要更高等的玉。啊，我说的是将棋哦。金将银将，玉将。"
+      ]
+    },
+    "name-171": {
+      "original_lines": [
+        "「永夜返し  -初月-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-初月-」"
+      ]
+    },
+    "owner-171": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-171": {
+      "original_lines": [
+        "永遠を操る輝夜に対し、永夜の術は危険すぎた。"
+      ],
+      "translated_lines": [
+        "对于操纵永远的辉夜而言，永夜之术非常危险。"
+      ]
+    },
+    "comment2-171": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-172": {
+      "original_lines": [
+        "「永夜返し  -三日月-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-新月-」"
+      ]
+    },
+    "owner-172": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-172": {
+      "original_lines": [
+        "永遠を操る輝夜に対し、永夜の術は危険すぎた。"
+      ],
+      "translated_lines": [
+        "对于操纵永远的辉夜而言，永夜之术非常危险。"
+      ]
+    },
+    "comment2-172": {
+      "original_lines": [
+        "プレイヤーは夜を止めた報いを受けなければいけない。"
+      ],
+      "translated_lines": [
+        "玩家现在必须接受停止夜晚的报应。"
+      ]
+    },
+    "name-173": {
+      "original_lines": [
+        "「永夜返し  -上つ弓張-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-上弦月-」"
+      ]
+    },
+    "owner-173": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-173": {
+      "original_lines": [
+        "ここから、輝夜の夜が始まる。"
+      ],
+      "translated_lines": [
+        "从现在起，辉夜的夜晚开始了。"
+      ]
+    },
+    "comment2-173": {
+      "original_lines": [
+        "というか夜を止めていた犯人くらい、すぐに気付けよ……。"
+      ],
+      "translated_lines": [
+        "不过话说回来，那种停止夜晚的犯人，快点察觉到啊……。"
+      ]
+    },
+    "name-174": {
+      "original_lines": [
+        "「永夜返し  -待宵-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-待宵-」"
+      ]
+    },
+    "owner-174": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-174": {
+      "original_lines": [
+        "ここから、輝夜の夜が始まる。猛スピードで時刻が進む。"
+      ],
+      "translated_lines": [
+        "从现在起，辉夜的夜晚开始了。时刻以迅猛的速度前进。"
+      ]
+    },
+    "comment2-174": {
+      "original_lines": [
+        "あ、良い忘れたけど時刻と時間は別ものですぞ。"
+      ],
+      "translated_lines": [
+        "啊，忘了说了，时刻和时间不是同一种东西的哦。"
+      ]
+    },
+    "name-175": {
+      "original_lines": [
+        "「永夜返し  -子の刻-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-子之刻-」"
+      ]
+    },
+    "owner-175": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-175": {
+      "original_lines": [
+        "輝夜の夜は始まったばかり。"
+      ],
+      "translated_lines": [
+        "辉夜的夜晚才刚刚开始。"
+      ]
+    },
+    "comment2-175": {
+      "original_lines": [
+        "今宵は短い夜になりそうだ。"
+      ],
+      "translated_lines": [
+        "今宵似乎会是一个短暂的夜晚。"
+      ]
+    },
+    "name-176": {
+      "original_lines": [
+        "「永夜返し  -子の二つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-子时二刻-」"
+      ]
+    },
+    "owner-176": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-176": {
+      "original_lines": [
+        "輝夜の夜は始まったばかり。"
+      ],
+      "translated_lines": [
+        "辉夜的夜晚才刚刚开始。"
+      ]
+    },
+    "comment2-176": {
+      "original_lines": [
+        "時刻のイニシアチブは完全に輝夜に握られてしまった。"
+      ],
+      "translated_lines": [
+        "时刻的主导权完全被辉夜给掌握了。"
+      ]
+    },
+    "name-177": {
+      "original_lines": [
+        "「永夜返し  -子の三つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-子时三刻-」"
+      ]
+    },
+    "owner-177": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-177": {
+      "original_lines": [
+        "１２時、良い子と悪い子の中間辺りが寝る時間。"
+      ],
+      "translated_lines": [
+        "12点，正好是介于好孩子和坏孩子之间的人睡觉的时间。"
+      ]
+    },
+    "comment2-177": {
+      "original_lines": [
+        "もしくは霊気容れ（テレビ）から「あしたま！」とか聴こえる時間。"
+      ],
+      "translated_lines": [
+        "另外也是从灵气容器（电视）中听到「明天见！」的时间。"
+      ]
+    },
+    "name-178": {
+      "original_lines": [
+        "「永夜返し  -子の四つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-子时四刻-」"
+      ]
+    },
+    "owner-178": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-178": {
+      "original_lines": [
+        "一刻の違いで、結構難易度が異なる。"
+      ],
+      "translated_lines": [
+        "只是差了一刻，难度就有很大不同。"
+      ]
+    },
+    "comment2-178": {
+      "original_lines": [
+        "正味20秒程度で四刻（二時間）進めてしまう。勿体無い。"
+      ],
+      "translated_lines": [
+        "四刻（二小时）时间真正有用的就那么20秒左右。真浪费。"
+      ]
+    },
+    "name-179": {
+      "original_lines": [
+        "「永夜返し  -丑の刻-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-丑之刻-」"
+      ]
+    },
+    "owner-179": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-179": {
+      "original_lines": [
+        "草木も眠る何とやら。"
+      ],
+      "translated_lines": [
+        "草木什么的也都睡了。"
+      ]
+    },
+    "comment2-179": {
+      "original_lines": [
+        "そろそろ眠らせて欲しい。"
+      ],
+      "translated_lines": [
+        "差不多能让我去睡觉了吧。"
+      ]
+    },
+    "name-180": {
+      "original_lines": [
+        "「永夜返し  -丑の二つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-丑时二刻-」"
+      ]
+    },
+    "owner-180": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-180": {
+      "original_lines": [
+        "草木も眠る何とやら。でも最近の人間は寝てない事が多い。"
+      ],
+      "translated_lines": [
+        "草木什么的也都睡了。但是最近的人类经常不睡觉。"
+      ]
+    },
+    "comment2-180": {
+      "original_lines": [
+        "よって眠る草木にいたずらし放題。"
+      ],
+      "translated_lines": [
+        "因此就随便欺负那些睡着的草木。"
+      ]
+    },
+    "name-181": {
+      "original_lines": [
+        "「永夜返し  -丑三つ時-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-丑时三刻-」"
+      ]
+    },
+    "owner-181": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-181": {
+      "original_lines": [
+        "草木も眠る何とやら。子供の頃は本気であれらの幽霊が怖かった。"
+      ],
+      "translated_lines": [
+        "草木什么的也都睡了。孩提时代真的会害怕那些幽灵。"
+      ]
+    },
+    "comment2-181": {
+      "original_lines": [
+        "でも、このゲームの幽霊を見たら怖くなくなるだろう。"
+      ],
+      "translated_lines": [
+        "但是，看了这个游戏里的幽灵之后就不会再害怕了吧。"
+      ]
+    },
+    "name-182": {
+      "original_lines": [
+        "「永夜返し  -丑の四つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-丑时四刻-」"
+      ]
+    },
+    "owner-182": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-182": {
+      "original_lines": [
+        "冥界の門が開いた直後。"
+      ],
+      "translated_lines": [
+        "冥界之门打开后不久。"
+      ]
+    },
+    "comment2-182": {
+      "original_lines": [
+        "結局、蓮子とメリーは何を見たのだろう。"
+      ],
+      "translated_lines": [
+        "结果，莲子和梅莉看到了什么呢。"
+      ]
+    },
+    "name-183": {
+      "original_lines": [
+        "「永夜返し  -寅の刻-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-寅之刻-」"
+      ]
+    },
+    "owner-183": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-183": {
+      "original_lines": [
+        "３時過ぎ、そろそろ寝ないと次の日の仕事に響く時間。"
+      ],
+      "translated_lines": [
+        "刚过3点，差不多再不睡就要影响到第二天工作的时间。"
+      ]
+    },
+    "comment2-183": {
+      "original_lines": [
+        " "
+      ],
+      "translated_lines": [
+        " "
+      ]
+    },
+    "name-184": {
+      "original_lines": [
+        "「永夜返し  -寅の二つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-寅时二刻-」"
+      ]
+    },
+    "owner-184": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-184": {
+      "original_lines": [
+        "私は毎日大体この時間に寝ます。"
+      ],
+      "translated_lines": [
+        "我基本上每天都在这个时候睡觉。"
+      ]
+    },
+    "comment2-184": {
+      "original_lines": [
+        "次の日の仕事に影響が出ないギリギリの時間。"
+      ],
+      "translated_lines": [
+        "再迟一点都会影响到第二天工作的时间。"
+      ]
+    },
+    "name-185": {
+      "original_lines": [
+        "「永夜返し  -寅の三つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-寅时三刻-」"
+      ]
+    },
+    "owner-185": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-185": {
+      "original_lines": [
+        "４時も過ぎれば、そろそろ夜とは言えなくなって来る。"
+      ],
+      "translated_lines": [
+        "一旦过了4点，差不多就不能再称之为夜晚了。"
+      ]
+    },
+    "comment2-185": {
+      "original_lines": [
+        "何時から朝なのか人によって違うので、その辺の境界は曖昧だ。"
+      ],
+      "translated_lines": [
+        "究竟到几点才是清晨根据每个人都有所不同，这一段的境界是暧昧的。"
+      ]
+    },
+    "name-186": {
+      "original_lines": [
+        "「永夜返し  -寅の四つ-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-寅时四刻-」"
+      ]
+    },
+    "owner-186": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-186": {
+      "original_lines": [
+        "うっすらと、外が白くなる。"
+      ],
+      "translated_lines": [
+        "外面的天空开始蒙蒙发白。"
+      ]
+    },
+    "comment2-186": {
+      "original_lines": [
+        "こんな時間に外を走ってる老人を見たら間違いなく妖怪だ。"
+      ],
+      "translated_lines": [
+        "要是在这个时间看到在外面跑的老人不用问肯定是妖怪。"
+      ]
+    },
+    "name-187": {
+      "original_lines": [
+        "「永夜返し  -朝靄-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-朝霭-」"
+      ]
+    },
+    "owner-187": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-187": {
+      "original_lines": [
+        "輝夜の夜はあっという間に明け、朝になった。"
+      ],
+      "translated_lines": [
+        "辉夜的夜晚在那段时间变亮，迎来了清晨。"
+      ]
+    },
+    "comment2-187": {
+      "original_lines": [
+        "すごいよ、輝夜さん。"
+      ],
+      "translated_lines": [
+        "真厉害啊，辉夜小姐。"
+      ]
+    },
+    "name-188": {
+      "original_lines": [
+        "「永夜返し  -夜明け-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-拂晓-」"
+      ]
+    },
+    "owner-188": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-188": {
+      "original_lines": [
+        "輝夜の夜はあっという間に明け、朝になった。"
+      ],
+      "translated_lines": [
+        "辉夜的夜晚在那段时间变亮，迎来了清晨。"
+      ]
+    },
+    "comment2-188": {
+      "original_lines": [
+        "まさかこの位で、プレイヤー側の夜は明けては居ないよね。"
+      ],
+      "translated_lines": [
+        "不会说仅仅只是这样，玩家那边的夜晚就迎来清晨了吧。"
+      ]
+    },
+    "name-189": {
+      "original_lines": [
+        "「永夜返し  -明けの明星-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-破晓明星-」"
+      ]
+    },
+    "owner-189": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-189": {
+      "original_lines": [
+        "輝夜は自分の力で朝にしたのは良いけど……、あんたら"
+      ],
+      "translated_lines": [
+        "辉夜用自己的力量让清晨到来的确是很好……，不过你们"
+      ]
+    },
+    "comment2-189": {
+      "original_lines": [
+        "途中から目的変わってない？"
+      ],
+      "translated_lines": [
+        "几个的目的没在中途改变吗？"
+      ]
+    },
+    "name-190": {
+      "original_lines": [
+        "「永夜返し  -世明け-」"
+      ],
+      "translated_lines": [
+        "「永夜归返　-世间开明-」"
+      ]
+    },
+    "owner-190": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-190": {
+      "original_lines": [
+        "いいなぁ楽しそうで。彼女達はなまじ力がある分遊びも豪快だ。"
+      ],
+      "translated_lines": [
+        "真好啊大家都很高兴。她们各自拥有属于自己的力量玩起来也很爽快。"
+      ]
+    },
+    "comment2-190": {
+      "original_lines": [
+        "結局、幻想郷の他の人達は、終わらない夜に悩まされたのだが。"
+      ],
+      "translated_lines": [
+        "结果，虽然幻想乡的其他人们，对于那无尽的夜晚曾感到烦恼。"
+      ]
+    },
+    "name-191": {
+      "original_lines": [
+        "旧史「旧秘境史　-オールドヒストリー-」"
+      ],
+      "translated_lines": [
+        "旧史「旧秘境史 -古代史-」"
+      ]
+    },
+    "owner-191": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-191": {
+      "original_lines": [
+        "実際この世には歴史しか存在しない。なのに歴史に残るとか特別視する"
+      ],
+      "translated_lines": [
+        "实际上这个世间只存在历史。但之所以会有所谓的“留名于历史”这种特"
+      ]
+    },
+    "comment2-191": {
+      "original_lines": [
+        "のは、歴史は創られたものだからに過ぎない。って慧音が言ってた。"
+      ],
+      "translated_lines": [
+        "别的对待，是因为历史是创造出来的。慧音如是说。"
+      ]
+    },
+    "name-192": {
+      "original_lines": [
+        "転世「一条戻り橋」"
+      ],
+      "translated_lines": [
+        "转世「一条归桥」"
+      ]
+    },
+    "owner-192": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-192": {
+      "original_lines": [
+        "戻り橋はともかく、世に弾幕が戻る事はあれど、私の知る限り全て"
+      ],
+      "translated_lines": [
+        "先不管归桥是怎样的，就这个世界上的回归式弹幕而言，据我所知都"
+      ]
+    },
+    "comment2-192": {
+      "original_lines": [
+        "不完全だ。完全な戻り弾幕はこうである。なんか生理的に避け難い。"
+      ],
+      "translated_lines": [
+        "是不完全的。完全的回归式弹幕是这样的。总觉得生理上有种难以回避之感。"
+      ]
+    },
+    "name-193": {
+      "original_lines": [
+        "新史「新幻想史　-ネクストヒストリー-」"
+      ],
+      "translated_lines": [
+        "新史「新幻想史 -现代史-」"
+      ]
+    },
+    "owner-193": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-193": {
+      "original_lines": [
+        "ネクストヒストリーはフューチャーだ。歴史を創る力は未来を創る。"
+      ],
+      "translated_lines": [
+        "所谓的“Next History”指的就是未来。创造历史的力量将创造未来。"
+      ]
+    },
+    "comment2-193": {
+      "original_lines": [
+        "未来を見据える人間は後向きで前に進むのだ、って慧音が言ってた。"
+      ],
+      "translated_lines": [
+        "能看清未来的人从来都是面向后往前走的，慧音如是说。"
+      ]
+    },
+    "name-194": {
+      "original_lines": [
+        "時効「月のいはかさの呪い」"
+      ],
+      "translated_lines": [
+        "时效「月岩笠的诅咒」"
+      ]
+    },
+    "owner-194": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-194": {
+      "original_lines": [
+        "歴史に残らない殺人事件。現在でも未解決の殺人事件がどんどん時効"
+      ],
+      "translated_lines": [
+        "没留在历史上的杀人事件。到了现代很多未解决的杀人事件都已经过了"
+      ]
+    },
+    "comment2-194": {
+      "original_lines": [
+        "となっている。誰にも知られなきゃ罪にはならないのだよ。"
+      ],
+      "translated_lines": [
+        "时效。只要不被任何人知道就不算有罪喔。"
+      ]
+    },
+    "name-195": {
+      "original_lines": [
+        "不死「火の鳥　-鳳翼天翔-」"
+      ],
+      "translated_lines": [
+        "不死「火鸟　-凤翼天翔-」"
+      ]
+    },
+    "owner-195": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-195": {
+      "original_lines": [
+        "ほーよくてんしょー。どういう仕組みかは不明だが強いらしい。"
+      ],
+      "translated_lines": [
+        "Ho-yoku Tensho-（凤～翼天翔—）。这一招的原理虽然不明但似乎很强的样子。"
+      ]
+    },
+    "comment2-195": {
+      "original_lines": [
+        "フェニックスと鳳凰と朱雀はよく同一視されるけど、本当に一緒？"
+      ],
+      "translated_lines": [
+        "不死鸟和凤凰，朱雀虽然经常被看作是同一种东西，但真的一样吗？"
+      ]
+    },
+    "name-196": {
+      "original_lines": [
+        "藤原「滅罪寺院傷」"
+      ],
+      "translated_lines": [
+        "藤原「灭罪寺院伤」"
+      ]
+    },
+    "owner-196": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-196": {
+      "original_lines": [
+        "権力者は祟りを畏れていた。寺を建て善行を重ねたのに、祟りは"
+      ],
+      "translated_lines": [
+        "当权者曾经最怕遭天谴。不过即使修缮寺庙积德行善，天谴还是如"
+      ]
+    },
+    "comment2-196": {
+      "original_lines": [
+        "雨の様に降りしきる。それも仕様が無い、ウィルスだったのだ。"
+      ],
+      "translated_lines": [
+        "雨一般的降临。这也没办法，因为那是一种病毒。"
+      ]
+    },
+    "name-197": {
+      "original_lines": [
+        "不死「徐福時空」"
+      ],
+      "translated_lines": [
+        "不死「徐福时空」"
+      ]
+    },
+    "owner-197": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-197": {
+      "original_lines": [
+        "使いの途中で面倒になって定住しちゃった人。いたる所に徐福伝説が"
+      ],
+      "translated_lines": [
+        "本来的使者在半途中觉得麻烦后来干脆定居了。之所以到处都留有徐福"
+      ]
+    },
+    "comment2-197": {
+      "original_lines": [
+        "残されているのは、実は蓬莱の薬を見つけていて不死となったからだ。"
+      ],
+      "translated_lines": [
+        "的传说，实际上是因为他找到了蓬莱之药变成了不死。"
+      ]
+    },
+    "name-198": {
+      "original_lines": [
+        "滅罪「正直者の死」"
+      ],
+      "translated_lines": [
+        "灭罪「正直者之死」"
+      ]
+    },
+    "owner-198": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-198": {
+      "original_lines": [
+        "あーあ、正直者は馬鹿を見るよ。でもね、馬鹿を見ているように見える"
+      ],
+      "translated_lines": [
+        "啊～啊，正直者会被当成笨蛋喔。但是呢，之所以会被当成笨蛋是因为别"
+      ]
+    },
+    "comment2-198": {
+      "original_lines": [
+        "のは嘘吐きの目で見るからだ。本当は最も得をしている。死んでもだ。"
+      ],
+      "translated_lines": [
+        "人是用说谎的眼光看到的。实际上是得到的最多的。死后也一样。"
+      ]
+    },
+    "name-199": {
+      "original_lines": [
+        "虚人「ウー」"
+      ],
+      "translated_lines": [
+        "虚人「无」"
+      ]
+    },
+    "owner-199": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-199": {
+      "original_lines": [
+        "うー。余り美しくない不死鳥。車に轢かれてぐちゃぐちゃ。"
+      ],
+      "translated_lines": [
+        "无。一点也不美丽的不死鸟。被车压得稀烂。"
+      ]
+    },
+    "comment2-199": {
+      "original_lines": [
+        "この攻撃は地面に手を付けてトウチャっ！って感じ（ふざけ過ぎ）"
+      ],
+      "translated_lines": [
+        "这个攻击给人的感觉就好像把手按在地上大喊“土爪”！（太胡闹了）"
+      ]
+    },
+    "name-200": {
+      "original_lines": [
+        "不滅「フェニックスの尾」"
+      ],
+      "translated_lines": [
+        "不灭「不死鸟之尾」"
+      ]
+    },
+    "owner-200": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-200": {
+      "original_lines": [
+        "量産型不死鳥の尾っぽ。比較的安価。最近の不死業界では、蓬莱の薬な"
+      ],
+      "translated_lines": [
+        "量产型的不死鸟之尾。比较的便宜。最近在不死业界被评为，与其去找什"
+      ]
+    },
+    "comment2-200": {
+      "original_lines": [
+        "んか探す位なら、この安い薬で命を繋いだ方が楽、ともっぱらの評判。"
+      ],
+      "translated_lines": [
+        "么蓬莱之药，不如把命托付给这种便宜的药品比较方便。"
+      ]
+    },
+    "name-201": {
+      "original_lines": [
+        "蓬莱「凱風快晴　-フジヤマヴォルケイノ-」"
+      ],
+      "translated_lines": [
+        "蓬莱「凯风快晴　-Fujiyama Volcano-」"
+      ]
+    },
+    "owner-201": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-201": {
+      "original_lines": [
+        "富士山は火山です。結構噴火します。何か私が富士山に登ると八合目"
+      ],
+      "translated_lines": [
+        "富士山是个火山。经常喷发。我在登富士山的时候刚到八合目附近就有"
+      ]
+    },
+    "comment2-201": {
+      "original_lines": [
+        "辺りで噴火しそうなので、登りません。富士山は見るだけにします。"
+      ],
+      "translated_lines": [
+        "种要喷发的感觉，结果没登成。只赏了富士山"
+      ]
+    },
+    "name-202": {
+      "original_lines": [
+        "「パゼストバイフェニックス」"
+      ],
+      "translated_lines": [
+        "「Possessed by Phoenix」(不死鸟附体)"
+      ]
+    },
+    "owner-202": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-202": {
+      "original_lines": [
+        "まさに焼鳥。マージャン用語ではない。私が良く食べる手羽先、"
+      ],
+      "translated_lines": [
+        "简直就像烧鸡。不是麻将术语。我经常吃的鸡翅膀，"
+      ]
+    },
+    "comment2-202": {
+      "original_lines": [
+        "頼むから甦らないで欲しい。私に憑りつかないで欲しい。"
+      ],
+      "translated_lines": [
+        "拜托请千万不要复生啊。也不要附在我身上。"
+      ]
+    },
+    "name-203": {
+      "original_lines": [
+        "「蓬莱人形」"
+      ],
+      "translated_lines": [
+        "「蓬莱人形」"
+      ]
+    },
+    "owner-203": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-203": {
+      "original_lines": [
+        "そうかあんたですか。あの時の不思議な人間は。"
+      ],
+      "translated_lines": [
+        "原来如此是你啊。那个时候那个不可思议的人类。"
+      ]
+    },
+    "comment2-203": {
+      "original_lines": [
+        "そりゃ死なないはずだよ。不老不死なんだもんな。"
+      ],
+      "translated_lines": [
+        "那当然是应该死不了的啊。本来就是不老不死嘛。"
+      ]
+    },
+    "name-204": {
+      "original_lines": [
+        "「インペリシャブルシューティング」"
+      ],
+      "translated_lines": [
+        "「Imperishable Shooting」(不朽的弹幕)"
+      ]
+    },
+    "owner-204": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-204": {
+      "original_lines": [
+        "シューティングは終わらない。でもこの攻撃はシュートしていない。"
+      ],
+      "translated_lines": [
+        "射击游戏不会终结。不过这个攻击并没有射击。"
+      ]
+    },
+    "comment2-204": {
+      "original_lines": [
+        "そんな攻撃にこの名前を付けたのには意味がある（ここに書けよ）。"
+      ],
+      "translated_lines": [
+        "给那样的攻击赋予这个名字是有它的意义的。（在这里写清楚啊）"
+      ]
+    },
+    "name-205": {
+      "original_lines": [
+        "「季節外れのバタフライストーム」"
+      ],
+      "translated_lines": [
+        "「不合时令的蝶雨」"
+      ]
+    },
+    "owner-205": {
+      "original_lines": [
+        "リグル・ナイトバグ"
+      ],
+      "translated_lines": [
+        "莉格露·奈特巴格"
+      ]
+    },
+    "comment1-205": {
+      "original_lines": [
+        "リグルは少々頭が弱い感じがする。というか、今回の主人公達相手じゃ"
+      ],
+      "translated_lines": [
+        "莉格露感觉有点傻。就是说，这次做主人公她们的对手有一点可怜了。"
+      ]
+    },
+    "comment2-205": {
+      "original_lines": [
+        "ちょっと可哀想。チルノ辺りと遊ぶのが丁度良い位だ。"
+      ],
+      "translated_lines": [
+        "去和琪露诺那样的玩刚刚好。"
+      ]
+    },
+    "name-206": {
+      "original_lines": [
+        "「ブラインドナイトバード」"
+      ],
+      "translated_lines": [
+        "「Blind Night-Bird」(失明的夜雀)"
+      ]
+    },
+    "owner-206": {
+      "original_lines": [
+        "ミスティア・ローレライ"
+      ],
+      "translated_lines": [
+        "米斯蒂娅·萝蕾拉"
+      ]
+    },
+    "comment1-206": {
+      "original_lines": [
+        "ローレライ。どうも私はローラレイとよく言い間違う。んん～ローラ。"
+      ],
+      "translated_lines": [
+        "萝蕾拉。说来我经常错读成萝拉蕾。恩恩～萝拉。"
+      ]
+    },
+    "comment2-206": {
+      "original_lines": [
+        "絵では指３本に見えるけど、隠れているだけで指は５本だってば。"
+      ],
+      "translated_lines": [
+        "话说从图上看似乎只有3根手指，实际上只是隐藏了起来总共有5根的啦。"
+      ]
+    },
+    "name-207": {
+      "original_lines": [
+        "「日出づる国の天子」"
+      ],
+      "translated_lines": [
+        "「日出国之天子」"
+      ]
+    },
+    "owner-207": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-207": {
+      "original_lines": [
+        "ああ、そのお姿は神々し過ぎて見えません。それにしても、慧音はなん"
+      ],
+      "translated_lines": [
+        "啊啊，那身姿过于耀眼以至于无法看清。不过话说回来，慧音干嘛要穿一"
+      ]
+    },
+    "comment2-207": {
+      "original_lines": [
+        "で変なスカートをはいているのだろう。帽子も。"
+      ],
+      "translated_lines": [
+        "身奇怪的裙子呢。还有帽子。"
+      ]
+    },
+    "name-208": {
+      "original_lines": [
+        "「幻朧月睨(ルナティックレッドアイズ)」"
+      ],
+      "translated_lines": [
+        "「幻胧月睨(Lunatic Red Eyes)」"
+      ]
+    },
+    "owner-208": {
+      "original_lines": [
+        "鈴仙・Ｕ・イナバ"
+      ],
+      "translated_lines": [
+        "铃仙·优昙华院·因幡"
+      ]
+    },
+    "comment1-208": {
+      "original_lines": [
+        "変なあだ名で呼ばれまくりの宇宙兎。その腹いせにスペルカードは"
+      ],
+      "translated_lines": [
+        "总是被起一些奇怪外号的宇宙兔。因此干脆就把她的符卡的汉字也一"
+      ]
+    },
+    "comment2-208": {
+      "original_lines": [
+        "漢字に妙な読み仮名をつけてみた。カード名は気に入っているらしい。"
+      ],
+      "translated_lines": [
+        "并注上了奇怪的读音。她似乎很喜欢符卡的名字。"
+      ]
+    },
+    "name-209": {
+      "original_lines": [
+        "「天網蜘網捕蝶の法」"
+      ],
+      "translated_lines": [
+        "「天网蛛网捕蝶之法」"
+      ]
+    },
+    "owner-209": {
+      "original_lines": [
+        "八意永琳"
+      ],
+      "translated_lines": [
+        "八意永琳"
+      ]
+    },
+    "comment1-209": {
+      "original_lines": [
+        "如何なる者も逃さない天にも地にも張り巡らされた光の蜘蛛の巣。"
+      ],
+      "translated_lines": [
+        "展开于天地之间不管任何人都无法逃脱的闪光的蜘蛛网。"
+      ]
+    },
+    "comment2-209": {
+      "original_lines": [
+        "監視から逃れる事はもはや不可能だ。ついでに映画倫理も監視するぞ。"
+      ],
+      "translated_lines": [
+        "现在想从监视当中逃脱已经是不可能的了。顺便连电影伦理也监视了。"
+      ]
+    },
+    "name-210": {
+      "original_lines": [
+        "「蓬莱の樹海」"
+      ],
+      "translated_lines": [
+        "「蓬莱的树海」"
+      ]
+    },
+    "owner-210": {
+      "original_lines": [
+        "蓬莱山輝夜"
+      ],
+      "translated_lines": [
+        "蓬莱山辉夜"
+      ]
+    },
+    "comment1-210": {
+      "original_lines": [
+        "方位磁石が狂うのは、実は回転罠の所為だったと専らの評判の樹海。こ"
+      ],
+      "translated_lines": [
+        "大部分人都认为指南针会混乱的原因，实际上是迷路陷阱在捣鬼。假如玩"
+      ]
+    },
+    "comment2-210": {
+      "original_lines": [
+        "のゲームを終えたら樹海に行こうと考えていたら、是非思い直しなさい"
+      ],
+      "translated_lines": [
+        "过这个游戏之后想去树海的话，请一定要再慎重考虑。"
+      ]
+    },
+    "name-211": {
+      "original_lines": [
+        "「フェニックス再誕」"
+      ],
+      "translated_lines": [
+        "「不死鸟重生」"
+      ]
+    },
+    "owner-211": {
+      "original_lines": [
+        "藤原妹紅"
+      ],
+      "translated_lines": [
+        "藤原妹红"
+      ]
+    },
+    "comment1-211": {
+      "original_lines": [
+        "妹で紅、って誰かを彷彿させる名前だが、本当は、自分”も紅”色に"
+      ],
+      "translated_lines": [
+        "又是妹又是红，这个名字好像让人想起了某个人。实际上，是希望自己也"
+      ]
+    },
+    "comment2-211": {
+      "original_lines": [
+        "染まれ、と言う意味。これ以上紅くなったら只の火の塊になりそう。"
+      ],
+      "translated_lines": [
+        "被染成“红”色，这样的意思。要是变的更红的话恐怕就只不过是一团火了。"
+      ]
+    },
+    "name-212": {
+      "original_lines": [
+        "「エンシェントデューパー」"
+      ],
+      "translated_lines": [
+        "「Ancient Duper」(远古的欺骗者)"
+      ]
+    },
+    "owner-212": {
+      "original_lines": [
+        "因幡てゐ"
+      ],
+      "translated_lines": [
+        "因幡天为"
+      ]
+    },
+    "comment1-212": {
+      "original_lines": [
+        "根っからの詐欺師。人を騙す度に報復を受けるが、全く懲りてない。"
+      ],
+      "translated_lines": [
+        "生性就是个欺诈师。虽然每次骗人都会遭到报复，但完全没有悔过之意。"
+      ]
+    },
+    "comment2-212": {
+      "original_lines": [
+        "耳は白く、髪の毛は黒い……。これは白兎なのかどうか判らない。"
+      ],
+      "translated_lines": [
+        "白白的耳朵，黑黑的毛发……。不知道这到底算不算是白兔。"
+      ]
+    },
+    "name-213": {
+      "original_lines": [
+        "「無何有浄化」"
+      ],
+      "translated_lines": [
+        "「无何有的净化」"
+      ]
+    },
+    "owner-213": {
+      "original_lines": [
+        "上白沢慧音"
+      ],
+      "translated_lines": [
+        "上白泽慧音"
+      ]
+    },
+    "comment1-213": {
+      "original_lines": [
+        "世界再生。人間が自然保護とか言っているのがちゃんちゃらおかしい。"
+      ],
+      "translated_lines": [
+        "世界再生。人类竟然声称保护自然什么的实在是太可笑了。"
+      ]
+    },
+    "comment2-213": {
+      "original_lines": [
+        "自然に保護されている身分の癖に、上の立場から物を言うとは……。"
+      ],
+      "translated_lines": [
+        "明明自己是被自然所保护的身份，说话却一副站在更高的立场上的样子……。"
+      ]
+    },
+    "name-214": {
+      "original_lines": [
+        "「夢想天生」"
+      ],
+      "translated_lines": [
+        "「梦想天生」"
+      ]
+    },
+    "owner-214": {
+      "original_lines": [
+        "博麗霊夢"
+      ],
+      "translated_lines": [
+        "博丽灵梦"
+      ]
+    },
+    "comment1-214": {
+      "original_lines": [
+        "色々と究極奥義。霊夢はありとあらゆるものから宙に浮き無敵となる。"
+      ],
+      "translated_lines": [
+        "总之是究极奥义。灵梦漂浮于所有物体中间变成了无敌。"
+      ]
+    },
+    "comment2-214": {
+      "original_lines": [
+        "もしこれが遊び（時間制限付き）でなければ、誰も勝つ事が出来ない。"
+      ],
+      "translated_lines": [
+        "假如这不是游戏（有时间限制）的话，谁也无法取胜。"
+      ]
+    },
+    "name-215": {
+      "original_lines": [
+        "「ブレイジングスター」"
+      ],
+      "translated_lines": [
+        "「Blazing Star」(闪亮之星)"
+      ]
+    },
+    "owner-215": {
+      "original_lines": [
+        "霧雨魔理沙"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙"
+      ]
+    },
+    "comment1-215": {
+      "original_lines": [
+        "自らが彗星となる究極の体当たり芸。かなり直球。彼女らしい。"
+      ],
+      "translated_lines": [
+        "自己变成彗星的究极冲撞表演。非常地直接。很像她。"
+      ]
+    },
+    "comment2-215": {
+      "original_lines": [
+        "もはや弾幕ではないのだが、まぁ魔理沙の事だから、とみんな黙認。"
+      ],
+      "translated_lines": [
+        "虽然这已经不再算是弹幕了，不过呢因为是魔理沙嘛，大家都这么默许了。"
+      ]
+    },
+    "name-216": {
+      "original_lines": [
+        "「デフレーションワールド」"
+      ],
+      "translated_lines": [
+        "「Deflation World」(收缩的世界)"
+      ]
+    },
+    "owner-216": {
+      "original_lines": [
+        "十六夜咲夜"
+      ],
+      "translated_lines": [
+        "十六夜咲夜"
+      ]
+    },
+    "comment1-216": {
+      "original_lines": [
+        "時空を縮小させる咲夜の変化球。小さくなった時間は、短期間の過去と"
+      ],
+      "translated_lines": [
+        "咲夜那让时空收缩的变化球。变小的时间使得短时间内的过去和未来同时"
+      ]
+    },
+    "comment2-216": {
+      "original_lines": [
+        "未来を同時に現在に映してしまう。それらが全て襲い掛かる恐怖の技。"
+      ],
+      "translated_lines": [
+        "映射于现在。被这一切所袭击的恐怖之技。"
+      ]
+    },
+    "name-217": {
+      "original_lines": [
+        "「待宵反射衛星斬」"
+      ],
+      "translated_lines": [
+        "「待宵反射卫星斩」"
+      ]
+    },
+    "owner-217": {
+      "original_lines": [
+        "魂魄妖夢"
+      ],
+      "translated_lines": [
+        "魂魄妖梦"
+      ]
+    },
+    "comment1-217": {
+      "original_lines": [
+        "月の力を借りて斬る。この一振りだけで物凄く広いといわれる西行寺"
+      ],
+      "translated_lines": [
+        "借助月亮之力挥出的一斩。光是这一挥就能把据说非常宽广的西行寺庭"
+      ]
+    },
+    "comment2-217": {
+      "original_lines": [
+        "の庭全てを網羅する斬り技。月の力が力を生み、無限に横に広がる。"
+      ],
+      "translated_lines": [
+        "院全部网罗的斩技。月之力能够产生力量，向周围无限扩散。"
+      ]
+    },
+    "name-218": {
+      "original_lines": [
+        "「グランギニョル座の怪人」"
+      ],
+      "translated_lines": [
+        "「猎奇剧团里的怪人」"
+      ]
+    },
+    "owner-218": {
+      "original_lines": [
+        "アリス・マーガトロイド"
+      ],
+      "translated_lines": [
+        "爱丽丝·玛格特洛依德"
+      ]
+    },
+    "comment1-218": {
+      "original_lines": [
+        "この人形は奇怪な人形だけで構成されていて気分が悪い。普段は封印"
+      ],
+      "translated_lines": [
+        "这个人偶全部是由一些怪异的人偶构成的感觉很恐怖。平常是被封印的"
+      ]
+    },
+    "comment2-218": {
+      "original_lines": [
+        "している魔法。この人形、涙は流すは毛は伸びるはやりたい放題。"
+      ],
+      "translated_lines": [
+        "魔法。这个人偶，流泪也好长毛也好全部随心所欲。"
+      ]
+    },
+    "name-219": {
+      "original_lines": [
+        "「スカーレットディスティニー」"
+      ],
+      "translated_lines": [
+        "「Scarlet Destiny」(绯红色的命运)"
+      ]
+    },
+    "owner-219": {
+      "original_lines": [
+        "レミリア・スカーレット"
+      ],
+      "translated_lines": [
+        "蕾米莉亚·斯卡蕾特"
+      ]
+    },
+    "comment1-219": {
+      "original_lines": [
+        "高速の紅。小細工無しの直球で力を見せ付ける。レミリアは実は魔法"
+      ],
+      "translated_lines": [
+        "高速之红。不耍任何小聪明直接正面让你见识其力量。实际上蕾米莉亚比起魔法"
+      ]
+    },
+    "comment2-219": {
+      "original_lines": [
+        "より肉体派で、反則的な身体能力で他を圧倒する。弾幕より直接格闘。"
+      ],
+      "translated_lines": [
+        "应该属于肉体派，以难以置信的身体能力压倒一切。比起弹幕更擅长近身格斗。"
+      ]
+    },
+    "name-220": {
+      "original_lines": [
+        "「西行寺無余涅槃」"
+      ],
+      "translated_lines": [
+        "「西行寺无余涅槃」"
+      ]
+    },
+    "owner-220": {
+      "original_lines": [
+        "西行寺幽々子"
+      ],
+      "translated_lines": [
+        "西行寺幽幽子"
+      ]
+    },
+    "comment1-220": {
+      "original_lines": [
+        "幽々子の最大奥義、彼女の死。ゲーム中では彼女の能力を見せる機会"
+      ],
+      "translated_lines": [
+        "幽幽子最大的奥义，她的死。在游戏中几乎没什么机会展现她的能力让"
+      ]
+    },
+    "comment2-220": {
+      "original_lines": [
+        "って殆どないのが困ったものだ。あんなのにぽんぽん殺されてもねぇ。"
+      ],
+      "translated_lines": [
+        "人很头疼啊。被那东西给砰砰的杀掉比较那个呢。"
+      ]
+    },
+    "name-221": {
+      "original_lines": [
+        "「深弾幕結界　-夢幻泡影-」"
+      ],
+      "translated_lines": [
+        "「深弹幕结界 -梦幻泡影-」"
+      ]
+    },
+    "owner-221": {
+      "original_lines": [
+        "八雲紫"
+      ],
+      "translated_lines": [
+        "八云紫"
+      ]
+    },
+    "comment1-221": {
+      "original_lines": [
+        "弾幕結界は無限に続くＳＴＧの万華鏡。紫のさじ加減一つで生きる"
+      ],
+      "translated_lines": [
+        "弹幕的结界是无限延续ＳＴＧ的万花筒。玩家的生死完全取决于"
+      ]
+    },
+    "comment2-221": {
+      "original_lines": [
+        "か死ぬかが決まる。なんて人間は、ＳＴＧは、儚いものなのだろう。"
+      ],
+      "translated_lines": [
+        "紫每次出手的轻重。人类、抑或是ＳＴＧ，都是何等的虚无缥缈。"
+      ]
+    },
+    "name_format": {
+      "original_lines": [
+        "Ｎｏ．%s　　%s"
+      ],
+      "translated_lines": [
+        "Ｎｏ．%s　　%s"
+      ]
+    },
+    "owner_format": {
+      "original_lines": [
+        "使用者  %s　　%s %s"
+      ],
+      "translated_lines": [
+        "使用者  %s　　%s %s"
+      ]
+    },
+    "bomb-reimu": {
+      "original_lines": [
+        "霊符「夢想妙珠」"
+      ],
+      "translated_lines": [
+        "灵符「梦想妙珠」"
+      ]
+    },
+    "th06-bomb-marisa-b": {
+      "original_lines": [
+        "恋符「マスタースパーク」"
+      ],
+      "translated_lines": [
+        "恋符「Master Spark」(极限火花)"
+      ]
+    },
+    "th07-bomb-sakuya-a-focused": {
+      "original_lines": [
+        "幻符「殺人ドール」"
+      ],
+      "translated_lines": [
+        "幻符「杀人玩偶」"
+      ]
+    },
+    "th08-bomb-alice": {
+      "original_lines": [
+        "魔符「アーティフルサクリファイス」"
+      ],
+      "translated_lines": [
+        "魔符「Artful Sacrifice」(狡猾的献祭)"
+      ]
+    },
+    "th08-bomb-alice-last": {
+      "original_lines": [
+        "魔操「リターンイナニメトネス」"
+      ],
+      "translated_lines": [
+        "魔操「Return Inanimateness」(回归虚无)"
+      ]
+    },
+    "th08-bomb-marisa-last": {
+      "original_lines": [
+        "魔砲「ファイナルスパーク」"
+      ],
+      "translated_lines": [
+        "魔炮「Final Spark」(究极火花)"
+      ]
+    },
+    "th08-bomb-reimu-last": {
+      "original_lines": [
+        "神霊「夢想封印　瞬」"
+      ],
+      "translated_lines": [
+        "神灵「梦想封印　瞬」"
+      ]
+    },
+    "th08-bomb-remilia": {
+      "original_lines": [
+        "紅符「不夜城レッド」"
+      ],
+      "translated_lines": [
+        "红符「红色不夜城」"
+      ]
+    },
+    "th08-bomb-remilia-last": {
+      "original_lines": [
+        "紅魔「スカーレットデビル」"
+      ],
+      "translated_lines": [
+        "红魔「Scarlet Devil」(绯红色的恶魔)"
+      ]
+    },
+    "th08-bomb-sakuya-last": {
+      "original_lines": [
+        "幻葬「夜霧の幻影殺人鬼」"
+      ],
+      "translated_lines": [
+        "幻葬「夜雾幻影杀人鬼」"
+      ]
+    },
+    "th08-bomb-youmu": {
+      "original_lines": [
+        "人符「現世斬」"
+      ],
+      "translated_lines": [
+        "人符「现世斩」"
+      ]
+    },
+    "th08-bomb-youmu-last": {
+      "original_lines": [
+        "人鬼「未来永劫斬」"
+      ],
+      "translated_lines": [
+        "人鬼「未来永劫斩」"
+      ]
+    },
+    "th08-bomb-yukari": {
+      "original_lines": [
+        "境符「四重結界」"
+      ],
+      "translated_lines": [
+        "境符「四重结界」"
+      ]
+    },
+    "th08-bomb-yukari-last": {
+      "original_lines": [
+        "境界「永夜四重結界」"
+      ],
+      "translated_lines": [
+        "界线「永夜四重结界」"
+      ]
+    },
+    "th08-bomb-yuyuko": {
+      "original_lines": [
+        "死符「ギャストリドリーム」"
+      ],
+      "translated_lines": [
+        "死符「Ghastly Dream」(惊梦)"
+      ]
+    },
+    "th08-bomb-yuyuko-last": {
+      "original_lines": [
+        "死蝶「華胥の永眠」"
+      ],
+      "translated_lines": [
+        "死蝶「华胥的永眠」"
+      ]
+    },
+    "th08-spell-dissolve": {
+      "original_lines": [
+        "「ディゾルブスペル」"
+      ],
+      "translated_lines": [
+        "「Dissolve Spell」(咏唱解除)"
+      ]
+    },
+    "th08-spell-resurrection": {
+      "original_lines": [
+        "「リザレクション」"
+      ],
+      "translated_lines": [
+        "「Resurrection」(复活)"
+      ]
+    }
+  }
+}

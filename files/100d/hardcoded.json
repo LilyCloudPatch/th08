@@ -1,0 +1,1079 @@
+{
+  "schema": "lilypatch.text.v1",
+  "target_id": "th08_100d",
+  "resource": "lilypatch/th08/hardcoded",
+  "entries": {
+    "music-locked-1": {
+      "original_lines": [
+        "＊＊＊注意＊＊＊"
+      ],
+      "translated_lines": [
+        "＊＊＊注意＊＊＊"
+      ]
+    },
+    "music-locked-2": {
+      "original_lines": [
+        "　この曲はまだ、ゲーム中で流れておりません"
+      ],
+      "translated_lines": [
+        "　这首曲子还没有在游戏中播放过。"
+      ]
+    },
+    "music-locked-3": {
+      "original_lines": [
+        "　自分でプレイする前に聴きたくない、コメントを見たくない、"
+      ],
+      "translated_lines": [
+        "　如果在自己玩之前不想听、不想看说明的话，"
+      ]
+    },
+    "music-locked-4": {
+      "original_lines": [
+        "　という方は一刻も早くここから立ち去る事をお奨めします。"
+      ],
+      "translated_lines": [
+        "　这种情况推荐赶快离开这个选单。"
+      ]
+    },
+    "music-locked-5": {
+      "original_lines": [
+        "　"
+      ],
+      "translated_lines": [
+        "　"
+      ]
+    },
+    "music-locked-6": {
+      "original_lines": [
+        "　（なお、ここで決定ボタンを押せば、他の曲と同様、"
+      ],
+      "translated_lines": [
+        "　（现在，在这里按下决定键，会和其他曲子一样播放，"
+      ]
+    },
+    "music-locked-7": {
+      "original_lines": [
+        "　　曲の再生とコメント表示が行われますので、注意）"
+      ],
+      "translated_lines": [
+        "　　并且一样显示出曲目评论，敬请注意。）"
+      ]
+    },
+    "spell-list-description": {
+      "original_lines": [
+        "取得数/挑戦数（()内は本編での集計）"
+      ],
+      "translated_lines": [
+        "取得数/挑战数（括号内为通常游戏合计）"
+      ]
+    },
+    "spell-statistics-description": {
+      "original_lines": [
+        "ステージ    取得/挑戦可能/総数（()内は全キャラ合計）"
+      ],
+      "translated_lines": [
+        "Stage       取得/可供挑战/总数（括号内为全角色合计）"
+      ]
+    },
+    "spell-statistics-percentages": {
+      "original_lines": [
+        "取得率　（キャラ別／総合）"
+      ],
+      "translated_lines": [
+        "取得率　  （分角色／总计）"
+      ]
+    },
+    "stats-character-format-context": {
+      "original_lines": [
+        "%s %6d %6d %6d %6d %6d %6d"
+      ],
+      "translated_lines": [
+        "%s %6d %6d %6d %6d %6d %6d"
+      ]
+    },
+    "th06-error-two-instances": {
+      "original_lines": [
+        "二つは起動できません\r\n"
+      ],
+      "translated_lines": [
+        "不能双开\n"
+      ]
+    },
+    "th06-log-16bit-textures": {
+      "original_lines": [
+        "16Bit のテクスチャの使用を強制します\r\n"
+      ],
+      "translated_lines": [
+        "强制使用16Bit纹理\n"
+      ]
+    },
+    "th06-log-character-init-failure": {
+      "original_lines": [
+        "error : 文字の初期化に失敗しました\r\n"
+      ],
+      "translated_lines": [
+        "error : 文字初始化失败了\n"
+      ]
+    },
+    "th06-log-color-composition": {
+      "original_lines": [
+        "テクスチャの色合成を抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制合成纹理颜色\n"
+      ]
+    },
+    "th06-log-depth-test": {
+      "original_lines": [
+        "デプステストを抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制色深测试\n"
+      ]
+    },
+    "th06-log-direct3d-init-failure": {
+      "original_lines": [
+        "Direct3D の初期化に失敗、これではゲームは出来ません\r\n"
+      ],
+      "translated_lines": [
+        "Direct3D 初始化失败，这样无法运行游戏\n"
+      ]
+    },
+    "th06-log-directinput-init": {
+      "original_lines": [
+        "DirectInput は正常に初期化されました\r\n"
+      ],
+      "translated_lines": [
+        "DirectInput 已正常初始化\n"
+      ]
+    },
+    "th06-log-directinput-usage": {
+      "original_lines": [
+        "パッド、キーボードの入力に DirectInput を使用しません\r\n"
+      ],
+      "translated_lines": [
+        "不对手柄、键盘输入使用DirectInput\n"
+      ]
+    },
+    "th06-log-directsound-init": {
+      "original_lines": [
+        "DirectSound は正常に初期化されました\r\n"
+      ],
+      "translated_lines": [
+        "DirectSound 已正常初始化\n"
+      ]
+    },
+    "th06-log-export-failure": {
+      "original_lines": [
+        "ファイルが書き出せません %s\r\n"
+      ],
+      "translated_lines": [
+        "无法创建文档 %s\n"
+      ]
+    },
+    "th06-log-first-startup-32bit": {
+      "original_lines": [
+        "初回起動、画面を 32Bits で初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "初次启动，以32Bits初始化了画面\n"
+      ]
+    },
+    "th06-log-fog": {
+      "original_lines": [
+        "フォグの使用を抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制使用雾\n"
+      ]
+    },
+    "th06-log-gouraud-shading": {
+      "original_lines": [
+        "グーローシェーディングを抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制Gouraud阴影处理\n"
+      ]
+    },
+    "th06-log-hal-unavailable": {
+      "original_lines": [
+        "HAL も使用できないようです\r\n"
+      ],
+      "translated_lines": [
+        "HAL 也不能使用的样子\n"
+      ]
+    },
+    "th06-log-header": {
+      "original_lines": [
+        "東方動作記録 --------------------------------------------- \r\n"
+      ],
+      "translated_lines": [
+        "东方运行记录 --------------------------------------------- \n"
+      ]
+    },
+    "th06-log-minimum-graphics": {
+      "original_lines": [
+        "ゲーム周りのアイテムの描画を抑制します\r\n"
+      ],
+      "translated_lines": [
+        "不显示必要的最底限的残留物\n"
+      ]
+    },
+    "th06-log-no-gamepad": {
+      "original_lines": [
+        "使えるパッドが存在しないようです、残念\r\n"
+      ],
+      "translated_lines": [
+        "很遗憾，找不到可以使用的手柄\n"
+      ]
+    },
+    "th06-log-rasterizer-mode": {
+      "original_lines": [
+        "リファレンスラスタライザを強制します\r\n"
+      ],
+      "translated_lines": [
+        "强制Reference Rasterizer模式\n"
+      ]
+    },
+    "th06-log-read-only-full-disk": {
+      "original_lines": [
+        "フォルダが書込み禁止属性になっているか、ディスクがいっぱいいっぱいになってませんか？\r\n"
+      ],
+      "translated_lines": [
+        "文件夹被设置成只读属性了吗？硬盘满满的了吗？\n"
+      ]
+    },
+    "th06-log-reinit-missing-config": {
+      "original_lines": [
+        "コンフィグデータが見つからないので初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "Config档案无法找到，所以再次初始化了\n"
+      ]
+    },
+    "th06-log-sound-file-read-error": {
+      "original_lines": [
+        "error : Sound ファイルが読み込めない データを確認 %s\r\n"
+      ],
+      "translated_lines": [
+        "错误：无法读取音效文件 请检查数据 %s\n"
+      ]
+    },
+    "th06-log-texture-read-error": {
+      "original_lines": [
+        "テクスチャ %s が読み込めません。データが失われてるか壊れています\r\n"
+      ],
+      "translated_lines": [
+        "无法读取纹理 %s。数据丢失或损坏\n"
+      ]
+    },
+    "th06-log-tl-hal": {
+      "original_lines": [
+        "T&L HAL で動作しま～す\r\n"
+      ],
+      "translated_lines": [
+        "使用 T&L HAL 运～行\n"
+      ]
+    },
+    "th06-log-tl-hal-unavailable": {
+      "original_lines": [
+        "T&L HAL は使用できないようです\r\n"
+      ],
+      "translated_lines": [
+        "T&L HAL 似乎不能使用\n"
+      ]
+    },
+    "th06-log-unable-to-read-file": {
+      "original_lines": [
+        "%sが読み込めないです。\r\n"
+      ],
+      "translated_lines": [
+        "无法读取 %s。\n"
+      ]
+    },
+    "th06-log-valid-pad": {
+      "original_lines": [
+        "有効なパッドを発見しました\r\n"
+      ],
+      "translated_lines": [
+        "发现了有效的手柄\n"
+      ]
+    },
+    "th06-log-vertex": {
+      "original_lines": [
+        "頂点バッファの使用を抑制します\r\n"
+      ],
+      "translated_lines": [
+        "抑制使用顶点缓冲\n"
+      ]
+    },
+    "th06-log-window-mode": {
+      "original_lines": [
+        "ウィンドウモードで起動します\r\n"
+      ],
+      "translated_lines": [
+        "以窗口模式启动\n"
+      ]
+    },
+    "th07-key-bomb": {
+      "original_lines": [
+        "ボム、キャンセルボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置Bomb/取消按键"
+      ]
+    },
+    "th07-key-down": {
+      "original_lines": [
+        "下移動ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置向下移动按键"
+      ]
+    },
+    "th07-key-left": {
+      "original_lines": [
+        "左移動ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置向左移动按键"
+      ]
+    },
+    "th07-key-pause": {
+      "original_lines": [
+        "ポーズボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置暂停按键"
+      ]
+    },
+    "th07-key-quit": {
+      "original_lines": [
+        "おおよそ終了します"
+      ],
+      "translated_lines": [
+        "退出按键设定"
+      ]
+    },
+    "th07-key-reset": {
+      "original_lines": [
+        "初期設定に戻します"
+      ],
+      "translated_lines": [
+        "恢复默认设置"
+      ]
+    },
+    "th07-key-right": {
+      "original_lines": [
+        "右移動ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置向右移动按键"
+      ]
+    },
+    "th07-key-shot": {
+      "original_lines": [
+        "ショット、決定ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置射击/决定按键"
+      ]
+    },
+    "th07-key-shotslow": {
+      "original_lines": [
+        "ショット押しっぱなしで低速移動になるようにします"
+      ],
+      "translated_lines": [
+        "按住射击键进入低速移动"
+      ]
+    },
+    "th07-key-skip": {
+      "original_lines": [
+        "メッセージスキップボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置对话跳过按键"
+      ]
+    },
+    "th07-key-slow": {
+      "original_lines": [
+        "低速移動ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置低速移动按键"
+      ]
+    },
+    "th07-key-up": {
+      "original_lines": [
+        "上移動ボタンを設定します"
+      ],
+      "translated_lines": [
+        "设置向上移动按键"
+      ]
+    },
+    "th07-log-async-update-failure": {
+      "original_lines": [
+        "非同期更新も行えません。一番汚いモードに変更します\r\n"
+      ],
+      "translated_lines": [
+        "异步更新也不能进行。切换到最不清洁模式\n"
+      ]
+    },
+    "th07-log-async-vsync-test": {
+      "original_lines": [
+        "VSync非同期可能かどうかを試みます\r\n"
+      ],
+      "translated_lines": [
+        "尝试是否可以进行VSync异步\n"
+      ]
+    },
+    "th07-log-bgm-memory": {
+      "original_lines": [
+        "ＢＧＭをメモリに読み込みます\r\n"
+      ],
+      "translated_lines": [
+        "将BGM载入内存\n"
+      ]
+    },
+    "th07-log-draw-screen": {
+      "original_lines": [
+        "画面周りを毎回描画します\r\n"
+      ],
+      "translated_lines": [
+        "每回描绘画面周期\n"
+      ]
+    },
+    "th07-log-refresh-rate-suggestion": {
+      "original_lines": [
+        "*** リフレッシュレートを60Hzに変更することを推奨します ***\r\n"
+      ],
+      "translated_lines": [
+        "*** 推荐将刷新率更改为60Hz ***\n"
+      ]
+    },
+    "th07-log-reinit-abnormal-config": {
+      "original_lines": [
+        "コンフィグデータが異常でしたので再初期化しました\r\n"
+      ],
+      "translated_lines": [
+        "Config档案异常，所以再次初始化了\n"
+      ]
+    },
+    "th07-log-vsync": {
+      "original_lines": [
+        "垂直同期を取りません\r\n"
+      ],
+      "translated_lines": [
+        "不进行垂直同步\n"
+      ]
+    },
+    "th07-menu-extra-start": {
+      "original_lines": [
+        "エキストラステージを開始します"
+      ],
+      "translated_lines": [
+        "开始Extra关卡的游戏"
+      ]
+    },
+    "th07-menu-music-room": {
+      "original_lines": [
+        "音楽を聴けます"
+      ],
+      "translated_lines": [
+        "欣赏音乐"
+      ]
+    },
+    "th07-menu-option": {
+      "original_lines": [
+        "各種設定できます"
+      ],
+      "translated_lines": [
+        "进行各种设置"
+      ]
+    },
+    "th07-menu-practice-start": {
+      "original_lines": [
+        "ステージを選択し、練習を開始します"
+      ],
+      "translated_lines": [
+        "选择关卡开始练习"
+      ]
+    },
+    "th07-menu-quit": {
+      "original_lines": [
+        "いろいろと終了します"
+      ],
+      "translated_lines": [
+        "差不多该休息了"
+      ]
+    },
+    "th07-menu-replay": {
+      "original_lines": [
+        "リプレイを鑑賞できます"
+      ],
+      "translated_lines": [
+        "欣赏游戏录像"
+      ]
+    },
+    "th07-menu-result": {
+      "original_lines": [
+        "過去のスコアやスペルカードの取得歴を見られます"
+      ],
+      "translated_lines": [
+        "浏览已取得的得分纪录和Spell Card列表"
+      ]
+    },
+    "th07-menu-start": {
+      "original_lines": [
+        "ゲームを開始します"
+      ],
+      "translated_lines": [
+        "开始游戏"
+      ]
+    },
+    "th07-option-bgm": {
+      "original_lines": [
+        "ＢＧＭの再生方法を変更します。（初期設定　ＷＡＶ）"
+      ],
+      "translated_lines": [
+        "更改BGM的播放格式。（默认  WAV）"
+      ]
+    },
+    "th07-option-graphic": {
+      "original_lines": [
+        "画面の色数を変更します。３２ＢＩＴだと最も綺麗に表示されます。"
+      ],
+      "translated_lines": [
+        "更改画面颜色深度。32位是最华丽的显示效果。"
+      ]
+    },
+    "th07-option-key-config": {
+      "original_lines": [
+        "パッド操作のボタン配置を変更します"
+      ],
+      "translated_lines": [
+        "更改手柄的键位操作"
+      ]
+    },
+    "th07-option-player": {
+      "original_lines": [
+        "プレイヤーの初期数を変更します。（初期設定　３）"
+      ],
+      "translated_lines": [
+        "更改初始自机数 （默认  3）"
+      ]
+    },
+    "th07-option-quit": {
+      "original_lines": [
+        "おいそれと終了します"
+      ],
+      "translated_lines": [
+        "结束设置"
+      ]
+    },
+    "th07-option-reset": {
+      "original_lines": [
+        "全て初期設定にします"
+      ],
+      "translated_lines": [
+        "全部恢复默认设定"
+      ]
+    },
+    "th07-option-slow-mode": {
+      "original_lines": [
+        "弾が多い場面でわざと処理落ちさせます(スコア、リプレイ記録不可)"
+      ],
+      "translated_lines": [
+        "当画面中存在大量子弹时故意拖慢处理。（无法记录得分、录像）"
+      ]
+    },
+    "th07-option-window-mode": {
+      "original_lines": [
+        "ウィンドウかフルスクリーンか選択します"
+      ],
+      "translated_lines": [
+        "选择以窗口或全屏显示"
+      ]
+    },
+    "th08-menu-spell-practice": {
+      "original_lines": [
+        "敵にスペルカード戦をお願いします"
+      ],
+      "translated_lines": [
+        "与敌人进行符卡战斗"
+      ]
+    },
+    "th08-option-bgm-volume": {
+      "original_lines": [
+        "ＢＧＭの音量を調整します"
+      ],
+      "translated_lines": [
+        "调整BGM音量"
+      ]
+    },
+    "th08-option-se-volume": {
+      "original_lines": [
+        "効果音の音量を調整します"
+      ],
+      "translated_lines": [
+        "调整效果音音量"
+      ]
+    },
+    "th08-spell-condition-line-1-205": {
+      "original_lines": [
+        "挑戦可能条件：望月（エキストラ）をスペルカード７枚以上取得して"
+      ],
+      "translated_lines": [
+        "解锁条件：在望月（Extra）中收取7张以上的符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-206": {
+      "original_lines": [
+        "挑戦可能条件：通常モードFinalBを２キャラ以上クリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：普通模式下2角色以上Final B通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-207": {
+      "original_lines": [
+        "挑戦可能条件：通常モードFinalBを３キャラ以上クリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：普通模式下3角色以上Final B通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-208": {
+      "original_lines": [
+        "挑戦可能条件：スペルカードモードでスペルカードを50枚以上取得する。"
+      ],
+      "translated_lines": [
+        "解锁条件：符卡练习模式下收取50张以上的符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-209": {
+      "original_lines": [
+        "挑戦可能条件：通常モードFinalBを４キャラ以上クリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：普通模式下4角色以上Final B通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-210": {
+      "original_lines": [
+        "挑戦可能条件：No.%.3dを取得する。"
+      ],
+      "translated_lines": [
+        "解锁条件：收取No.%.3d号符卡。"
+      ]
+    },
+    "th08-spell-condition-line-1-211": {
+      "original_lines": [
+        "挑戦可能条件：スペルカードモードでラストスペルを15枚以上取得する。"
+      ],
+      "translated_lines": [
+        "解锁条件：符卡练习模式下收取15张以上的LSC"
+      ]
+    },
+    "th08-spell-condition-line-1-212": {
+      "original_lines": [
+        "挑戦可能条件：No.%.3d,%.3dを取得し"
+      ],
+      "translated_lines": [
+        "解锁条件：收取No.%.3d,%.3d号符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-213": {
+      "original_lines": [
+        "挑戦可能条件：No.%.3d,%.3d,%.3dを一度でも見る。"
+      ],
+      "translated_lines": [
+        "解锁条件：挑战一次No.%.3d,%.3d,%.3d号符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-214": {
+      "original_lines": [
+        "挑戦可能条件：No.%.3d,%.3d,%.3d,%.3dを一度でも見る。"
+      ],
+      "translated_lines": [
+        "解锁条件：挑战一次No.%.3d,%.3d,%.3d,%.3d号符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-215": {
+      "original_lines": [
+        "挑戦可能条件：魔理沙（単独使用）で三日月（ノーマル）の"
+      ],
+      "translated_lines": [
+        "解锁条件：使用单魔理沙机体将三日月（Normal）难度下的"
+      ]
+    },
+    "th08-spell-condition-line-1-216": {
+      "original_lines": [
+        "挑戦可能条件：霊夢（単独使用）で上つ弓張（ハード）以上をクリア。"
+      ],
+      "translated_lines": [
+        "解锁条件：使用单灵梦机体通关上弦月（Hard）以上难度。"
+      ]
+    },
+    "th08-spell-condition-line-1-217": {
+      "original_lines": [
+        "挑戦可能条件：スペルカードモードでスペルカードを120枚以上取得する"
+      ],
+      "translated_lines": [
+        "解锁条件：符卡练习模式下收取120张以上的符卡"
+      ]
+    },
+    "th08-spell-condition-line-1-218": {
+      "original_lines": [
+        "挑戦可能条件：通常モードFinalBを６キャラ以上クリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：普通模式下6角色以上Final B通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-219": {
+      "original_lines": [
+        "挑戦可能条件：望月（エキストラ）を３キャラ以上クリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：3角色以上望月（Extra）通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-220": {
+      "original_lines": [
+        "挑戦可能条件：スペルカードモードでラストスペルを30枚以上取得する。"
+      ],
+      "translated_lines": [
+        "解锁条件：符卡练习模式下收取30张以上的LSC"
+      ]
+    },
+    "th08-spell-condition-line-1-221": {
+      "original_lines": [
+        "挑戦可能条件：待宵（ルナティック）をクリアする。"
+      ],
+      "translated_lines": [
+        "解锁条件：待宵（Lunatic）难度下通关。"
+      ]
+    },
+    "th08-spell-condition-line-1-222": {
+      "original_lines": [
+        "挑戦可能条件：これ以外のラストワードを全て一度見る。"
+      ],
+      "translated_lines": [
+        "解锁条件：此外的Last Word都挑战一次。"
+      ]
+    },
+    "th08-spell-condition-line-2-205": {
+      "original_lines": [
+        "　　　　　　　クリアする。"
+      ],
+      "translated_lines": [
+        "　　　　　并通关。"
+      ]
+    },
+    "th08-spell-condition-line-2-206-207-209": {
+      "original_lines": [
+        "　　　　　　　難易度不問。"
+      ],
+      "translated_lines": [
+        "　　　　　难易度不限。"
+      ]
+    },
+    "th08-spell-condition-line-2-208-211-217-220": {
+      "original_lines": [
+        "　　　　　　　全キャラ合計。"
+      ],
+      "translated_lines": [
+        "　　　　　全角色合计。"
+      ]
+    },
+    "th08-spell-condition-line-2-212": {
+      "original_lines": [
+        "　　　　　　　かつ、No.%.3dを一度でも見る。"
+      ],
+      "translated_lines": [
+        "　　　　　并且，挑战一次No.%.3d号符卡"
+      ]
+    },
+    "th08-spell-condition-line-2-213-214-222": {
+      "original_lines": [
+        "　　　　　　　取得の必要はない。"
+      ],
+      "translated_lines": [
+        "　　　　　不一定要收取。"
+      ]
+    },
+    "th08-spell-condition-line-2-215": {
+      "original_lines": [
+        "　　　　　　　スペルカードを全て取得。"
+      ],
+      "translated_lines": [
+        "　　　　　符卡全部收取。"
+      ]
+    },
+    "th08-spell-condition-line-2-216": {
+      "original_lines": [
+        "　　　　　　　最終面はFinalBのみ。"
+      ],
+      "translated_lines": [
+        "　　　　　仅限FinalB线路。"
+      ]
+    },
+    "th08-spell-condition-line-2-218": {
+      "original_lines": [
+        "　　　　　　　"
+      ],
+      "translated_lines": [
+        "　　　　　"
+      ]
+    },
+    "th08-spell-condition-line-2-221": {
+      "original_lines": [
+        "　　　　　　　コンティニュー可、使用キャラ不問。"
+      ],
+      "translated_lines": [
+        "　　　　　可续关，使用角色不限。"
+      ]
+    },
+    "th08-spell-practice-comment": {
+      "original_lines": [
+        "カードの補足"
+      ],
+      "translated_lines": [
+        "符卡补足"
+      ]
+    },
+    "th08-spell-practice-easy-mode": {
+      "original_lines": [
+        "初月（イージー）"
+      ],
+      "translated_lines": [
+        "初月（Easy）"
+      ]
+    },
+    "th08-spell-practice-extra-mode": {
+      "original_lines": [
+        "望月（エキストラ）"
+      ],
+      "translated_lines": [
+        "望月（Extra）"
+      ]
+    },
+    "th08-spell-practice-hard-mode": {
+      "original_lines": [
+        "上つ弓張（ハード）"
+      ],
+      "translated_lines": [
+        "上弦月（Hard）"
+      ]
+    },
+    "th08-spell-practice-highscore-title": {
+      "original_lines": [
+        "取得数/挑戦数[最高点]　%s　全主人公合計"
+      ],
+      "translated_lines": [
+        "取得数/挑战数[最高分]　%s　全主人公合计"
+      ]
+    },
+    "th08-spell-practice-last-spell": {
+      "original_lines": [
+        "Last"
+      ],
+      "translated_lines": [
+        "Last"
+      ]
+    },
+    "th08-spell-practice-last-word": {
+      "original_lines": [
+        "極意（ラストワード）"
+      ],
+      "translated_lines": [
+        "极意（Last Word）"
+      ]
+    },
+    "th08-spell-practice-lunatic-mode": {
+      "original_lines": [
+        "待宵（ルナティック）"
+      ],
+      "translated_lines": [
+        "待宵（Lunatic）"
+      ]
+    },
+    "th08-spell-practice-normal-mode": {
+      "original_lines": [
+        "三日月（ノーマル）"
+      ],
+      "translated_lines": [
+        "三日月（Normal）"
+      ]
+    },
+    "th08-spell-practice-owner-difficulty-line": {
+      "original_lines": [
+        "使用者  %s　　%s %s"
+      ],
+      "translated_lines": [
+        "使用者  %s　　%s %s"
+      ]
+    },
+    "th08-spell-result-character-select": {
+      "original_lines": [
+        "%3d/%3d（キャラ切り替え↓↑）"
+      ],
+      "translated_lines": [
+        "%3d/%3d（↓↑切换角色）"
+      ]
+    },
+    "th08-stats-alice": {
+      "original_lines": [
+        "アリス・Ｍ　　　"
+      ],
+      "translated_lines": [
+        "爱丽丝·M 　　　"
+      ]
+    },
+    "th08-stats-clear-count": {
+      "original_lines": [
+        "クリア回数  　　 %6d %6d %6d %6d %6d %6d"
+      ],
+      "translated_lines": [
+        "通关次数　　　   %6d %6d %6d %6d %6d %6d"
+      ]
+    },
+    "th08-stats-continue": {
+      "original_lines": [
+        "コンティニュー   %6d %6d %6d %6d %6d %6d"
+      ],
+      "translated_lines": [
+        "续关次数　　　   %6d %6d %6d %6d %6d %6d"
+      ]
+    },
+    "th08-stats-marisa": {
+      "original_lines": [
+        "霧雨　魔理沙　　"
+      ],
+      "translated_lines": [
+        "雾雨魔理沙　　　"
+      ]
+    },
+    "th08-stats-marisa-alice": {
+      "original_lines": [
+        "魔理沙＆アリス　"
+      ],
+      "translated_lines": [
+        "魔理沙＆爱丽丝　"
+      ]
+    },
+    "th08-stats-play-count": {
+      "original_lines": [
+        "プレイ回数　　　 　Easy 　Norm 　Hard 　Luna  Extra  Total"
+      ],
+      "translated_lines": [
+        "游戏次数"
+      ]
+    },
+    "th08-stats-practice": {
+      "original_lines": [
+        "プラクティス　   %6d %6d %6d %6d %6d %6d"
+      ],
+      "translated_lines": [
+        "练习次数　　　   %6d %6d %6d %6d %6d %6d"
+      ]
+    },
+    "th08-stats-reimu": {
+      "original_lines": [
+        "博麗　霊夢　　　"
+      ],
+      "translated_lines": [
+        "博丽灵梦　　　　"
+      ]
+    },
+    "th08-stats-reimu-yukari": {
+      "original_lines": [
+        "霊夢＆紫　　　　"
+      ],
+      "translated_lines": [
+        "灵梦＆紫　　　　"
+      ]
+    },
+    "th08-stats-remilia": {
+      "original_lines": [
+        "レミリア・Ｓ　　"
+      ],
+      "translated_lines": [
+        "蕾米莉亚·S 　　"
+      ]
+    },
+    "th08-stats-sakuya": {
+      "original_lines": [
+        "十六夜　咲夜　　"
+      ],
+      "translated_lines": [
+        "十六夜咲夜　　　"
+      ]
+    },
+    "th08-stats-sakuya-remilia": {
+      "original_lines": [
+        "咲夜＆レミリア　"
+      ],
+      "translated_lines": [
+        "咲夜＆蕾米莉亚　"
+      ]
+    },
+    "th08-stats-time-since-startup": {
+      "original_lines": [
+        "総起動時間   %.2d:%.2d:%.2d"
+      ],
+      "translated_lines": [
+        "总启动时间 %.2d:%.2d:%.2d"
+      ]
+    },
+    "th08-stats-total-all-characters": {
+      "original_lines": [
+        "全主人公合計　　"
+      ],
+      "translated_lines": [
+        "全主人公合计　　"
+      ]
+    },
+    "th08-stats-total-playtime": {
+      "original_lines": [
+        "総プレイ時間 %.2d:%.2d:%.2d"
+      ],
+      "translated_lines": [
+        "总游戏时间 %.2d:%.2d:%.2d"
+      ]
+    },
+    "th08-stats-youmu": {
+      "original_lines": [
+        "魂魄　妖夢　　　"
+      ],
+      "translated_lines": [
+        "魂魄妖梦　　　　"
+      ]
+    },
+    "th08-stats-youmu-yuyuko": {
+      "original_lines": [
+        "妖夢＆幽々子　　"
+      ],
+      "translated_lines": [
+        "妖梦＆幽幽子　　"
+      ]
+    },
+    "th08-stats-yukari": {
+      "original_lines": [
+        "八雲　紫　　　　"
+      ],
+      "translated_lines": [
+        "八云紫　　　　　"
+      ]
+    },
+    "th08-stats-yuyuko": {
+      "original_lines": [
+        "西行寺　幽々子　"
+      ],
+      "translated_lines": [
+        "西行寺幽幽子　　"
+      ]
+    }
+  }
+}
