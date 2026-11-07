@@ -2,8 +2,8 @@
   "schema_version": 4,
   "channel": "dev",
   "game_id": "th08",
-  "issued_at": "2026-10-19T16:18:23Z",
-  "content_version": "2026.1020.1",
+  "issued_at": "2026-11-07T16:09:22Z",
+  "content_version": "2026.1108.1",
   "minimum_launcher_version": "0.1.3",
   "database_schema_version": 2,
   "targets": [
@@ -37,11 +37,6 @@
       "sha256": "07d07a939aa099ab676da3e1da2bfa889be40ec587b2a315e2c9ee43cf6575c9",
       "byte_length": 22291,
       "path": "files/100d/data/text/times.png"
-    },
-    {
-      "sha256": "0858463b1532bd6db1050c88bd13ac22ea735402991d0cbbf5e9fc0b8efe875b",
-      "byte_length": 15171,
-      "path": "files/100d/data/msg6d.dat.json"
     },
     {
       "sha256": "0f3e152d357abb79281eb93b5f96a1aba837d44bac5ceaa1635aeee074961b0a",
@@ -84,6 +79,11 @@
       "path": "files/100d/data/end03b.end.json"
     },
     {
+      "sha256": "270f218869f1d99c05a473fd3148e461ea3784aeaa9eef3e19ee6aa9803e0cc0",
+      "byte_length": 13540,
+      "path": "files/100d/data/msg7d.dat.json"
+    },
+    {
       "sha256": "279620dc928b33b64560f25d50b7dd3eed4298eb5a174578d6dc25518f4bd80f",
       "byte_length": 51542,
       "path": "files/100d/data/ascii/ascii.png"
@@ -119,11 +119,6 @@
       "path": "files/100d/data/msg2c.dat.json"
     },
     {
-      "sha256": "3674da26e4d4f301f189d068d3b969019eaf8a1fe6ff532a0a82d0dc80f7d3c7",
-      "byte_length": 8401,
-      "path": "files/100d/data/msg4bd.dat.json"
-    },
-    {
       "sha256": "3748b138da1ca54e9cff2407830041f4d3dbecde83fb7ae62036abddefab61f6",
       "byte_length": 35917,
       "path": "files/100d/data/text/stg7txt.png"
@@ -144,6 +139,11 @@
       "path": "files/100d/data/result/music00.png"
     },
     {
+      "sha256": "3db7cf8492f36547c1984c435ffc95e0c9749a932f3532184b20d287eac114ce",
+      "byte_length": 15183,
+      "path": "files/100d/data/msg6d.dat.json"
+    },
+    {
       "sha256": "41124e5e042047e94b63be1cf9bdbf6259a48bfe9bcbf06363cbef0e4f2682a3",
       "byte_length": 5868,
       "path": "files/100d/data/msg1d.dat.json"
@@ -157,11 +157,6 @@
       "sha256": "4940753bbd644e67c3005c839ac2b9a94a0ce3dcf0ffbebdf1ce9db21c666b96",
       "byte_length": 7328,
       "path": "files/100d/data/msg2a.dat.json"
-    },
-    {
-      "sha256": "49fb1ccdcbb323410c8f1adc6bed893dcdcc7997d74c055a94d877b10f9486c5",
-      "byte_length": 19429,
-      "path": "files/100d/data/msg8c.dat.json"
     },
     {
       "sha256": "4a84d6516cd64764c688383a1f7f61699852b4ece38c5650d15b826aaae2fec2",
@@ -269,11 +264,6 @@
       "path": "files/100d/data/title/sl_pltxt7.png"
     },
     {
-      "sha256": "9b95a799a2d21f1dde394ca610f86a7f04d8dcedf2258fc19cc7657c8ddc5631",
-      "byte_length": 13528,
-      "path": "files/100d/data/msg7d.dat.json"
-    },
-    {
       "sha256": "9d338ec91c9475d6e02f12b899376a88c08f9359effae395e6d885df4891740e",
       "byte_length": 13286,
       "path": "files/100d/data/msg5d.dat.json"
@@ -374,6 +364,11 @@
       "path": "files/100d/data/title/sl_pltxt8.png"
     },
     {
+      "sha256": "b881bbc0aca9fc3d89adc54a5f78df968c37eff32f197316fd7f32b068c279c2",
+      "byte_length": 8401,
+      "path": "files/100d/data/msg4bd.dat.json"
+    },
+    {
       "sha256": "b8a3b43e9ed4df0fc3e3b10e5cf24f088221820490e9d3a3b82f6dba6d4a8d90",
       "byte_length": 14139,
       "path": "files/100d/data/face/st01/face_st01_name.png"
@@ -414,14 +409,14 @@
       "path": "files/100d/data/text/stg1txt.png"
     },
     {
+      "sha256": "d6de416a607f51180122d9c2a8bc5b61b87626501db61253111aab5cfd1cd04d",
+      "byte_length": 19429,
+      "path": "files/100d/data/msg8c.dat.json"
+    },
+    {
       "sha256": "d75fc2596b12a3ae09920c1c8865e5722500a7fdf86dd42beb8301fb42642a81",
       "byte_length": 18255,
       "path": "files/100d/data/end03c.end.json"
-    },
-    {
-      "sha256": "d888c766f3259d5243d9df7d174c58393d869ce6e7b9816fbef88b6f3ea3e3ac",
-      "byte_length": 22296,
-      "path": "files/100d/data/msg8d.dat.json"
     },
     {
       "sha256": "dc6d7e0688ff8ed2b24169f64c528923eeb7e520080781f782c9bdeae560be24",
@@ -457,6 +452,11 @@
       "sha256": "edd56e8585a66cd8f628fcfe8bb703a9dfe4d2cfea545ddafe90791e20cd523a",
       "byte_length": 4209,
       "path": "files/100d/data/msg1b.dat.json"
+    },
+    {
+      "sha256": "ee07dfa62aa348feebb76f066faec1cc903cc20489fa1a349e8ab453d213ecfa",
+      "byte_length": 22308,
+      "path": "files/100d/data/msg8d.dat.json"
     },
     {
       "sha256": "f396e8f86f93cac83d10e058d5b9549e0820de1b74bf860d912995fda23ab385",
@@ -1024,7 +1024,7 @@
     {
       "target_id": "th08_100d",
       "resource_path": "data/msg4bd.dat.json",
-      "blob_sha256": "3674da26e4d4f301f189d068d3b969019eaf8a1fe6ff532a0a82d0dc80f7d3c7",
+      "blob_sha256": "b881bbc0aca9fc3d89adc54a5f78df968c37eff32f197316fd7f32b068c279c2",
       "source_encoding": "UTF-8",
       "resource_guard": {
         "original_sha256": "00b43afa101bc10e7a0607a5be3749d9b76aed06b8628ccbb1c73b3a8f6e631b",
@@ -1104,7 +1104,7 @@
     {
       "target_id": "th08_100d",
       "resource_path": "data/msg6d.dat.json",
-      "blob_sha256": "0858463b1532bd6db1050c88bd13ac22ea735402991d0cbbf5e9fc0b8efe875b",
+      "blob_sha256": "3db7cf8492f36547c1984c435ffc95e0c9749a932f3532184b20d287eac114ce",
       "source_encoding": "UTF-8",
       "resource_guard": {
         "original_sha256": "cded9de97322eeadfce66429a42bde1b38fdae935a1c44e82424154d2b9c3d00",
@@ -1144,7 +1144,7 @@
     {
       "target_id": "th08_100d",
       "resource_path": "data/msg7d.dat.json",
-      "blob_sha256": "9b95a799a2d21f1dde394ca610f86a7f04d8dcedf2258fc19cc7657c8ddc5631",
+      "blob_sha256": "270f218869f1d99c05a473fd3148e461ea3784aeaa9eef3e19ee6aa9803e0cc0",
       "source_encoding": "UTF-8",
       "resource_guard": {
         "original_sha256": "e5aae30135605c5ee056f15d04e758c4e8229f21fc8e3588e915398e6f1cf2a7",
@@ -1174,7 +1174,7 @@
     {
       "target_id": "th08_100d",
       "resource_path": "data/msg8c.dat.json",
-      "blob_sha256": "49fb1ccdcbb323410c8f1adc6bed893dcdcc7997d74c055a94d877b10f9486c5",
+      "blob_sha256": "d6de416a607f51180122d9c2a8bc5b61b87626501db61253111aab5cfd1cd04d",
       "source_encoding": "UTF-8",
       "resource_guard": {
         "original_sha256": "bdf04da2fc2edc6d53cf21e78dab4b59cb81ccaa7d55291190f95c00ee59b23b",
@@ -1184,7 +1184,7 @@
     {
       "target_id": "th08_100d",
       "resource_path": "data/msg8d.dat.json",
-      "blob_sha256": "d888c766f3259d5243d9df7d174c58393d869ce6e7b9816fbef88b6f3ea3e3ac",
+      "blob_sha256": "ee07dfa62aa348feebb76f066faec1cc903cc20489fa1a349e8ab453d213ecfa",
       "source_encoding": "UTF-8",
       "resource_guard": {
         "original_sha256": "98368d5a31443189b4e5064413a58d9b5911336e95dc2980e84ae23fa3bd880e",
